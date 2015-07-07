@@ -2,112 +2,146 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="kgpg.svgz">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview18"
-     showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="548.38212"
-     inkscape:cy="15.729457"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2994"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="116px"
-       originy="656px" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="kgpg"
-     transform="translate(116,-932)">
-    <rect
-       style="opacity:0.375;fill:none;stroke:none"
-       id="rect2998"
-       width="24"
-       height="24"
-       x="-116"
-       y="932" />
-    <path
-       id="path3786"
-       d="m -104,934 c -3.41404,0 -6,3.22875 -6,7 l 0,3 0,8 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 0,-3 c 0,-3.77125 -2.58596,-7 -6,-7 z m 0,2 c 2.12596,0 4,2.12325 4,5 l 0,3 -8,0 0,-3 c 0,-2.87675 1.87404,-5 4,-5 z m 0,11 c 0.55228,0 1,0.44772 1,1 0,0.36497 -0.208,0.66914 -0.5,0.84375 l 0,2.15625 -1,0 0,-2.15625 c -0.292,-0.17461 -0.5,-0.47878 -0.5,-0.84375 0,-0.55228 0.44772,-1 1,-1 z"
-       style="opacity:0.375;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       id="rect3768"
-       d="m -104,934 c -3.41404,0 -6,3.22875 -6,7 l 0,3 0,8 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 0,-3 c 0,-3.77125 -2.58596,-7 -6,-7 z m 0,2 c 2.12596,0 4,2.12325 4,5 l 0,3 -8,0 0,-3 c 0,-2.87675 1.87404,-5 4,-5 z m 0,11 c 0.55228,0 1,0.44772 1,1 0,0.36497 -0.208,0.66914 -0.5,0.84375 l 0,2.15625 -1,0 0,-2.15625 c -0.292,-0.17461 -0.5,-0.47878 -0.5,-0.84375 0,-0.55228 0.44772,-1 1,-1 z"
-       style="fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1"
+     width="22"
+     height="22"
+     id="svg2"
+     inkscape:version="0.91 r13725"
+     sodipodi:docname="kgpg.svgz">
+    <sodipodi:namedview
+         pagecolor="#323232"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:window-width="1920"
+         inkscape:window-height="1056"
+         id="namedview18"
+         showgrid="true"
+         inkscape:zoom="22.627417"
+         inkscape:cx="23.926405"
+         inkscape:cy="12.146418"
+         inkscape:window-x="0"
+         inkscape:window-y="-3"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="svg2"
+         inkscape:showpageshadow="false"
+         showborder="false"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0">
+        <inkscape:grid
+             type="xygrid"
+             id="grid2994"
+             empspacing="4"
+             visible="true"
+             enabled="true"
+             snapvisiblegridlinesonly="true"
+             originx="115"
+             originy="655" />
+    </sodipodi:namedview>
+    <defs
+         id="defs4">
+        <linearGradient
+             id="linearGradient3758">
+            <stop
+                 id="stop3760"
+                 style="stop-color:#ffffff;stop-opacity:1"
+                 offset="0" />
+            <stop
+                 id="stop3766"
+                 style="stop-color:#ffffff;stop-opacity:0.39215687"
+                 offset="0.5" />
+            <stop
+                 id="stop3768"
+                 style="stop-color:#ffffff;stop-opacity:0.78431374"
+                 offset="0.75" />
+            <stop
+                 id="stop3762"
+                 style="stop-color:#ffffff;stop-opacity:1"
+                 offset="1" />
+        </linearGradient>
+        <linearGradient
+             x1="41.785717"
+             y1="208.92859"
+             x2="260"
+             y2="208.92859"
+             id="linearGradient3772"
+             xlink:href="#linearGradient3758"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(0,752.36218)" />
+        <linearGradient
+             x1="41.785717"
+             y1="208.92859"
+             x2="260"
+             y2="208.92859"
+             id="linearGradient3825"
+             xlink:href="#linearGradient3758"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(0,752.36218)" />
+    </defs>
+    <metadata
+         id="metadata7">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>obnosim</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <cc:license
+                     rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+            </cc:Work>
+            <cc:License
+                 rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:prohibits
+                     rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="kgpg"
+         transform="translate(115,-933)">
+        <rect
+             style="opacity:0.375;fill:none;stroke:none"
+             id="rect2998"
+             width="22"
+             height="22"
+             x="-115"
+             y="933" />
+        <path
+             id="rect3768"
+             d="m -104,934 c -3.41404,0 -6,3.22875 -6,7 l 0,3 0,8 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 0,-3 c 0,-3.77125 -2.58596,-7 -6,-7 z m 0,2 c 2.12596,0 4,2.12325 4,5 l 0,3 -8,0 0,-3 c 0,-2.87675 1.87404,-5 4,-5 z m 0,11 c 0.55228,0 1,0.44772 1,1 0,0.36497 -0.208,0.66914 -0.5,0.84375 l 0,2.15625 -1,0 0,-2.15625 c -0.292,-0.17461 -0.5,-0.47878 -0.5,-0.84375 0,-0.55228 0.44772,-1 1,-1 z"
+             style="fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             inkscape:connector-curvature="0" />
+    </g>
 </svg>

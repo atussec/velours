@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
+   width="22"
+   height="22"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="dialog.svgz">
@@ -27,12 +27,12 @@
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      id="namedview18"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
      showborder="false"
-     inkscape:zoom="8"
-     inkscape:cx="9.8556953"
-     inkscape:cy="37.794692"
+     inkscape:zoom="16"
+     inkscape:cx="14.135063"
+     inkscape:cy="24.531313"
      inkscape:window-x="0"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -48,8 +48,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-28px"
-       originy="4px" />
+       originx="-29"
+       originy="3" />
   </sodipodi:namedview>
   <defs
      id="defs4" />
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>obnosim</dc:title>
@@ -91,43 +91,33 @@
   </metadata>
   <g
      id="dialog-error"
-     transform="translate(-28,-4)">
+     transform="translate(-29,-5)">
     <rect
-       y="4"
-       x="0"
-       height="24"
-       width="24"
+       y="5"
+       x="1"
+       height="22"
+       width="22"
        id="rect3008"
        style="fill:none;stroke:none" />
     <path
-       id="path3795"
-       style="opacity:0.375;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.6"
        d="m 8,20 8,-8 m -8,0 8,8 m 6,-4 C 22,21.522847 17.522847,26 12,26 6.4771525,26 2,21.522847 2,16 2,10.477153 6.4771525,6 12,6 c 5.522847,0 10,4.477153 10,10 z"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 8,20 8,-8 m -8,0 8,8 m 6,-4 C 22,21.522847 17.522847,26 12,26 6.4771525,26 2,21.522847 2,16 2,10.477153 6.4771525,6 12,6 c 5.522847,0 10,4.477153 10,10 z"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.6"
+       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.5999999;stroke-opacity:1"
        id="path3782"
        inkscape:connector-curvature="0" />
   </g>
   <g
      id="dialog-ok"
-     transform="translate(-28,-4)">
+     transform="translate(-29,-5)">
     <rect
        style="fill:none;stroke:none"
        id="rect3785"
-       width="24"
-       height="24"
-       x="28"
-       y="4" />
-    <path
-       id="path3797"
-       style="opacity:0.375;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.6"
-       d="m 35,17 4,3 6,-7 m 5,3 C 50,21.522847 45.522847,26 40,26 34.477153,26 30,21.522847 30,16 30,10.477153 34.477153,6 40,6 c 5.522847,0 10,4.477153 10,10 z"
-       inkscape:connector-curvature="0" />
+       width="22"
+       height="22"
+       x="29"
+       y="5" />
     <path
        d="m 35,17 4,3 6,-7 m 5,3 C 50,21.522847 45.522847,26 40,26 34.477153,26 30,21.522847 30,16 30,10.477153 34.477153,6 40,6 c 5.522847,0 10,4.477153 10,10 z"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.6"
+       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.5999999;stroke-opacity:1"
        id="path3789"
        inkscape:connector-curvature="0" />
   </g>

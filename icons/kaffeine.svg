@@ -27,14 +27,14 @@
      inkscape:window-width="1200"
      inkscape:window-height="1049"
      id="namedview15"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
      showguides="false"
      showborder="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="8"
-     inkscape:cx="6.1900304"
-     inkscape:cy="5.2355396"
+     inkscape:zoom="16"
+     inkscape:cx="37.046902"
+     inkscape:cy="11.886806"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -104,17 +104,12 @@
   <g
      id="kaffeine">
     <rect
-       y="-9.2651362e-08"
-       x="0"
-       height="24.000002"
-       width="24.000002"
+       y="1.0000019"
+       x="1"
+       height="22"
+       width="22"
        id="rect3780"
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.98999999999999999" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.375"
-       d="m 12,4 c -11,0 -11,-10e-8 -11,8 0,8 0,8 11,8 11,0 11,0 11,-8 C 23,3.9999999 23,4 12,4 z M 9,6.78125 18,12 9,17.21875 9,6.78125 z"
-       id="path2989"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3786"

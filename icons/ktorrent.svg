@@ -2,114 +2,138 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24.009388"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="ktorrent.svgz">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview21"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showborder="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="139.49611"
-     inkscape:cy="-26.185218"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2998"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="0px"
-       originy="-360px" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="ktorrent"
-     transform="translate(0,34.009388)">
-    <rect
-       y="-34"
-       x="0"
-       height="24"
-       width="24"
-       id="rect3000"
-       style="opacity:0.125;fill:none;stroke:none" />
-    <path
-       style="opacity:0.375;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 8,-22 0,-4 -4,0 6,-6 6,6 -4,0 0,8 -4,0 6,6 6,-6 -4,0 0,-4"
-       id="path3772"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
-    <path
-       sodipodi:nodetypes="cccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path3770"
-       d="m 8,-22 0,-4 -4,0 6,-6 6,6 -4,0 0,8 -4,0 6,6 6,-6 -4,0 0,-4"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1"
+     width="22"
+     height="22"
+     id="svg2"
+     inkscape:version="0.91 r13725"
+     sodipodi:docname="ktorrent.svgz">
+    <sodipodi:namedview
+         pagecolor="#323232"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:window-width="1920"
+         inkscape:window-height="1056"
+         id="namedview21"
+         showgrid="true"
+         inkscape:showpageshadow="false"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0"
+         showborder="false"
+         inkscape:zoom="22.627417"
+         inkscape:cx="25.620203"
+         inkscape:cy="12.503187"
+         inkscape:window-x="0"
+         inkscape:window-y="-3"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="svg2">
+        <inkscape:grid
+             type="xygrid"
+             id="grid2998"
+             empspacing="4"
+             visible="true"
+             enabled="true"
+             snapvisiblegridlinesonly="true"
+             originx="-1"
+             originy="-361" />
+    </sodipodi:namedview>
+    <defs
+         id="defs4">
+        <linearGradient
+             id="linearGradient3777">
+            <stop
+                 id="stop3779"
+                 style="stop-color:#ffffff;stop-opacity:1"
+                 offset="0" />
+            <stop
+                 id="stop3785"
+                 style="stop-color:#ffffff;stop-opacity:0.78431374"
+                 offset="0.5" />
+            <stop
+                 id="stop3787"
+                 style="stop-color:#ffffff;stop-opacity:0.39215687"
+                 offset="0.75" />
+            <stop
+                 id="stop3781"
+                 style="stop-color:#ffffff;stop-opacity:1"
+                 offset="1" />
+        </linearGradient>
+        <linearGradient
+             x1="47.3125"
+             y1="902.36218"
+             x2="252.6875"
+             y2="902.36218"
+             id="linearGradient3795"
+             xlink:href="#linearGradient3777"
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="translate(25,-25)" />
+    </defs>
+    <metadata
+         id="metadata7">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>obnosim</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <cc:license
+                     rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+            </cc:Work>
+            <cc:License
+                 rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:prohibits
+                     rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="ktorrent"
+         transform="translate(-1,33)">
+        <rect
+             y="-33"
+             x="1"
+             height="22"
+             width="22"
+             id="rect3000"
+             style="opacity:0.125;fill:none;stroke:none" />
+        <path
+             sodipodi:nodetypes="cccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path3770"
+             d="m 8,-22 0,-4 -4,0 6,-6 6,6 -4,0 0,8 -4,0 6,6 6,-6 -4,0 0,-4"
+             style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
 </svg>

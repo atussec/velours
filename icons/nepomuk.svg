@@ -2,107 +2,110 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   id="svg3768"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="nepomuk.svgz">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview14"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     inkscape:zoom="16"
-     inkscape:cx="26.724905"
-     inkscape:cy="12.515311"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3768">
-    <inkscape:grid
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       type="xygrid"
-       id="grid2991" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3770" />
-  <metadata
-     id="metadata3773">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="nepomuk"
-     transform="translate(0,-1028.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect4302"
-       transform="translate(0,1028.3622)"
-       y="0"
-       x="0"
-       height="24"
-       width="24" />
-    <path
-       id="path3782"
-       transform="translate(0,1028.3622)"
-       d="M 15 2 C 11.134007 2 8 5.134 8 9 C 8 10.39871 8.4182879 11.687929 9.125 12.78125 A 1.50015 1.50015 0 0 0 8.9375 12.9375 L 1.9375 19.9375 A 1.5026019 1.5026019 0 1 0 4.0625 22.0625 L 11.0625 15.0625 A 1.50015 1.50015 0 0 0 11.21875 14.875 C 12.312071 15.581711 13.601292 16 15 16 C 18.865993 16 22 12.866 22 9 C 22 5.134 18.865993 2 15 2 z M 15 4 C 17.761424 4 20 6.2386 20 9 C 20 11.7614 17.761424 14 15 14 C 12.238576 14 10 11.7614 10 9 C 10 6.2386 12.238576 4 15 4 z "
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e0e0e0;fill-opacity:1;stroke:#000000;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1;opacity:0.37500000000000000;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 15 2 C 11.134007 2 8 5.134 8 9 C 8 10.39871 8.4182879 11.687929 9.125 12.78125 A 1.50015 1.50015 0 0 0 8.9375 12.9375 L 1.9375 19.9375 A 1.5026019 1.5026019 0 1 0 4.0625 22.0625 L 11.0625 15.0625 A 1.50015 1.50015 0 0 0 11.21875 14.875 C 12.312071 15.581711 13.601292 16 15 16 C 18.865993 16 22 12.866 22 9 C 22 5.134 18.865993 2 15 2 z M 15 4 C 17.761424 4 20 6.2386 20 9 C 20 11.7614 17.761424 14 15 14 C 12.238576 14 10 11.7614 10 9 C 10 6.2386 12.238576 4 15 4 z "
-       transform="translate(0,1028.3622)"
-       id="path3780" />
-  </g>
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1"
+     width="22"
+     height="22"
+     id="svg3768"
+     inkscape:version="0.91 r13725"
+     sodipodi:docname="nepomuk.svgz">
+    <sodipodi:namedview
+         pagecolor="#323232"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:window-width="1920"
+         inkscape:window-height="1056"
+         id="namedview14"
+         showgrid="true"
+         inkscape:showpageshadow="false"
+         showborder="true"
+         inkscape:zoom="22.627417"
+         inkscape:cx="26.781234"
+         inkscape:cy="15.493168"
+         inkscape:window-x="0"
+         inkscape:window-y="-3"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="nepomuk"
+         fit-margin-top="0"
+         fit-margin-left="0"
+         fit-margin-right="0"
+         fit-margin-bottom="0">
+        <inkscape:grid
+             empspacing="4"
+             visible="true"
+             enabled="true"
+             snapvisiblegridlinesonly="true"
+             type="xygrid"
+             id="grid2991"
+             originx="-1"
+             originy="-1" />
+    </sodipodi:namedview>
+    <defs
+         id="defs3770" />
+    <metadata
+         id="metadata3773">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>obnosim</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <cc:license
+                     rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+            </cc:Work>
+            <cc:License
+                 rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:prohibits
+                     rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <g
+         id="nepomuk"
+         transform="translate(-1,-1029.3622)">
+        <rect
+             style="fill:none;stroke:none"
+             id="rect4302"
+             transform="translate(0,1028.3622)"
+             y="1"
+             x="1"
+             height="22"
+             width="22" />
+        <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+             d="m 16,1 c -3.865993,0 -7,3.134 -7,7 0,1.39871 0.4182879,2.687929 1.125,3.78125 -0.06664,0.0469 -0.1293477,0.09916 -0.1875,0.15625 l -8,8 c -1.41666605,1.416666 0.7083339,3.541666 2.125,2.125 l 8,-8 C 12.11959,14.00435 12.171846,13.94164 12.21875,13.875 13.312071,14.581711 14.601292,15 16,15 19.865993,15 23,11.866 23,8 23,4.134 19.865993,1 16,1 Z m 0,2 c 2.761424,0 5,2.2386 5,5 0,2.7614 -2.238576,5 -5,5 -2.761424,0 -5,-2.2386 -5,-5 0,-2.7614 2.238576,-5 5,-5 z"
+             transform="translate(0,1028.3622)"
+             id="path3780"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ssccssccssssssss" />
+    </g>
 </svg>
