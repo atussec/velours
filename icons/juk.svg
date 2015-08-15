@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24.000078"
-   height="24.002201"
+   width="24"
+   height="24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cantata.svgz">
+   sodipodi:docname="juk.svg">
   <sodipodi:namedview
      pagecolor="#323232"
      bordercolor="#666666"
@@ -29,14 +29,15 @@
      id="namedview10"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:zoom="16"
-     inkscape:cx="30.25115"
-     inkscape:cy="17.584408"
+     inkscape:zoom="11.313708"
+     inkscape:cx="36.401517"
+     inkscape:cy="5.9181137"
      inkscape:window-x="0"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     showborder="false">
+     showborder="true"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2987"
@@ -53,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>obnosim</dc:title>
@@ -84,23 +85,26 @@
   <defs
      id="defs4" />
   <g
-     id="cantata">
+     id="juk"
+     transform="translate(0,2)">
     <rect
-       y="0.0022010803"
+       y="-2"
        x="0"
        height="24"
        width="24"
-       id="rect3785"
-       style="opacity:0.125;fill:none;stroke:none" />
+       id="rect4148"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
+       style="opacity:0.375;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12,0 0,14.505859 C 11.260042,14.176128 10.390035,14.000088 9.5,14 7.0147186,14 5,15.343146 5,17 c 0,1.656854 2.0147186,3 4.5,3 2.485281,0 4.5,-1.343146 4.5,-3 L 14,4 c 4,2 4,5 3,7 l 1,0 C 18.5,10 18.75,9.25 18.875,8.625 19,8 19,7.5 19,7 19,4 14,2 14,0 Z"
+       id="path3336"
        inkscape:connector-curvature="0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.375;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 23,1.0022011 -16,4 0,3 0,1.9999999 0,1 0,6.40625 c -0.5878377,-0.254652 -1.2723548,-0.40625 -2,-0.40625 -2.209139,0 -4,1.343146 -4,3 0,1.656854 1.790861,3 4,3 2.209139,0 4,-1.343146 4,-3 l 0,-9.5 12,-2.9999999 0,6.9062499 c -0.587838,-0.254652 -1.272355,-0.40625 -2,-0.40625 -2.209139,0 -4,1.343146 -4,3 0,1.656854 1.790861,3 4,3 2.209139,0 4,-1.343146 4,-3 l 0,-9.9999999 0,-1 0,-2 0,-2 0,-1 z m -2,3.5 0,2 -12,3 0,-2 12,-3 z"
-       id="path3801" />
+       sodipodi:nodetypes="cccssscccsscc" />
     <path
-       id="path2986"
-       d="m 23,1 -16,4 0,3 0,2 0,1 0,6.40625 C 6.4121623,17.151598 5.7276452,17 5,17 c -2.209139,0 -4,1.343146 -4,3 0,1.656854 1.790861,3 4,3 2.209139,0 4,-1.343146 4,-3 l 0,-9.5 12,-3 0,6.90625 C 20.412162,14.151598 19.727645,14 19,14 c -2.209139,0 -4,1.343146 -4,3 0,1.656854 1.790861,3 4,3 2.209139,0 4,-1.343146 4,-3 L 23,7 23,6 23,4 23,2 23,1 Z m -2,3.5 0,2 -12,3 0,-2 12,-3 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="cccssscccsscc"
+       inkscape:connector-curvature="0"
+       id="path3339"
+       d="m 12,0 0,14.505859 C 11.260042,14.176128 10.390035,14.000088 9.5,14 7.0147186,14 5,15.343146 5,17 c 0,1.656854 2.0147186,3 4.5,3 2.485281,0 4.5,-1.343146 4.5,-3 L 14,4 c 4,2 4,5 3,7 l 1,0 C 18.5,10 18.75,9.25 18.875,8.625 19,8 19,7.5 19,7 19,4 14,2 14,0 Z"
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
