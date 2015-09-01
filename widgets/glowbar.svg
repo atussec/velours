@@ -15,7 +15,7 @@
    height="40"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="glowbar.svgz">
+   sodipodi:docname="glowbar.svg">
   <sodipodi:namedview
      pagecolor="#323232"
      bordercolor="#666666"
@@ -28,12 +28,12 @@
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      id="namedview88"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
      showborder="false"
      inkscape:zoom="8"
-     inkscape:cx="-18.934907"
-     inkscape:cy="-0.51401887"
+     inkscape:cx="-41.160916"
+     inkscape:cy="-1.6919499"
      inkscape:window-x="0"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -266,7 +266,7 @@
        id="path4682" />
   </g>
   <g
-     id="g4748"
+     id="bottomright"
      transform="matrix(-1,0,0,-1,-64,92)"
      inkscape:transform-center-x="-24"
      inkscape:transform-center-y="24">
@@ -311,7 +311,7 @@
   </g>
   <g
      transform="matrix(0,1,-1,0,12,76)"
-     id="bottomright"
+     id="right"
      inkscape:transform-center-x="-24">
     <path
        inkscape:connector-curvature="0"
