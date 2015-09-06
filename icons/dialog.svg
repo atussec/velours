@@ -14,7 +14,7 @@
    height="22"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="dialog.svgz">
+   sodipodi:docname="dialog.svg">
   <sodipodi:namedview
      pagecolor="#323232"
      bordercolor="#666666"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>obnosim</dc:title>

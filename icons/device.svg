@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -15,7 +14,7 @@
    height="22"
    id="svg7826"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="device.svgz">
+   sodipodi:docname="device.svg">
   <sodipodi:namedview
      pagecolor="#323232"
      bordercolor="#666666"
@@ -53,35 +52,7 @@
        originy="-1.0000005" />
   </sodipodi:namedview>
   <defs
-     id="defs7828">
-    <linearGradient
-       id="linearGradient10807">
-      <stop
-         id="stop10809"
-         style="stop-color:#1e1e1e;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop10811"
-         style="stop-color:#787878;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="10.091873"
-       y1="1034.3618"
-       x2="10.091873"
-       y2="1046.397"
-       id="linearGradient10813"
-       xlink:href="#linearGradient10807"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="23"
-       y1="5"
-       x2="23"
-       y2="19"
-       id="linearGradient5201"
-       xlink:href="#linearGradient10807"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs7828" />
   <metadata
      id="metadata7831">
     <rdf:RDF>
@@ -90,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>obnosim</dc:title>
