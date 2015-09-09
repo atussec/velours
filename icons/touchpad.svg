@@ -26,17 +26,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="32.213637"
-     inkscape:cy="5.657759"
+     inkscape:cx="26.838714"
+     inkscape:cy="9.8282"
      inkscape:document-units="px"
      inkscape:current-layer="svg3342"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="px"
-     showborder="false" />
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3340" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3347">
     <rdf:RDF>
@@ -55,10 +59,10 @@
     <rect
        style="opacity:0.125;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3393"
-       width="22"
-       height="22"
-       x="1"
-       y="-27" />
+       width="24"
+       height="24"
+       x="0"
+       y="-28" />
     <path
        inkscape:connector-curvature="0"
        id="path4138"
@@ -71,14 +75,14 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-1,27)"
+     transform="translate(3,27)"
      id="touchpad_disabled"
      style="opacity:0.375">
     <rect
-       y="-27"
-       x="24"
-       height="22"
-       width="22"
+       y="-28"
+       x="23"
+       height="24"
+       width="24"
        id="rect4208"
        style="opacity:0.125;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
