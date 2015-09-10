@@ -1,143 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="78"
-   height="22"
-   id="svg7538"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="slc.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview40"
-     showgrid="false"
-     borderlayer="false"
-     showborder="false"
-     inkscape:showpageshadow="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="4"
-     inkscape:cx="99.036148"
-     inkscape:cy="30.996705"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7538">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3017"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="7"
-       originy="11" />
-  </sodipodi:namedview>
-  <defs
-     id="defs7540" />
-  <metadata
-     id="metadata7543">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="slc-like"
-     transform="translate(35,-11)">
-    <rect
-       y="11"
-       x="-7"
-       height="22"
-       width="22"
-       id="rect3815"
-       style="fill:none;stroke:none" />
-    <path
-       sodipodi:nodetypes="cscsc"
-       inkscape:connector-curvature="0"
-       d="m 3.9974875,16.950553 c 3.5588342,-5.93139 10.1936715,-2.04934 9.0946445,3.97193 C 12.301434,25.2545 6.3702071,28.813722 3.997651,30 1.6250948,28.813722 -4.3064593,25.2545 -5.0897124,21.010773 c -1.1109269,-6.019086 5.52836567,-9.99161 9.0871999,-4.06022 z"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none"
-       id="path3036" />
-  </g>
-  <g
-     id="slc-share"
-     transform="translate(-21,-11)">
-    <rect
-       transform="scale(-1,1)"
-       style="fill:none;stroke:none"
-       id="rect3828"
-       width="22"
-       height="22"
-       x="-43"
-       y="11" />
-    <path
-       id="path3896"
-       d="m 38,12 c -1.656854,0 -3,1.343146 -3,3 0,0.217462 0.01855,0.420674 0.0625,0.625 l -7.125,4.09375 C 27.414165,19.273844 26.740711,19 26,19 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 0.740711,0 1.414165,-0.273844 1.9375,-0.71875 l 7.125,4.09375 C 35.018552,28.579326 35,28.782538 35,29 c 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 -0.724874,0 -1.387673,0.259532 -1.90625,0.6875 L 28.9375,22.53125 C 28.969743,22.355019 29,22.185545 29,22 29,21.814455 28.969743,21.644981 28.9375,21.46875 L 36.09375,17.3125 C 36.612327,17.740468 37.275126,18 38,18 c 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="slc-connect"
-     transform="translate(7,-11)">
-    <rect
-       y="11"
-       x="49"
-       height="22"
-       width="22"
-       id="rect3836"
-       style="fill:none;stroke:none" />
-    <path
-       d="m 57.5,12 c -4.142136,0 -7.5,3.357864 -7.5,7.5 0,4.142136 3.357864,7.5 7.5,7.5 3.726497,0 6.8233,-2.719666 7.40625,-6.28125 C 64.337856,20.359104 63.67149,20.136567 62.96875,20.0625 62.687095,22.835908 60.347718,25 57.5,25 54.462434,25 52,22.537566 52,19.5 52,16.462434 54.462434,14 57.5,14 c 1.724024,0 3.272824,0.789847 4.28125,2.03125 C 62.017045,16.011376 62.258925,16 62.5,16 c 0.586802,0 1.165421,0.07427 1.71875,0.1875 C 62.992694,13.714582 60.447252,12 57.5,12 Z m 5,5 c -3.726497,0 -6.8233,2.719666 -7.40625,6.28125 0.568394,0.359646 1.23476,0.582183 1.9375,0.65625 C 57.312905,21.164092 59.652282,19 62.5,19 65.537566,19 68,21.462434 68,24.5 68,27.537566 65.537566,30 62.5,30 60.775976,30 59.227176,29.210153 58.21875,27.96875 57.982955,27.988624 57.741075,28 57.5,28 56.913198,28 56.334579,27.925728 55.78125,27.8125 57.007306,30.285418 59.552748,32 62.5,32 66.642136,32 70,28.642136 70,24.5 70,20.357864 66.642136,17 62.5,17 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       id="path3913"
-       inkscape:connector-curvature="0" />
-  </g>
+<svg id="svg7538" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="78" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata7543">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="slc-like" transform="translate(35,-11)">
+		<rect id="rect3815" style="fill:none" height="22" width="22" y="11" x="-7"/>
+		<path id="path3036" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m3.9975 16.951c3.5588-5.9314 10.194-2.0493 9.0946 3.9719-.791 4.331-6.7218 7.891-9.0943 9.077-2.3726-1.186-8.3042-4.746-9.0874-8.989-1.1109-6.0191 5.5284-9.9916 9.0872-4.0602z"/>
+	</g>
+	<g id="slc-share" transform="translate(-21,-11)">
+		<rect id="rect3828" style="fill:none" transform="scale(-1,1)" height="22" width="22" y="11" x="-43"/>
+		<path id="path3896" style="text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m38 12c-1.6569 0-3 1.3431-3 3 0 .21746.01855.42067.0625.625l-7.125 4.0938c-.523-.445-1.196-.719-1.937-.719-1.6569 0-3 1.3431-3 3s1.3431 3 3 3c.74071 0 1.4142-.27384 1.9375-.71875l7.125 4.0938c-.044.204-.063.408-.063.625 0 1.6569 1.3431 3 3 3s3-1.3431 3-3-1.3431-3-3-3c-.72487 0-1.3877.25953-1.9062.6875l-7.156-4.157c.032-.176.062-.345.062-.531s-.030-.355-.062-.531l7.156-4.157c.518.428 1.181.688 1.906.688 1.6569 0 3-1.3431 3-3s-1.3431-3-3-3z"/>
+	</g>
+	<g id="slc-connect" transform="translate(7,-11)">
+		<rect id="rect3836" style="fill:none" height="22" width="22" y="11" x="49"/>
+		<path id="path3913" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m57.5 12c-4.1421 0-7.5 3.3579-7.5 7.5s3.3579 7.5 7.5 7.5c3.7265 0 6.8233-2.7197 7.4062-6.2812-.568-.360-1.235-.582-1.937-.657-.282 2.774-2.621 4.938-5.469 4.938-3.038 0-5.5-2.462-5.5-5.5s2.462-5.5 5.5-5.5c1.724 0 3.2728.78985 4.2812 2.0312.236-.020.478-.031.719-.031.58680 0 1.1654.07427 1.7188.1875-1.226-2.473-3.772-4.188-6.719-4.188zm5 5c-3.7265 0-6.8233 2.7197-7.4062 6.2812.56839.35965 1.2348.58218 1.9375.65625.282-2.773 2.621-4.937 5.469-4.937 3.038 0 5.5 2.462 5.5 5.5s-2.462 5.5-5.5 5.5c-1.724 0-3.273-.790-4.281-2.031-.236.020-.478.031-.719.031-.587 0-1.165-.074-1.719-.188 1.226 2.473 3.772 4.188 6.719 4.188 4.142 0 7.5-3.358 7.5-7.5s-3.358-7.5-7.5-7.5z"/>
+	</g>
 </svg>

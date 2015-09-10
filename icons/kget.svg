@@ -1,108 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg14997"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="kget.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview97"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     inkscape:zoom="16"
-     inkscape:cx="36.869869"
-     inkscape:cy="9.9819093"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg14997"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3074"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-1"
-       originy="-1" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata15003">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs15001" />
-  <g
-     id="kget"
-     transform="translate(-1,-1)">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3844"
-       style="opacity:0.125;fill:none;fill-opacity:1;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3846"
-       d="m 12,22 -8,-8 5,0 0,-12 6,0 0,12 5,0 z"
-       style="fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
+<svg id="svg14997" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata15003">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="kget" transform="translate(-1,-1)">
+		<rect id="rect3844" style="opacity:.125;fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path3846" d="m12 22-8-8h5v-12h6v12h5z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+	</g>
 </svg>

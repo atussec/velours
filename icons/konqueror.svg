@@ -1,115 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg3013"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="konqueror.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview13"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="25.90328"
-     inkscape:cy="14.011583"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="konqueror"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2990"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-1"
-       originy="-1" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3015" />
-  <metadata
-     id="metadata3018">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="konqueror"
-     transform="translate(-1,-1)">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3804"
-       style="opacity:0.375;fill:none;stroke:none" />
-    <path
-       id="path2994"
-       d="M 3.75,7.3125 C 3.302074,7.6923324 2.8800129,8.094041 2.53125,8.53125 l 0,1 L 3.5625,10.375 C 3.3629244,10.782052 3.2188429,11.213718 3.125,11.65625 l -2.0625,0.3125 C 1.0327241,12.214959 1,12.466753 1,12.71875 c 0,0.167708 0.012777,0.334058 0.03125,0.5 C 1.01278,13.384692 1,13.551042 1,13.71875 c 0,0.251997 0.03272,0.503791 0.0625,0.75 l 2.0625,0.3125 c 0.09384,0.442532 0.237925,0.874198 0.4375,1.28125 l -1.03125,0.84375 0,1 C 2.880013,18.343459 3.302074,18.745167 3.75,19.125 l 1.875,-0.65625 c 0.618245,0.461431 1.346496,0.845486 2.125,1.15625 l -0.09375,0.625 0,1 c 0.618544,0.198776 1.26651,0.35686 1.9375,0.46875 l 1.03125,-1.375 c 0.452464,0.05228 0.902911,0.09375 1.375,0.09375 0.472089,0 0.922536,-0.04147 1.375,-0.09375 l 1.03125,1.375 c 0.67099,-0.11189 1.318956,-0.269974 1.9375,-0.46875 l 0,-1 L 16.25,19.625 c 0.778504,-0.310764 1.506755,-0.694819 2.125,-1.15625 L 20.25,19.125 c 0.447926,-0.379833 0.869987,-0.781541 1.21875,-1.21875 l 0,-1 -1.03125,-0.84375 c 0.199575,-0.407052 0.343657,-0.838718 0.4375,-1.28125 l 2.0625,-0.3125 C 22.96728,14.222541 23,13.970747 23,13.71875 c 0,-0.167708 -0.01278,-0.334058 -0.03125,-0.5 C 22.98722,13.052808 23,12.886458 23,12.71875 c 0,-0.251997 -0.03271,-0.503791 -0.0625,-0.75 L 20.875,11.65625 C 20.781158,11.213718 20.637076,10.782052 20.4375,10.375 l 1.03125,-0.84375 0,-1 C 21.119993,8.094041 20.697925,7.6923324 20.25,7.3125 l -0.40625,0.125 C 19.942646,7.9400396 20,8.468466 20,9 20,11.654859 18.709596,14.013553 16.71875,15.46875 15.620557,16.516728 13.920754,17.1875 12,17.1875 10.079245,17.1875 8.3794421,16.516728 7.28125,15.46875 5.2904038,14.013553 4,11.654859 4,9 4,8.468466 4.0573537,7.9400396 4.15625,7.4375 L 3.75,7.3125 Z"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <circle
-       transform="translate(0,-6)"
-       id="path3775"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       cx="12"
-       cy="15"
-       r="7" />
-  </g>
+<svg id="svg3013" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata3018">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="konqueror" transform="translate(-1,-1)">
+		<rect id="rect3804" style="opacity:.375;fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path2994" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m3.75 7.3125c-.4479.3798-0.87.7815-1.2188 1.2187v1l1.0313.8438c-.1996.407-.3437.839-.4375 1.281l-2.0625.3125c-.0298.247-.0625.499-.0625.751 0 .16771.012777.33406.03125.5-.0184.166-.0312.332-.0312 0.5 0 0.252.03272.50379.0625.75l2.0625.3125c.09384.44253.23792.87420.4375 1.2812l-1.0312.84375v1c.3487.436.7708.838 1.2187 1.218l1.875-.65625c.61824.46143 1.3465.84549 2.125 1.1562l-.09375.625v1c.61854.19878 1.2665.35686 1.9375.46875l1.0312-1.375c.45246.05228.90291.09375 1.375.09375s.92254-.04147 1.375-.09375l1.0312 1.375c.67099-.11189 1.319-.26997 1.9375-.46875v-1l-.094-.625c.77850-.31076 1.5068-.69482 2.125-1.1562l1.875.656c.44793-.37983.86999-.78154 1.2188-1.2188v-1l-1.0312-.84375c.19958-.40705.34366-.83872.4375-1.2812l2.0625-.3125c.029-.245.062-.497.062-.749 0-.16771-.01278-.33406-.03125-.5.018-.166.031-.333.031-0.5 0-0.252-.03271-.50379-.0625-.75l-2.063-.313c-.094-.442-.238-.874-.437-1.281l1.0312-.84375v-1c-.349-.4372-.771-.8389-1.219-1.2187l-.40625.125c.099.5025.156 1.031.156 1.5625 0 2.655-1.29 5.014-3.281 6.469-1.098 1.048-2.798 1.719-4.719 1.719s-3.6206-.671-4.7188-1.719c-1.9908-1.455-3.2812-3.814-3.2812-6.469 0-.5315.0574-1.06.1562-1.5625l-.4062-.1250z"/>
+		<circle id="path3775" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" cx="12" transform="translate(0,-6)" cy="15" r="7"/>
+	</g>
 </svg>

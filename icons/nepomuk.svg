@@ -1,111 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg3768"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="nepomuk.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview14"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="26.781234"
-     inkscape:cy="15.493168"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="nepomuk"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       type="xygrid"
-       id="grid2991"
-       originx="-1"
-       originy="-1" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3770" />
-  <metadata
-     id="metadata3773">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="nepomuk"
-     transform="translate(-1,-1029.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect4302"
-       transform="translate(0,1028.3622)"
-       y="1"
-       x="1"
-       height="22"
-       width="22" />
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
-       d="m 16,1 c -3.865993,0 -7,3.134 -7,7 0,1.39871 0.4182879,2.687929 1.125,3.78125 -0.06664,0.0469 -0.1293477,0.09916 -0.1875,0.15625 l -8,8 c -1.41666605,1.416666 0.7083339,3.541666 2.125,2.125 l 8,-8 C 12.11959,14.00435 12.171846,13.94164 12.21875,13.875 13.312071,14.581711 14.601292,15 16,15 19.865993,15 23,11.866 23,8 23,4.134 19.865993,1 16,1 Z m 0,2 c 2.761424,0 5,2.2386 5,5 0,2.7614 -2.238576,5 -5,5 -2.761424,0 -5,-2.2386 -5,-5 0,-2.7614 2.238576,-5 5,-5 z"
-       transform="translate(0,1028.3622)"
-       id="path3780"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssccssccssssssss" />
-  </g>
+<svg id="svg3768" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata3773">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="nepomuk" transform="translate(-1 -1029.4)">
+		<rect id="rect4302" style="fill:none" transform="translate(0 1028.4)" height="22" width="22" y="1" x="1"/>
+		<path id="path3780" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m16 1c-3.866 0-7 3.134-7 7 0 1.3987.41829 2.6879 1.125 3.7812-.06664.0469-.12935.09916-.1875.15625l-8 8c-1.4167 1.4167.70833 3.5417 2.125 2.125l8-8c.058-.058.110-.120.157-.187 1.093.707 2.382 1.125 3.781 1.125 3.866 0 7-3.134 7-7s-3.134-7-7-7zm0 2c2.7614 0 5 2.2386 5 5s-2.2386 5-5 5-5-2.2386-5-5 2.2386-5 5-5z" transform="translate(0 1028.4)"/>
+	</g>
 </svg>

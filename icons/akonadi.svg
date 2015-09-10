@@ -1,120 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="17.6pt"
-   height="17.6pt"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="akonadi.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview3061"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="27.45182"
-     inkscape:cy="13.834025"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="akonadi"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3063"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-1"
-       originy="-1.000001" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata31">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4" />
-  <g
-     id="akonadi"
-     transform="translate(-1,-1)">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3065"
-       style="opacity:0.25;fill:none;stroke:none" />
-    <path
-       id="path3932"
-       d="m 2,12 c 0,5.522847 4.4771525,10 10,10 5.522847,0 10,-4.477153 10,-10 0,1.656854 -4.477153,3 -10,3 C 6.4771525,15 2,13.656854 2,12 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cccsscsc"
-       inkscape:connector-curvature="0"
-       id="path3934"
-       d="M 5.625,5.625 C 3.8911468,7.3588532 3.0231917,9.6284094 3,11.90625 3.00147,11.93748 3.00147,11.96877 3,12 c 0,-0.03615 0.00919,0.08429 0.375,0.34375 0.3658053,0.259458 1.0059735,0.561167 1.84375,0.8125 C 6.4953417,13.539228 8.1967535,13.8215 10.125,13.9375 10.11429,13.92682 10.10446,13.91696 10.09375,13.90625 6.5790309,10.391532 4.5705843,6.6794157 5.625,5.625 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="sccsssscsscss"
-       inkscape:connector-curvature="0"
-       id="path3936"
-       d="M 12,4 C 9.8223944,4 7.8487732,4.8698101 6.40625,6.28125 6.3960652,6.2918951 6.3856451,6.3023152 6.375,6.3125 6.3754191,6.3122548 6.347461,6.32115 6.34375,6.34375 6.33633,6.38895 6.34211,6.4965066 6.375,6.6875 6.440788,7.0694868 6.6595579,7.686764 7.03125,8.375 c 0.7433842,1.376472 2.0810158,3.112266 3.78125,4.8125 0.281558,0.281558 0.562035,0.551881 0.84375,0.8125 0.115871,0.0013 0.226868,0 0.34375,0 2.680357,0 5.105697,-0.341084 6.78125,-0.84375 0.47399,-0.142197 0.853918,-0.311077 1.1875,-0.46875 C 19.988389,12.458867 20,12.233722 20,12 20,7.581722 16.418278,4 12,4 Z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
-  </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="17.6pt" width="17.6pt" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata31">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="akonadi" transform="translate(-1,-1)">
+		<rect id="rect3065" style="opacity:.25;fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path3932" style="fill:currentColor;opacity:.875" d="m2 12c0 5.5228 4.4772 10 10 10s10-4.4772 10-10c0 1.6569-4.4772 3-10 3s-10-1.343-10-3z" class="ColorScheme-Text"/>
+		<path id="path3934" d="m5.625 5.625c-1.7339 1.7339-2.6018 4.0034-2.625 6.281.0015.031.0015.063 0 .094 0-.03615.00919.08429.375.34375s1.006.56117 1.8438.8125c1.2765.383 2.978.666 4.9062.782-.011-.011-.021-.021-.031-.032-3.515-3.514-5.5234-7.2266-4.469-8.281z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+		<path id="path3936" d="m12 4c-2.1776 0-4.1512.8698-5.5938 2.2812-.0101.0107-.0206.0211-.0312.0313.0004-.0002-.0275.0087-.0312.0313-.0075.0452-.0017.1527.0312.3437.0658.3820.2846.9993.6562 1.6875.74338 1.3765 2.081 3.1123 3.7812 4.8125.28156.28156.56204.55188.84375.8125.11587.0013.22687 0 .34375 0 2.6804 0 5.1057-.34108 6.7812-.84375.47399-.14220.85392-.31108 1.1875-.46875.019-.228.031-.453.031-.687 0-4.4183-3.582-8-8-8z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+	</g>
 </svg>

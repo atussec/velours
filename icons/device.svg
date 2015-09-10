@@ -1,129 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg7826"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="device.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview15"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     inkscape:zoom="16"
-     inkscape:cx="34.019214"
-     inkscape:cy="16.623386"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="device-notifier"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3760"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-1"
-       originy="-1.0000005" />
-  </sodipodi:namedview>
-  <defs
-     id="defs7828" />
-  <metadata
-     id="metadata7831">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="device-notifier"
-     transform="translate(195,35.000001)">
-    <rect
-       transform="translate(-196,3e-5)"
-       y="-35.000031"
-       x="1"
-       height="22"
-       width="22"
-       id="rect2996"
-       style="fill:none;stroke:none" />
-    <path
-       sodipodi:nodetypes="cssssc"
-       inkscape:connector-curvature="0"
-       id="path3779"
-       d="M 5.5500947,-26.724716 C 5.904314,-27.562184 6.4168771,-28.316372 7.0502526,-28.949747 8.3170034,-30.216498 10.067003,-31 12,-31 c 3.865993,0 7,3.134007 7,7 0,1.932996 -0.783502,3.682997 -2.050253,4.949747 -0.633375,0.633376 -1.387563,1.145939 -2.225031,1.500158"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,-209.45584,-15.514689)" />
-    <path
-       id="rect3784"
-       transform="translate(-196,3e-5)"
-       d="m 3,-26 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 l 2,0 2,0 2,0 0,-2 0,-2 -2,0 -2,0 -2,0 z"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="csccccc"
-       inkscape:connector-curvature="0"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none"
-       d="m -175,-25.99997 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 l -2,0 0,-2 0,-2 z"
-       id="path3789" />
-    <path
-       id="path3865"
-       transform="translate(-196,3e-5)"
-       d="m 12,-28 c -2.209139,0 -4,1.790861 -4,4 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 0,-2.209139 -1.790861,-4 -4,-4 z m 0,2 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
+<svg id="svg7826" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata7831">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="device-notifier" transform="translate(195 35)">
+		<rect id="rect2996" style="fill:none" transform="translate(-196,3e-5)" height="22" width="22" y="-35" x="1"/>
+		<path id="path3779" style="stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none;opacity:.875" d="m5.5501-26.725c.3542-.837.8668-1.591 1.5002-2.225 1.2667-1.266 3.0167-2.05 4.9497-2.05 3.866 0 7 3.134 7 7 0 1.933-.78350 3.683-2.0503 4.9497-.63338.63338-1.3876 1.1459-2.225 1.5002" transform="matrix(.70711 .70711 -.70711 .70711 -209.46 -15.515)" class="ColorScheme-Text"/>
+		<path id="rect3784" d="m3-26c-1.108 0-2 .892-2 2s.892 2 2 2h2 2 2v-2-2h-2-2-2z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" transform="translate(-196,3e-5)"/>
+		<path id="path3789" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m-175-26c1.108 0 2 .892 2 2s-.892 2-2 2h-2v-2-2z"/>
+		<path id="path3865" d="m12-28c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4-1.7909-4-4-4zm0 2c1.1046 0 2 .89543 2 2s-.89543 2-2 2-2-.89543-2-2 .89543-2 2-2z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" transform="translate(-196,3e-5)"/>
+	</g>
 </svg>

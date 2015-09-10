@@ -1,125 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="22"
-   height="22"
-   id="svg3727"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="kmail.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview63"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     borderlayer="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="16"
-     inkscape:cx="24.538198"
-     inkscape:cy="18.107657"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3727">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3040"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-29"
-       originy="-5" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata244">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3729" />
-  <g
-     id="kmail"
-     transform="translate(-29,3)">
-    <rect
-       y="-3"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3946"
-       style="fill:none;stroke:none" />
-    <path
-       id="rect3948"
-       d="M 2,1 C 1.446,1 1,1.446 1,2 l 0,12 c 0,0.554 0.446,1 1,1 l 20,0 c 0.554,0 1,-0.446 1,-1 L 23,2 C 23,1.446 22.554,1 22,1 L 2,1 Z m 19.03125,1.40625 a 0.50005,0.50005 0 0 1 0.3125,0.9375 L 16.6875,8 l 4.65625,4.65625 a 0.50005,0.50005 0 1 1 -0.6875,0.6875 L 16,8.6875 12.34375,12.34375 12,12.71875 11.65625,12.34375 8,8.6875 3.34375,13.34375 a 0.50005,0.50005 0 1 1 -0.6875,-0.6875 L 7.3125,8 2.65625,3.34375 A 0.50005,0.50005 0 0 1 2.90625,2.5 0.50005,0.50005 0 0 1 3.34375,2.65625 l 4.84375,4.875 A 0.50005,0.50005 0 0 1 8.21875,7.5625 l 0.125,0.0625 a 0.50005,0.50005 0 0 1 0.125,0.1875 l 3.53125,3.5 3.53125,-3.5 0.03125,-0.03125 A 0.50005,0.50005 0 0 1 15.6875,7.625 l 0.125,-0.09375 4.84375,-4.875 a 0.50005,0.50005 0 0 1 0.375,-0.25 z"
-       style="fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="mail-unread-new"
-     transform="translate(-29,3)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3989"
-       width="22"
-       height="22"
-       x="29"
-       y="-3" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect4011"
-       d="m 40,-2.75 c -1.360753,0 -2.777231,0.6142457 -4.5,1.75 l 9,0 C 42.777231,-2.1357543 41.360753,-2.75 40,-2.75 Z M 31,0 31,2.40625 31,5 l 0,0.3125 1.03125,1 C 32.106953,6.1329219 32.29225,6 32.5,6 l 15,0 c 0.20775,0 0.393047,0.1329219 0.46875,0.3125 L 49,5.3125 49,5 49,2.40625 49,0 45.9375,0 34.0625,0 31,0 Z m 1.5,2 5,0 C 37.777,2 38,2.223 38,2.5 38,2.777 37.777,3 37.5,3 l -5,0 C 32.223,3 32,2.777 32,2.5 32,2.223 32.223,2 32.5,2 Z M 30,3.1875 C 29.647316,3.4753308 29.377736,3.6909434 29,4 l 0,13 c 0,0.554 0.446,1 1,1 l 20,0 c 0.554,0 1,-0.446 1,-1 L 51,4 C 50.622264,3.6909434 50.352684,3.4753308 50,3.1875 L 50,5.5 A 0.50005,0.50005 0 0 1 49.84375,5.84375 L 44.6875,11 l 4.65625,4.65625 a 0.50005,0.50005 0 1 1 -0.6875,0.6875 L 43.8125,11.5 l -7.625,0 -4.84375,4.84375 a 0.50005,0.50005 0 1 1 -0.6875,-0.6875 L 35.3125,11 30.15625,5.84375 A 0.50005,0.50005 0 0 1 30,5.5 L 30,3.1875 Z M 35.4375,4 47.5625,4 C 47.808896,4 48,4.1911045 48,4.4375 l 0,0.125 C 48,4.8088955 47.808896,5 47.5625,5 L 35.4375,5 C 35.191104,5 35,4.8088955 35,4.5625 l 0,-0.125 C 35,4.1911045 35.191104,4 35.4375,4 Z m -2.75,3 1,1 12.625,0 1,-1 -14.625,0 z m 2,2 1,1 8.625,0 1,-1 -10.625,0 z"
-       style="fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
+<svg id="svg3727" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata244">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="kmail" transform="translate(-29,3)">
+		<rect id="rect3946" style="fill:none" height="22" width="22" y="-3" x="1"/>
+		<path id="rect3948" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m2 1c-.554 0-1 .446-1 1v12c0 .554.446 1 1 1h20c.554 0 1-.446 1-1v-12c0-.554-.446-1-1-1h-20zm19.031 1.4062a.50005 .50005 0 0 1 .3125 .9375l-4.656 4.6563 4.6562 4.6562a.50005 .50005 0 1 1 -.6875 .6875l-4.656-4.6565-3.656 3.6565-.344.375-.344-.375-3.656-3.6565-4.6562 4.6565a.50005 .50005 0 1 1 -.6875 -.6875l4.6562-4.656-4.6563-4.6562a.50005 .50005 0 0 1 0.25 -.8438 .50005 .50005 0 0 1 .4376 .1562l4.8438 4.875a.50005 .50005 0 0 1 .0312 .0313l.125.0625a.50005 .50005 0 0 1 .125 .1875l3.5312 3.5 3.5312-3.5.03125-.03125a.50005 .50005 0 0 1 .126 -.1562l.125-.09375 4.8438-4.875a.50005 .50005 0 0 1 .375 -.25z"/>
+	</g>
+	<g id="mail-unread-new" transform="translate(-29,3)">
+		<rect id="rect3989" style="fill:none" height="22" width="22" y="-3" x="29"/>
+		<path id="rect4011" d="m40-2.75c-1.3608 0-2.7772.61425-4.5 1.75h9c-1.723-1.1358-3.139-1.75-4.5-1.75zm-9 2.75v2.4062 2.5938.3125l1.0312 1c.076-.1796.261-.3125.469-.3125h15c.20775 0 .39305.13292.46875.3125l1.031-1v-.3125-2.5938-2.4062h-3.062-11.876-3.062zm1.5 2h5c.277 0 .5.223.5.5s-.223.5-.5.5h-5c-.277 0-.5-.223-.5-.5s.223-.5.5-.5zm-2.5 1.1875c-.353.2878-.622.5034-1 .8125v13c0 .554.446 1 1 1h20c.554 0 1-.446 1-1v-13c-.378-.3091-.647-.5247-1-.8125v2.3125a.50005 .50005 0 0 1 -.156 .3438l-5.156 5.1562 4.6562 4.6562a.50005 .50005 0 1 1 -.6875 .6875l-4.844-4.844h-7.625l-4.8438 4.8438a.50005 .50005 0 1 1 -.6875 -.6875l4.656-4.656-5.156-5.1562a.50005 .50005 0 0 1 -.156 -.3438v-2.3125zm5.438.8125h12.124c.247 0 .438.1911.438.4375v.125c0 .2464-.191.4375-.438.4375h-12.124c-.247 0-.438-.1911-.438-.4375v-.125c0-.2464.191-.4375.438-.4375zm-2.75 3 1 1h12.625l1-1h-14.625zm2 2 1 1h8.625l1-1h-10.625z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+	</g>
 </svg>

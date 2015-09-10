@@ -1,108 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg3115"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="printer.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview15"
-     showgrid="true"
-     showborder="false"
-     inkscape:showpageshadow="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="22.627417"
-     inkscape:cx="29.664318"
-     inkscape:cy="9.5068432"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3115">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2992"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="-0.99999997"
-       originy="-33" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3117" />
-  <metadata
-     id="metadata3120">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="printer"
-     transform="translate(-0.99999997,-1)">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect2994"
-       style="opacity:0.125;fill:none;stroke:none" />
-    <path
-       d="m 4.0008083,2 15.9983837,0 0,6 -15.9983837,0 z m 0,14 -0.999899,7 17.9981817,0 -0.999899,-7 -15.9983837,0 z m 1.9373042,1 12.1237755,0 c 0.24235,0 0.437456,0.195125 0.437456,0.4375 l 0,0.125 c 0,0.242375 -0.195106,0.4375 -0.437456,0.4375 L 5.9381125,18 C 5.695762,18 5.5006567,17.804875 5.5006567,17.5625 l 0,-0.125 C 5.5006567,17.195125 5.695762,17 5.9381125,17 Z m -0.2187279,2.0625 12.5612314,0 c 0.26357,0 0.468702,0.205153 0.468702,0.46875 0,0.263597 -0.205132,0.46875 -0.468702,0.46875 L 5.7193846,20 C 5.4558145,20 5.250682,19.794847 5.250682,19.53125 c 0,-0.263597 0.2051325,-0.46875 0.4687026,-0.46875 z M 5.4694099,21 18.530591,21 c 0.258506,0 0.468702,0.210217 0.468702,0.46875 l 0,0.0625 C 18.999293,21.789783 18.789097,22 18.530591,22 L 5.4694099,22 C 5.2109027,22 5.0007072,21.789783 5.0007072,21.53125 l 0,-0.0625 C 5.0007072,21.210217 5.2109027,21 5.4694099,21 Z M 3.0009093,7.0625 1.1885924,9.75 A 0.9888436,0.98894352 0 0 0 1.1260988,9.84375 0.9888436,0.98894352 0 0 0 1.0636051,10 L 22.936395,10 A 0.9888436,0.98894352 0 0 0 22.873902,9.84375 0.9888436,0.98894352 0 0 0 22.811408,9.75 l -1.812317,-2.6875 0,1.9375 -17.9981817,0 0,-1.9375 z M 1.0011114,11 l 0,6 a 0.9888436,0.98894352 0 0 0 0,0.09375 A 0.9888436,0.98894352 0 0 0 1.9072698,18 L 2.6884409,18 3.0009093,15.84375 3.1258967,15 l 0.8749116,0 15.9983837,0 0.874912,0 0.124987,0.84375 L 21.31156,18 l 0.68743,0 0.09374,0 a 0.9888436,0.98894352 0 0 0 0.906158,-0.90625 0.9888436,0.98894352 0 0 0 0,-0.09375 l 0,-6 -21.9977776,0 z m 1.4998484,1 c 0.2761145,0 0.4999495,0.223858 0.4999495,0.5 0,0.276142 -0.223835,0.5 -0.4999495,0.5 -0.2761145,0 -0.4999495,-0.223858 -0.4999495,-0.5 0,-0.276142 0.223835,-0.5 0.4999495,-0.5 z m 1.999798,0 2.9996968,0 c 0.276972,0 0.4999495,0.223 0.4999495,0.5 0,0.277 -0.2229775,0.5 -0.4999495,0.5 l -2.9996968,0 c -0.2769721,0 -0.4999495,-0.223 -0.4999495,-0.5 0,-0.277 0.2229774,-0.5 0.4999495,-0.5 z"
-       style="fill:#e0e0e0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3776"
-       inkscape:connector-curvature="0" />
-  </g>
+<svg id="svg3115" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+	<metadata id="metadata3120">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="printer" transform="translate(-1 -1)">
+		<rect id="rect2994" style="opacity:.125;fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="rect3776" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m4.0008 2h15.998v6h-15.998zm0 14-.99990 7h17.998l-.99990-7h-15.998zm1.9373 1h12.124c.24235 0 .43746.19512.43746.4375v.125c0 .24238-.19511.4375-.43746.4375h-12.124c-.2422 0-.4373-.195-.4373-.438v-.125c0-.242.1951-.437.4374-.437zm-.21873 2.0625h12.561c.26357 0 .46870.20515.46870.46875s-.20513.46875-.46870.46875h-12.561c-.2632 0-.4683-.205-.4683-.469 0-.26360.20513-.46875.46870-.46875zm-0.25 1.938h13.062c.25851 0 .46870.21022.46870.46875v.0625c-.001.258-.211.468-.469.468h-13.062c-.2581 0-.4683-.210-.4683-.469v-.0625c0-.258.2102-.468.4687-.468zm-2.4685-13.938-1.8123 2.6875a.98884 .98894 0 0 0 -.0625 .0938 .98884 .98894 0 0 0 -.0625 .1562h21.872a.98884 .98894 0 0 0 -.062 -.1562 .98884 .98894 0 0 0 -.063 -.0938l-1.8123-2.6875v1.9375h-17.998v-1.9375zm-1.9998 3.9375v6a.98884 .98894 0 0 0 0 .09375 .98884 .98894 0 0 0 .9062 .906h.7811l.3125-2.156.1250-.844h.87491 15.998.87491l.12499.84375.313 2.156h.68743.09374a.98884 .98894 0 0 0 .90616 -.90625 .98884 .98894 0 0 0 0 -.09375v-6h-21.998zm1.4998 1c.27611 0 .49995.22386.49995.5s-.22384.5-.49995.5-.49995-.22386-.49995-.5.22384-.5.49995-.5zm1.9998 0h2.9997c.27697 0 .49995.223.49995.5s-.22298.5-.49995.5h-2.9997c-.27697 0-.49995-.223-.49995-.5s.22298-.5.49995-.5z"/>
+	</g>
 </svg>

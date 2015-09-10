@@ -1,248 +1,99 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="22"
-   height="22"
-   id="svg7229"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="media.svg">
-  <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview124"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="4"
-     inkscape:cx="82.273471"
-     inkscape:cy="39.747049"
-     inkscape:current-layer="media-eject"
-     showborder="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3452"
-       originx="66"
-       originy="-44"
-       empspacing="11" />
-  </sodipodi:namedview>
-  <defs
-     id="defs7231">
-    <style
-       type="text/css"
-       id="current-color-scheme" />
-  </defs>
-  <metadata
-     id="metadata7234">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:description />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="media-playback-start"
-     transform="translate(66,44)">
-    <rect
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3387"
-       width="22"
-       height="22"
-       x="-66"
-       y="-77" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path3395"
-       d="m -47,-66 -14,-8 0,16 z"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="media-playback-pause"
-     transform="translate(66,44)">
-    <rect
-       y="-77"
-       x="-33"
-       height="22"
-       width="22"
-       id="rect3385"
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="rect4199"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -20,-74 6,0 0,16 -6,0 z m -10,0 6,0 0,16 -6,0 z"
-       class="ColorScheme-Text"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="media-playback-stop"
-     transform="translate(66,44)">
-    <rect
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3383"
-       width="22"
-       height="22"
-       x="0"
-       y="-77" />
-    <rect
-       y="-74"
-       x="3"
-       height="16"
-       width="16"
-       id="rect4201"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     id="media-skip-forward"
-     transform="translate(66,44)">
-    <rect
-       y="-44"
-       x="-66"
-       height="22"
-       width="22"
-       id="rect3381"
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="rect4207"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -50,-41 3,0 0,15.999987 -3,0 z m -13,16 0,-16 13,8 z"
-       class="ColorScheme-Text"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="media-seek-forward"
-     transform="translate(66,44)">
-    <rect
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3379"
-       width="22"
-       height="22"
-       x="-33"
-       y="-44" />
-    <path
-       id="path4211"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -22,-25 0,-16 8,8 z m -8,0 0,-16 8,8 z"
-       class="ColorScheme-Text"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="media-eject"
-     transform="translate(66,44)">
-    <rect
-       y="-44"
-       x="0"
-       height="22"
-       width="22"
-       id="rect3377"
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="rect4215"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3,-30 16,0 0,3 -16,0 z m 0,-2 8,-8 8,8 z"
-       class="ColorScheme-Text"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="media-skip-backward"
-     inkscape:label=""
-     transform="translate(66,44)">
-    <rect
-       y="-110"
-       x="0"
-       height="22"
-       width="22"
-       id="rect3389"
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="rect4219"
-       transform="scale(-1,1)"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -6,-107 3,0 0,15.999987 -3,0 z m -13,16 0,-16 13,8 z"
-       class="ColorScheme-Text"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="media-seek-backward"
-     transform="translate(66,44)">
-    <rect
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3391"
-       width="22"
-       height="22"
-       x="-33"
-       y="-110" />
-    <path
-       id="path4223"
-       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -22,-91 0,-16 -8,8 z m 8,0 0,-16 -8,8 z"
-       class="ColorScheme-Text"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="media-record"
-     transform="translate(66,44)">
-    <rect
-       y="-110"
-       x="-66"
-       height="22"
-       width="22"
-       id="rect3393"
-       style="opacity:0.25;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="7"
-       cy="-99"
-       cx="-55"
-       id="path4225"
-       style="opacity:1;fill:#ff3721;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+<svg id="svg7229" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <defs id="defs3615">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }
+        </style>
+    </defs>
+    <metadata id="metadata7234">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>obnosim</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:description/>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+            </cc:Work>
+            <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+                <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+                <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+                <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+                <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+                <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+                <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <g id="media-playback-start" transform="translate(66,44)">
+        <rect id="rect3387" style="opacity:.25;fill:none" height="22" width="22" y="-77" x="-66"/>
+        <path id="path3395" style="fill:currentColor;opacity:.875" d="m-47-66-14-8v16z" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-playback-pause" transform="translate(66,44)">
+        <rect id="rect3385" style="opacity:.25;fill:none" height="22" width="22" y="-77" x="-33"/>
+        <path id="rect4199" d="m-20-74h6v16h-6zm-10 0h6v16h-6z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-playback-stop" transform="translate(66,44)">
+        <rect id="rect3383" style="opacity:.25;fill:none" height="22" width="22" y="-77" x="0"/>
+        <rect id="rect4201" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" width="16" y="-74" x="3" height="16"/>
+    </g>
+    <g id="media-skip-forward" transform="translate(66,44)">
+        <rect id="rect3381" style="opacity:.25;fill:none" height="22" width="22" y="-44" x="-66"/>
+        <path id="rect4207" d="m-50-41h3v16h-3zm-13 16v-16l13 8z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-seek-forward" transform="translate(66,44)">
+        <rect id="rect3379" style="opacity:.25;fill:none" height="22" width="22" y="-44" x="-33"/>
+        <path id="path4211" d="m-22-25v-16l8 8zm-8 0v-16l8 8z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-eject" transform="translate(66,44)">
+        <rect id="rect3377" style="opacity:.25;fill:none" height="22" width="22" y="-44" x="0"/>
+        <path id="rect4215" d="m3-30h16v3h-16zm0-2 8-8 8 8z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-skip-backward" transform="translate(66,44)">
+        <rect id="rect3389" style="opacity:.25;fill:none" height="22" width="22" y="-110" x="0"/>
+        <path id="rect4219" style="fill:currentColor;opacity:.875" d="m-6-107h3v16h-3zm-13 16v-16l13 8z" transform="scale(-1,1)" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-seek-backward" transform="translate(66,44)">
+        <rect id="rect3391" style="opacity:.25;fill:none" height="22" width="22" y="-110" x="-33"/>
+        <path id="path4223" d="m-22-91v-16l-8 8zm8 0v-16l-8 8z" style="fill:currentColor;opacity:.875" class="ColorScheme-Text"/>
+    </g>
+    <g id="media-record" transform="translate(66,44)">
+        <rect id="rect3393" style="opacity:.25;fill:none" height="22" width="22" y="-110" x="-66"/>
+        <circle id="path4225" style="fill:#ff3721" cy="-99" cx="-55" r="7" class="ColorScheme-Text"/>
+    </g>
 </svg>

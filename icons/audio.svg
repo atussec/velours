@@ -1,256 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="24"
-   id="svg4100"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="audio.svg">
-  <defs
-     id="defs4102" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="123.08334"
-     inkscape:cy="34.937653"
-     inkscape:current-layer="svg4100"
-     showgrid="true"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:showpageshadow="false"
-     showborder="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4165"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="0px"
-       originy="0px" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="95,15"
-       id="guide3032" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="97,9"
-       id="guide3034" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,12"
-       id="guide3036" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="12,24"
-       id="guide3038" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,24"
-       id="guide3042" />
-    <sodipodi:guide
-       position="24,0"
-       orientation="-24,0"
-       id="guide3044" />
-    <sodipodi:guide
-       position="24,24"
-       orientation="0,-24"
-       id="guide3046" />
-    <sodipodi:guide
-       position="0,24"
-       orientation="24,0"
-       id="guide3048" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4105">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="audio-volume-muted"
-     transform="translate(72,0)"
-     style="opacity:1">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3929"
-       width="22"
-       height="22"
-       x="1"
-       y="1" />
-    <path
-       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 3,10 c -1.1045695,0 -2,0.895431 -2,2 0,1.104569 0.8954305,2 2,2 l 1,0 3,3 0,-10 -3,3 z"
-       id="path3937"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssccccs" />
-    <path
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 12,9 6,6"
-       id="path3939"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3941"
-       d="M 12,15 18,9"
-       style="fill:none;stroke:#e0e0e0;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:nodetypes="cc" />
-  </g>
-  <g
-     id="audio-volume-high">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3805"
-       style="fill:none;stroke:none" />
-    <path
-       id="path3783"
-       d="m 7,7 -3,3 -1,0 c -1.1045695,0 -2,0.895431 -2,2 0,1.104569 0.8954305,2 2,2 l 1,0 3,3 0,-10 z"
-       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3788"
-       d="M 18.875,20.78125 C 20.537798,18.258064 21.5,15.247823 21.5,12 21.5,8.7521773 20.537798,5.7419358 18.875,3.21875"
-       style="color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3794"
-       d="M 14.53125,18.3125 C 15.780521,16.527891 16.5,14.343755 16.5,12 16.5,9.6562447 15.780521,7.4721089 14.53125,5.6875"
-       style="color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3796"
-       d="M 10.125,15.78125 C 10.971421,14.746926 11.5,13.440769 11.5,12 11.5,10.559231 10.971421,9.2530745 10.125,8.21875"
-       style="color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
-  <g
-     id="audio-volume-medium"
-     transform="translate(24,0)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3816"
-       width="22"
-       height="22"
-       x="1"
-       y="1" />
-    <path
-       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 7,7 -3,3 -1,0 c -1.1045695,0 -2,0.895431 -2,2 0,1.104569 0.8954305,2 2,2 l 1,0 3,3 0,-10 z"
-       id="path3818"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.1875;color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 18.875,20.78125 C 20.537798,18.258064 21.5,15.247823 21.5,12 21.5,8.7521773 20.537798,5.7419358 18.875,3.21875"
-       id="path3820"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
-    <path
-       style="color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 14.53125,18.3125 C 15.780521,16.527891 16.5,14.343755 16.5,12 16.5,9.6562447 15.780521,7.4721089 14.53125,5.6875"
-       id="path3822"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
-    <path
-       style="color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 10.125,15.78125 C 10.971421,14.746926 11.5,13.440769 11.5,12 11.5,10.559231 10.971421,9.2530745 10.125,8.21875"
-       id="path3824"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
-  </g>
-  <g
-     transform="translate(48,0)"
-     id="audio-volume-low">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3828"
-       style="fill:none;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3830"
-       d="m 7,7 -3,3 -1,0 c -1.1045695,0 -2,0.895431 -2,2 0,1.104569 0.8954305,2 2,2 l 1,0 3,3 0,-10 z"
-       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3832"
-       d="M 18.875,20.78125 C 20.537798,18.258064 21.5,15.247823 21.5,12 21.5,8.7521773 20.537798,5.7419358 18.875,3.21875"
-       style="opacity:0.1875;color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3834"
-       d="M 14.53125,18.3125 C 15.780521,16.527891 16.5,14.343755 16.5,12 16.5,9.6562447 15.780521,7.4721089 14.53125,5.6875"
-       style="opacity:0.1875;color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3836"
-       d="M 10.125,15.78125 C 10.971421,14.746926 11.5,13.440769 11.5,12 11.5,10.559231 10.971421,9.2530745 10.125,8.21875"
-       style="color:#000000;fill:none;stroke:#e0e0e0;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+<svg id="svg4100" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<defs id="defs3615">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#0000FF;
+            }
+            .ColorScheme-Background{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ViewText {
+            color:#31363b;
+            }
+            .ColorScheme-ViewBackground{
+            color:#ffffff;
+            }
+            .ColorScheme-ViewHover {
+            color:#000000;
+            }
+            .ColorScheme-ViewFocus{
+            color:#5a5a5a;
+            }
+            .ColorScheme-ButtonText {
+            color:#31363b;
+            }
+            .ColorScheme-ButtonBackground{
+            color:#E9E8E8;
+            }
+            .ColorScheme-ButtonHover {
+            color:#1489ff;
+            }
+            .ColorScheme-ButtonFocus{
+            color:#2B74C7;
+            }</style>
+	</defs>
+	<metadata id="metadata4105">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g id="audio-volume-muted" transform="translate(72)">
+		<rect id="rect3929" style="fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path3937" class="ColorScheme-Text" style="fill:currentColor" d="m3 10c-1.1046 0-2 .89543-2 2s.89543 2 2 2h1l3 4v-12l-3 4z"/>
+		<path id="path3939" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-width:2;stroke-linecap:round;fill:none" d="m12 9 6 6"/>
+		<path id="path3941" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-width:2;stroke-linecap:round;fill:none" d="m12 15 6-6"/>
+	</g>
+	<g id="audio-volume-high">
+		<rect id="rect3805" style="fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path3783" class="ColorScheme-Text" style="fill:currentColor" d="m7 6-3 4h-1c-1.1046 0-2 .89543-2 2s.89543 2 2 2h1l3 4z"/>
+		<path id="path3788" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812"/>
+		<path id="path3794" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m14.531 18.312c1.25-1.784 1.969-3.968 1.969-6.312 0-2.3438-.719-4.5279-1.969-6.3125"/>
+		<path id="path3796" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m10.125 15.781c.846-1.034 1.375-2.34 1.375-3.781s-.529-2.7469-1.375-3.7812"/>
+	</g>
+	<g id="audio-volume-medium" transform="translate(24)">
+		<rect id="rect3816" style="fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path3818" class="ColorScheme-Text" style="fill:currentColor" d="m7 6-3 4h-1c-1.1046 0-2 .89543-2 2s.89543 2 2 2h1l3 4z"/>
+		<path id="path3820" class="ColorScheme-Text" style="opacity:.1875;stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812"/>
+		<path id="path3822" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m14.531 18.312c1.25-1.784 1.969-3.968 1.969-6.312 0-2.3438-.719-4.5279-1.969-6.3125"/>
+		<path id="path3824" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m10.125 15.781c.846-1.034 1.375-2.34 1.375-3.781s-.529-2.7469-1.375-3.7812"/>
+	</g>
+	<g id="audio-volume-low" transform="translate(48)">
+		<rect id="rect3828" style="fill:none" height="22" width="22" y="1" x="1"/>
+		<path id="path3830" class="ColorScheme-Text" style="fill:currentColor" d="m7 6-3 4h-1c-1.1046 0-2 .89543-2 2s.89543 2 2 2h1l3 4z"/>
+		<path id="path3832" class="ColorScheme-Text" style="opacity:.1875;stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812"/>
+		<path id="path3834" class="ColorScheme-Text" style="opacity:.1875;stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m14.531 18.312c1.25-1.784 1.969-3.968 1.969-6.312 0-2.3438-.719-4.5279-1.969-6.3125"/>
+		<path id="path3836" class="ColorScheme-Text" style="stroke:currentColor;opacity:.875;stroke-linecap:round;stroke-width:3;fill:none" d="m10.125 15.781c.846-1.034 1.375-2.34 1.375-3.781s-.529-2.7469-1.375-3.7812"/>
+	</g>
 </svg>
