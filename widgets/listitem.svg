@@ -1,182 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="59.999699"
-   height="18.000332"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="listitem.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview1628" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5" />
-  <path
-     d="m 24.999699,5 0,10 9.999999,0 0,-10 -9.999999,0 z"
-     id="normal-center"
-     style="fill:none;stroke:none" />
-  <path
-     d="m 1.9996996,5 0,10 10.0000004,0 0,-10 -10.0000004,0 z"
-     id="pressed-center"
-     style="fill:none;stroke:none" />
-  <rect
-     width="3"
-     height="3"
-     rx="0"
-     ry="3"
-     x="16.999699"
-     y="0"
-     id="hint-stretch-borders"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="2"
-     height="6"
-     x="6"
-     y="2.0003347"
-     id="pressed-hint-top-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="2"
-     height="6"
-     x="6"
-     y="12.000332"
-     id="pressed-hint-bottom-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="4"
-     height="2"
-     x="0"
-     y="9.0003357"
-     id="pressed-hint-left-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="4"
-     height="2"
-     x="10.000004"
-     y="9.0003357"
-     id="pressed-hint-right-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="4"
-     height="1.9999999"
-     x="22.999699"
-     y="9"
-     id="normal-hint-left-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="2"
-     height="6"
-     x="28.999699"
-     y="2"
-     id="normal-hint-top-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="2"
-     height="6"
-     x="28.999699"
-     y="11.999996"
-     id="normal-hint-bottom-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="4"
-     height="2"
-     x="32.999699"
-     y="8.9999962"
-     id="normal-hint-right-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="10"
-     height="10"
-     x="47.999397"
-     y="5.0000305"
-     id="section-center"
-     style="opacity:0.06199999;fill:none;stroke:none" />
-  <rect
-     width="2"
-     height="6"
-     x="51.999702"
-     y="1.9999962"
-     id="section-hint-bottom-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="2"
-     height="6"
-     x="51.999397"
-     y="12.000023"
-     id="section-hint-top-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="4"
-     height="1.9999999"
-     x="45.999702"
-     y="8.9999924"
-     id="section-hint-left-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="4"
-     height="2"
-     x="55.999699"
-     y="8.9999924"
-     id="section-hint-right-margin"
-     style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="18" width="60" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<path id="normal-center" style="fill:none" d="m25 5v10h10v-10h-10z"/>
+	<path id="pressed-center" style="fill:none" d="m1.9997 5v10h10v-10h-10z"/>
+	<rect id="hint-stretch-borders" style="fill:#008000" rx="0" ry="3" height="3" width="3" y="0" x="17"/>
+	<rect id="pressed-hint-top-margin" style="fill:#008000" height="6" width="2" y="2.0003" x="6"/>
+	<rect id="pressed-hint-bottom-margin" style="fill:#008000" height="6" width="2" y="12" x="6"/>
+	<rect id="pressed-hint-left-margin" style="fill:#008000" height="2" width="4" y="9.0003" x="0"/>
+	<rect id="pressed-hint-right-margin" style="fill:#008000" height="2" width="4" y="9.0003" x="10"/>
+	<rect id="normal-hint-left-margin" style="fill:#008000" height="2" width="4" y="9" x="23"/>
+	<rect id="normal-hint-top-margin" style="fill:#008000" height="6" width="2" y="2" x="29"/>
+	<rect id="normal-hint-bottom-margin" style="fill:#008000" height="6" width="2" y="12" x="29"/>
+	<rect id="normal-hint-right-margin" style="fill:#008000" height="2" width="4" y="9" x="33"/>
+	<rect id="section-center" style="opacity:0.062;fill:none" height="10" width="10" y="5" x="47.999"/>
+	<rect id="section-hint-bottom-margin" style="fill:#008000" height="6" width="2" y="2" x="52"/>
+	<rect id="section-hint-top-margin" style="fill:#008000" height="6" width="2" y="12" x="51.999"/>
+	<rect id="section-hint-left-margin" style="fill:#008000" height="2" width="4" y="9" x="46"/>
+	<rect id="section-hint-right-margin" style="fill:#008000" height="2" width="4" y="9" x="56"/>
 </svg>

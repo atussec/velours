@@ -1,245 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="11"
-   height="39.000004"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="slider.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2380" />
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient4748">
-      <stop
-         id="stop4750"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4752"
-         style="stop-color:#000000;stop-opacity:0.50196081"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="-93"
-       y1="17"
-       x2="-93"
-       y2="50"
-       id="linearGradient4754"
-       xlink:href="#linearGradient4748"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(98,-13.999996)" />
-    <linearGradient
-       x1="-96"
-       y1="17"
-       x2="-96"
-       y2="50"
-       id="linearGradient4762"
-       xlink:href="#linearGradient4748"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(98,-13.999996)" />
-    <linearGradient
-       x1="-89"
-       y1="17"
-       x2="-89"
-       y2="50"
-       id="linearGradient4770"
-       xlink:href="#linearGradient4748"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(98,-13.999996)" />
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <rect
-     width="5"
-     height="5"
-     ry="0"
-     x="33"
-     y="-68"
-     id="hint-stretch-borders"
-     style="opacity:0.8;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="5"
-     height="33"
-     x="3"
-     y="3.0000038"
-     id="groove-center"
-     style="opacity:0.5;fill:url(#linearGradient4754);fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="3"
-     height="33"
-     x="0"
-     y="3.0000038"
-     id="groove-left"
-     style="opacity:0.5;fill:url(#linearGradient4762);fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     width="3"
-     height="33"
-     x="8"
-     y="3.0000038"
-     id="groove-right"
-     style="opacity:0.5;fill:url(#linearGradient4770);fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <g
-     transform="translate(98,-13.999996)"
-     id="groove-top">
-    <rect
-       width="5"
-       height="3"
-       x="-95"
-       y="13.999996"
-       id="rect4706"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m -95,14 0,1 5,0 0,-1 -5,0 z"
-       id="rect4727"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     transform="translate(98,-13.999996)"
-     id="groove-topleft">
-    <path
-       d="m -95,14 c -1.662,0 -3,1.338 -3,3 l 3,0 0,-3 z"
-       id="rect4716"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m -95,14 c -1.662,0 -3,1.338 -3,3 0,-1.107999 1.338,-2 3,-2 l 0,-1 z"
-       id="path4729"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     transform="translate(98,-13.999996)"
-     id="groove-topright">
-    <path
-       d="m -90,14 c 1.662,0 3,1.338 3,3 l -3,0 0,-3 z"
-       id="path4721"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m -90,14 0,1 c 1.662,0 3,0.892001 3,2 0,-1.662 -1.338,-3 -3,-3 z"
-       id="path4731"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     transform="translate(98,-13.999996)"
-     id="groove-bottom">
-    <rect
-       width="5"
-       height="3"
-       x="-95"
-       y="49.999996"
-       id="rect4708"
-       style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m -95,53 0,-1 5,0 0,1 -5,0 z"
-       id="path4742"
-       style="opacity:0.18800001;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     transform="translate(98,-13.999996)"
-     id="groove-bottomleft">
-    <path
-       d="m -95,53 c -1.662,0 -3,-1.338 -3,-3 l 3,0 0,3 z"
-       id="path4723"
-       style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m -95,53 c -1.662,0 -3,-1.338 -3,-3 0,1.107999 1.338,2 3,2 l 0,1 z"
-       id="path4744"
-       style="opacity:0.18800001;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     transform="translate(98,-13.999996)"
-     id="groove-bottomright">
-    <path
-       d="m -90,53 c 1.662,0 3,-1.338 3,-3 l -3,0 0,3 z"
-       id="path4725"
-       style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       d="m -90,53 0,-1 c 1.662,0 3,-0.892001 3,-2 0,1.662 -1.338,3 -3,3 z"
-       id="path4746"
-       style="opacity:0.18800001;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <path
-     d="m -87,26.5 a 5.5,5.5 0 1 1 -11,0 5.5,5.5 0 1 1 11,0 z"
-     transform="translate(84,-18.999996)"
-     id="vertical-slider-handle"
-     style="opacity:0.75;color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="m -87,26.5 a 5.5,5.5 0 1 1 -11,0 5.5,5.5 0 1 1 11,0 z"
-     transform="translate(98,-6.9999962)"
-     id="vertical-slider-hover"
-     style="opacity:0.875;color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="m -87,26.5 a 5.5,5.5 0 1 1 -11,0 5.5,5.5 0 1 1 11,0 z"
-     transform="translate(84,5.0000038)"
-     id="vertical-slider-focus"
-     style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="m -87,26.5 a 5.5,5.5 0 1 1 -11,0 5.5,5.5 0 1 1 11,0 z"
-     transform="translate(112,-18.999996)"
-     id="horizontal-slider-handle"
-     style="opacity:0.75;color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="m -87,26.5 a 5.5,5.5 0 1 1 -11,0 5.5,5.5 0 1 1 11,0 z"
-     transform="translate(112,-6.9999962)"
-     id="horizontal-slider-hover"
-     style="opacity:0.875;color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="m -87,26.5 a 5.5,5.5 0 1 1 -11,0 5.5,5.5 0 1 1 11,0 z"
-     transform="translate(112,5.0000038)"
-     id="horizontal-slider-focus"
-     style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="39" width="11" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<defs id="defs4">
+		<linearGradient id="linearGradient4748">
+			<stop id="stop4750" style="stop-color:#000000" offset="0"/>
+			<stop id="stop4752" style="stop-color:#000000;stop-opacity:.50196" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient4754" y2="50" xlink:href="#linearGradient4748" gradientUnits="userSpaceOnUse" x2="-93" gradientTransform="translate(98 -14)" y1="17" x1="-93"/>
+		<linearGradient id="linearGradient4762" y2="50" xlink:href="#linearGradient4748" gradientUnits="userSpaceOnUse" x2="-96" gradientTransform="translate(98 -14)" y1="17" x1="-96"/>
+		<linearGradient id="linearGradient4770" y2="50" xlink:href="#linearGradient4748" gradientUnits="userSpaceOnUse" x2="-89" gradientTransform="translate(98 -14)" y1="17" x1="-89"/>
+	</defs>
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<rect id="hint-stretch-borders" style="opacity:.8;fill:#008000" ry="0" height="5" width="5" y="-68" x="33"/>
+	<rect id="groove-center" style="opacity:.5;fill:url(#linearGradient4754)" height="33" width="5" y="3" x="3"/>
+	<rect id="groove-left" style="opacity:.5;fill:url(#linearGradient4762)" height="33" width="3" y="3" x="0"/>
+	<rect id="groove-right" style="opacity:.5;fill:url(#linearGradient4770)" height="33" width="3" y="3" x="8"/>
+	<g id="groove-top" transform="translate(98 -14)">
+		<rect id="rect4706" style="opacity:.5;fill:#000000" height="3" width="5" y="14" x="-95"/>
+		<path id="rect4727" style="opacity:.5;fill:#000000" d="m-95 14v1h5v-1h-5z"/>
+	</g>
+	<g id="groove-topleft" transform="translate(98 -14)">
+		<path id="rect4716" style="opacity:.5;fill:#000000" d="m-95 14c-1.662 0-3 1.338-3 3h3v-3z"/>
+		<path id="path4729" style="opacity:.5;fill:#000000" d="m-95 14c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+	</g>
+	<g id="groove-topright" transform="translate(98 -14)">
+		<path id="path4721" style="opacity:.5;fill:#000000" d="m-90 14c1.662 0 3 1.338 3 3h-3v-3z"/>
+		<path id="path4731" style="opacity:.5;fill:#000000" d="m-90 14v1c1.662 0 3 0.892 3 2 0-1.662-1.338-3-3-3z"/>
+	</g>
+	<g id="groove-bottom" transform="translate(98 -14)">
+		<rect id="rect4708" style="opacity:.25;fill:#000000" height="3" width="5" y="50" x="-95"/>
+		<path id="path4742" style="opacity:0.188;fill:#ffffff" d="m-95 53v-1h5v1h-5z"/>
+	</g>
+	<g id="groove-bottomleft" transform="translate(98 -14)">
+		<path id="path4723" style="opacity:.25;fill:#000000" d="m-95 53c-1.662 0-3-1.338-3-3h3v3z"/>
+		<path id="path4744" style="opacity:0.188;fill:#ffffff" d="m-95 53c-1.662 0-3-1.338-3-3 0 1.108 1.338 2 3 2v1z"/>
+	</g>
+	<g id="groove-bottomright" transform="translate(98 -14)">
+		<path id="path4725" style="opacity:.25;fill:#000000" d="m-90 53c1.662 0 3-1.338 3-3h-3v3z"/>
+		<path id="path4746" style="opacity:0.188;fill:#ffffff" d="m-90 53v-1c1.662 0 3-0.892 3-2 0 1.662-1.338 3-3 3z"/>
+	</g>
+	<path id="vertical-slider-handle" style="opacity:.75;color:#000000;fill:#e0e0e0" d="m-87 26.5a5.5 5.5 0 1 1 -11 0 5.5 5.5 0 1 1 11 0z" transform="translate(84 -19)"/>
+	<path id="vertical-slider-hover" style="opacity:.875;color:#000000;fill:#e0e0e0" d="m-87 26.5a5.5 5.5 0 1 1 -11 0 5.5 5.5 0 1 1 11 0z" transform="translate(98 -7)"/>
+	<path id="vertical-slider-focus" style="color:#000000;fill:#e0e0e0" d="m-87 26.5a5.5 5.5 0 1 1 -11 0 5.5 5.5 0 1 1 11 0z" transform="translate(84 5)"/>
+	<path id="horizontal-slider-handle" style="opacity:.75;color:#000000;fill:#e0e0e0" d="m-87 26.5a5.5 5.5 0 1 1 -11 0 5.5 5.5 0 1 1 11 0z" transform="translate(112 -19)"/>
+	<path id="horizontal-slider-hover" style="opacity:.875;color:#000000;fill:#e0e0e0" d="m-87 26.5a5.5 5.5 0 1 1 -11 0 5.5 5.5 0 1 1 11 0z" transform="translate(112 -7)"/>
+	<path id="horizontal-slider-focus" style="color:#000000;fill:#e0e0e0" d="m-87 26.5a5.5 5.5 0 1 1 -11 0 5.5 5.5 0 1 1 11 0z" transform="translate(112 5)"/>
 </svg>

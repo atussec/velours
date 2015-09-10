@@ -1,159 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="7"
-   height="7"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="kickoff.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview268" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>obnosim</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
-      </cc:Work>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5" />
-  <g
-     transform="translate(-1562,1.5849278)"
-     id="layer1"
-     style="display:none" />
-  <g
-     transform="translate(-1562,1.5849278)"
-     id="layer2"
-     style="display:inline" />
-  <g
-     transform="translate(867.061,-1478.2944)"
-     id="g2424"
-     style="display:none" />
-  <g
-     transform="translate(867.061,-1478.2944)"
-     id="g2426"
-     style="opacity:0.875;display:inline" />
-  <g
-     transform="translate(913.0388,-509.4318)"
-     id="g3429"
-     style="opacity:0.875" />
-  <g
-     transform="translate(2699.3293,-125.97372)"
-     id="g19758"
-     style="opacity:0.875" />
-  <g
-     transform="translate(3804.1545,-1004.243)"
-     id="g3935"
-     style="opacity:0.875" />
-  <g
-     transform="translate(1406.2848,-1019.5902)"
-     id="g8459"
-     style="opacity:0.875" />
-  <g
-     transform="translate(55.4673,309.02136)"
-     id="g28391"
-     style="opacity:0.875" />
-  <g
-     transform="translate(1160.2925,-569.248)"
-     id="g28393"
-     style="opacity:0.875" />
-  <g
-     transform="translate(-1237.5772,-584.5952)"
-     id="g28395"
-     style="opacity:0.875" />
-  <g
-     transform="translate(2201.9673,301.02136)"
-     id="g6598"
-     style="opacity:0.875" />
-  <g
-     transform="translate(3306.7925,-577.248)"
-     id="g6640"
-     style="opacity:0.875" />
-  <g
-     transform="translate(908.9228,-592.59523)"
-     id="g6716"
-     style="opacity:0.875" />
-  <g
-     transform="matrix(1,0,0,-1,-262,761.97836)"
-     id="g6850"
-     style="opacity:0.40202715" />
-  <text
-     x="-38"
-     y="258.94711"
-     id="text6990"
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.875;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"><tspan
-       x="-38"
-       y="258.94711"
-       id="tspan6992" /></text>
-  <text
-     x="-14.722275"
-     y="243.52769"
-     id="text2705"
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.875;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans"><tspan
-       x="-14.722275"
-       y="243.52769"
-       id="tspan2707" /></text>
-  <rect
-     width="7"
-     height="7"
-     x="0"
-     y="0"
-     id="plain-center"
-     style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="7" width="7" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>obnosim</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+			</cc:Work>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<text id="text6990" y="258.94711" x="-38" xml:space="preserve" style="opacity:.875;font-size:14px;font-family:Gill Sans;fill:#000000;line-height:125%;font-weight:bold;text-align:justify"><tspan id="tspan6992" y="258.94711" x="-38"/></text>
+	<text id="text2705" y="243.52769" x="-14.722275" xml:space="preserve" style="opacity:.875;font-size:14px;font-family:Gill Sans;fill:#000000;line-height:125%;font-weight:bold;text-align:justify"><tspan id="tspan2707" y="243.52769" x="-14.722275"/></text>
+	<rect id="plain-center" style="opacity:0" height="7" width="7" y="0" x="0"/>
 </svg>
