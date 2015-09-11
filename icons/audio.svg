@@ -72,15 +72,15 @@
 	<g id="audio-volume-medium" transform="translate(24)">
 		<rect id="rect3816" style="fill:none" height="22" width="22" y="1" x="1"/>
 		<path id="path3818" style="opacity:.875;fill:currentColor" d="m7 7-3 3h-1c-1.1046 0-2 .89543-2 2s.89543 2 2 2h1l3 3z" class="ColorScheme-Text"/>
-		<path id="path3820" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812" style="opacity:.375;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
+		<path id="path3820" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812" style="opacity:.1875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
 		<path id="path3822" d="m14.531 18.312c1.25-1.784 1.969-3.968 1.969-6.312 0-2.3438-.719-4.5279-1.969-6.3125" style="opacity:.875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
 		<path id="path3824" d="m10.125 15.781c.846-1.034 1.375-2.34 1.375-3.781s-.529-2.7469-1.375-3.7812" style="opacity:.875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
 	</g>
 	<g id="audio-volume-low" transform="translate(48)">
 		<rect id="rect3828" style="fill:none" height="22" width="22" y="1" x="1"/>
 		<path id="path3830" style="opacity:.875;fill:currentColor" d="m7 7-3 3h-1c-1.1046 0-2 .89543-2 2s.89543 2 2 2h1l3 3z" class="ColorScheme-Text"/>
-		<path id="path3832" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812" style="opacity:.375;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
-		<path id="path3834" d="m14.531 18.312c1.25-1.784 1.969-3.968 1.969-6.312 0-2.3438-.719-4.5279-1.969-6.3125" style="opacity:.375;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
+		<path id="path3832" d="m18.875 20.781c1.663-2.523 2.625-5.533 2.625-8.781 0-3.2478-.962-6.2581-2.625-8.7812" style="opacity:.1875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
+		<path id="path3834" d="m14.531 18.312c1.25-1.784 1.969-3.968 1.969-6.312 0-2.3438-.719-4.5279-1.969-6.3125" style="opacity:.1875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
 		<path id="path3836" d="m10.125 15.781c.846-1.034 1.375-2.34 1.375-3.781s-.529-2.7469-1.375-3.7812" style="opacity:.875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:3" class="ColorScheme-Text"/>
 	</g>
 </svg>
