@@ -61,10 +61,10 @@
 	</g>
 	<g id="window-pin">
 		<rect id="rect4193" style="fill:none" height="8" width="8" y="2" x="-36"/>
-		<path id="path4199" style="stroke:currentColor;stroke-linecap:round;stroke-width:.99938;fill:none" d="m-35.495 9.4953 3.4953-3.5004 3.4953 3.5004m-6.9905-3.0003 3.4953-3.5004 3.4953 3.5004" class="ColorScheme-Text"/>
+		<path id="path4199" style="stroke:currentColor;stroke-linecap:round;stroke-width:.99938;fill:none;opacity:.875" d="m-35.495 9.4953 3.4953-3.5004 3.4953 3.5004m-6.9905-3.0003 3.4953-3.5004 3.4953 3.5004" class="ColorScheme-Text"/>
 	</g>
 	<g id="window-unpin">
 		<rect id="rect4195" style="fill:none" height="8" width="8" y="2" x="-24"/>
-		<path id="path4204" style="stroke:currentColor;stroke-width:.99938;stroke-linecap:round;fill:none" d="m-23.495 9.4953 3.495-3.5004 3.495 3.5004m-6.99-3.0004 3.495-3.5004l3.4953 3.5004" class="ColorScheme-Text"/>
+		<path id="path4204" style="stroke:currentColor;stroke-width:.99938;stroke-linecap:round;fill:none;opacity:.875" d="m-23.495 9.4953 3.495-3.5004 3.495 3.5004m-6.99-3.0004 3.495-3.5004l3.4953 3.5004" class="ColorScheme-Text"/>
 	</g>
 </svg>

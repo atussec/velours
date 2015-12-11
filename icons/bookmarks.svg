@@ -58,6 +58,6 @@
 	</metadata>
 	<g id="bookmarks">
 		<rect id="rect4148" style="fill:none" height="22" width="22" y="0" x="0"/>
-		<path id="path3340" class="ColorScheme-Text" style="fill-rule:evenodd;fill:currentColor" d="m11 1.0902 2.989 6.9413 7.526.6980-5.678 4.9875 1.661 7.373-6.498-3.858-6.4984 3.858 1.6617-7.373-5.6779-4.9875 7.5253-.6980z"/>
+		<path id="path3340" class="ColorScheme-Text" style="fill-rule:evenodd;fill:currentColor;opacity:.875" d="m11 1.0902 2.989 6.9413 7.526.6980-5.678 4.9875 1.661 7.373-6.498-3.858-6.4984 3.858 1.6617-7.373-5.6779-4.9875 7.5253-.6980z"/>
 	</g>
 </svg>
