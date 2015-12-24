@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <defs id="defs3615">
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text {
+	<defs id="defs3615">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#0000FF;
             }
             .ColorScheme-Background{
@@ -15,7 +14,7 @@
             color:#ffffff;
             }
             .ColorScheme-ViewHover {
-            color:#000000;
+            color:currentColor;
             }
             .ColorScheme-ViewFocus{
             color:#5a5a5a;
@@ -31,9 +30,8 @@
             }
             .ColorScheme-ButtonFocus{
             color:#2B74C7;
-            }
-        </style>
-    </defs>
+            }</style>
+	</defs>
 	<metadata id="metadata7">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
@@ -58,12 +56,20 @@
 			</cc:License>
 		</rdf:RDF>
 	</metadata>
-	<g id="dialog-error" transform="translate(-29,-5)">
+	<g id="22-22-dialog-error" transform="translate(-29,-5)">
 		<rect id="rect3008" style="fill:none" height="22" width="22" y="5" x="1"/>
-		<path id="path3782" style="stroke-linejoin:round;stroke-dashoffset:2.6;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none;opacity:.875" d="m8 20 8-8m-8 0 8 8m6-4c0 5.523-4.477 10-10 10-5.5228 0-10-4.477-10-10s4.4772-10 10-10 10 4.4772 10 10z" class="ColorScheme-Text"/>
+		<path id="path3782" class="ColorScheme-Text" style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:2.6;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m8 20 8-8m-8 0 8 8m6-4c0 5.523-4.477 10-10 10-5.5228 0-10-4.477-10-10s4.4772-10 10-10 10 4.4772 10 10z"/>
 	</g>
-	<g id="dialog-ok" transform="translate(-29,-5)">
+	<g id="22-22-dialog-ok" transform="translate(-29,-5)">
 		<rect id="rect3785" style="fill:none" height="22" width="22" y="5" x="29"/>
-		<path id="path3789" style="stroke-dashoffset:2.6;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none;opacity:.875" d="m35 17 4 3 6-7m5 3c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10c5.5228 0 10 4.4772 10 10z" class="ColorScheme-Text"/>
+		<path id="path3789" class="ColorScheme-Text" style="opacity:.875;stroke-dashoffset:2.6;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m35 17 4 3 6-7m5 3c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10c5.5228 0 10 4.4772 10 10z"/>
+	</g>
+	<g id="dialog-error" transform="matrix(1.3333 0 0 1.3333 -32 -39.333)">
+		<rect id="rect3344" style="fill:none" height="24" width="24" y="4" x="0"/>
+		<path id="path4160" class="ColorScheme-Text" style="opacity:.875;stroke-dashoffset:1;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m21.75 16c0 5.3848-4.3652 9.75-9.75 9.75s-9.75-4.3652-9.75-9.75 4.3652-9.75 9.75-9.75 9.75 4.3652 9.75 9.75zm-13.5-3.75 7.5 7.5m-7.75 0 7.75-7.5"/>
+	</g>
+	<g id="dialog-ok" transform="matrix(1.3333 0 0 1.3333 -37.333 -39.333)">
+		<rect id="rect3350" style="fill:none" height="24" width="24" y="4" x="28"/>
+		<path id="path4164" class="ColorScheme-Text" style="opacity:.875;stroke-dashoffset:1;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m49.75 16c0 5.3848-4.3652 9.75-9.75 9.75s-9.75-4.3652-9.75-9.75 4.3652-9.75 9.75-9.75 9.75 4.3652 9.75 9.75zm-15 .75 4.5 3.75 6-7.5"/>
 	</g>
 </svg>
