@@ -101,8 +101,8 @@
 		<path id="path4324" class="ColorScheme-Text" style="opacity:.875;fill:currentColor" d="m-31 6c-.554 0-1 .446-1 1v2c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1v2c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v-8c0-.554-.446-1-1-1h-18zm7 3 9 2h-6l1 2-9-2h6l-1-2z"/>
 	</g>
 	<g id="22-22-AcAdapter" transform="translate(11)">
-		<path id="rect4359" class="ColorScheme-Text" style="fill:currentColor;fill-rule:evenodd" d="m24 6h18c.554 0 1 .446 1 1v8c0 .554-.446 1-1 1h-18c-.554 0-1-.446-1-1v-8c0-.554.446-1 1-1zm0-1h18c1.108 0 2 .892 2 2v8c0 1.108-.892 2-2 2h-18c-1.108 0-2-.892-2-2v-8c0-1.108.892-2 2-2z"/>
 		<rect id="rect4366" style="fill:none" height="22" width="22" y="0" x="22"/>
+		<path id="rect4359" class="ColorScheme-Text" style="opacity:.875;fill:currentColor;fill-rule:evenodd" d="m24 6h18c.554 0 1 .446 1 1v8c0 .554-.446 1-1 1h-18c-.554 0-1-.446-1-1v-8c0-.554.446-1 1-1zm0-1h18c1.108 0 2 .892 2 2v8c0 1.108-.892 2-2 2h-18c-1.108 0-2-.892-2-2v-8c0-1.108.892-2 2-2z"/>
 	</g>
 	<g id="22-22-Fill30" transform="translate(0,-154)">
 		<rect id="rect4457" style="fill:none" height="22" width="22" y="0" x="0"/>
@@ -162,7 +162,7 @@
 	</g>
 	<g id="32-32-AcAdapter">
 		<rect id="rect4428" style="fill:none" height="32" width="32" y="-10" x="128"/>
-		<rect id="rect4501" class="ColorScheme-Text" style="stroke-linejoin:round;stroke-dashoffset:1;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" ry="3" height="14" width="28" y="-1" x="130"/>
+		<rect id="rect4501" class="ColorScheme-Text" style="opacity:.875;stroke:currentColor;stroke-width:2;fill:none" ry="3" height="14" width="28" y="-1" x="130"/>
 	</g>
 	<g id="32-32-Unavailable">
 		<rect id="rect4511" style="fill:none" transform="translate(64)" height="32" width="32" y="-10" x="96"/>
