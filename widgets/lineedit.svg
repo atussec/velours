@@ -29,41 +29,99 @@
 		</rdf:RDF>
 	</metadata>
 	<defs id="defs5">
-		<linearGradient id="linearGradient4059-7" xlink:href="#linearGradient3887-2" gradientUnits="userSpaceOnUse" x2="0" y1="20"/>
-		<linearGradient id="linearGradient3887-2">
-			<stop id="stop3889-7" style="stop-color:#f8f8f8" offset="0"/>
-			<stop id="stop3891-7" style="stop-color:#f0f0f0" offset="1"/>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+			color:#0000FF;
+			}
+			.ColorScheme-Background{
+			color:#E9E8E8;
+			}
+			.ColorScheme-ViewText {
+			color:#31363b;
+			}
+			.ColorScheme-ViewBackground{
+			color:#ff ffff;
+			}
+			.ColorScheme-ViewHover {
+			color:#000000;
+			}
+			.ColorScheme-ViewFocus{
+			color:#5a5a5a;
+			}
+			.ColorScheme-ButtonText {
+			color:#31363b;
+			}
+			.ColorScheme-ButtonBackground{
+			color:#E9E8E8;
+			}
+			.ColorScheme-ButtonHover {
+			color:#1489ff;
+			}
+			.ColorScheme-ButtonFocus{
+			color:#2B74C7;
+			}</style>
+		<linearGradient id="linearGradient4240">
+			<stop id="stop4242" style="stop-color:#000000;stop-opacity:.031373" offset="0"/>
+			<stop id="stop4244" style="stop-color:#000000;stop-opacity:.015686" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient4061-6" xlink:href="#linearGradient3887-2" gradientUnits="userSpaceOnUse" x2="10" y1="20" x1="10"/>
+		<linearGradient id="linearGradient4217">
+			<stop id="stop4219" style="stop-color:#000000;stop-opacity:.062745" offset="0"/>
+			<stop id="stop4221" style="stop-color:#000000;stop-opacity:.054902" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient4171">
+			<stop id="stop4173" style="stop-color:#000000;stop-opacity:.054902" offset="0"/>
+			<stop id="stop4175" style="stop-color:#000000;stop-opacity:.031373" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient4177" y2="17" xlink:href="#linearGradient4171" gradientUnits="userSpaceOnUse" x2="10.5" y1="3" x1="10.5"/>
+		<linearGradient id="linearGradient4223" y2="3" xlink:href="#linearGradient4217" gradientUnits="userSpaceOnUse" x2="10" x1="10"/>
+		<linearGradient id="linearGradient4246" y2="20" xlink:href="#linearGradient4240" gradientUnits="userSpaceOnUse" x2="10.5" y1="17" x1="10.5"/>
+		<linearGradient id="linearGradient4269" y2="3" xlink:href="#linearGradient4217" gradientUnits="userSpaceOnUse" x2="10" gradientTransform="translate(-3)" x1="10"/>
+		<linearGradient id="linearGradient4338" y2="20" xlink:href="#linearGradient4240" gradientUnits="userSpaceOnUse" x2="10.5" gradientTransform="translate(-3)" y1="17" x1="10.5"/>
 	</defs>
 	<rect id="base-hint-stretch-borders" style="fill:#008000" rx="0" ry="4" height="4" width="4" y="-5" x="20"/>
-	<g id="base-topleft">
-		<path id="rect3922" style="fill:url(#linearGradient4059-7)" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z"/>
-		<path id="path3914" style="opacity:0.062;fill:#000000" d="m3 0c-1.662 0-3 1.338-3 3 0-.554 1.338-1 3-1v-2z"/>
+	<g id="base-center">
+		<rect id="rect3363" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" height="14" width="14" y="3" x="3"/>
+		<rect id="rect4169" style="fill-rule:evenodd;fill:url(#linearGradient4177)" height="14" width="14" y="3" x="3"/>
 	</g>
-	<g id="base-topright">
-		<path id="rect3934" style="fill:url(#linearGradient4061-6)" d="m17 0v3h3c0-1.662-1.338-3-3-3z"/>
-		<path id="path4028" style="opacity:0.062;fill:#000000" d="m17 0v2c1.662 0 3 .446 3 1 0-1.662-1.338-3-3-3z"/>
+	<g id="base-right" transform="translate(14)">
+		<rect id="rect4189" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" height="14" width="3" y="3" x="3"/>
+		<rect id="rect4191" style="fill:url(#linearGradient4177);fill-rule:evenodd" height="14" width="3" y="3" x="3"/>
+	</g>
+	<g id="base-left" transform="translate(-3)">
+		<rect id="rect4199" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" height="14" width="3" y="3" x="3"/>
+		<rect id="rect4201" style="fill:url(#linearGradient4177);fill-rule:evenodd" height="14" width="3" y="3" x="3"/>
 	</g>
 	<g id="base-top">
-		<g id="g4012">
-			<path id="rect3936" style="fill:url(#linearGradient4061-6)" d="m3 0v3h14v-3h-14z"/>
-		</g>
-		<path id="rect3879" style="opacity:0.062;fill:#000000" d="m3 0v2h14v-2h-14z"/>
-	</g>
-	<path id="base-center" style="fill:url(#linearGradient4061-6)" d="m3 3v14h14v-14h-14z"/>
-	<path id="base-left" style="fill:url(#linearGradient4061-6)" d="m0 3v14h3v-14h-3z"/>
-	<path id="base-right" style="fill:url(#linearGradient4061-6)" d="m17 3v14h3v-14h-3z"/>
-	<g id="base-bottomright">
-		<path id="rect3932" style="fill:url(#linearGradient4061-6)" d="m17 17v3c1.662 0 3-1.338 3-3h-3z"/>
-		<path id="rect3895" style="fill:#ffffff" d="m20 17c0 1.108-1.338 2-3 2v1c1.662 0 3-1.338 3-3z"/>
-	</g>
-	<g id="base-bottomleft">
-		<path id="rect3926" style="fill:url(#linearGradient4061-6)" d="m0 17c0 1.662 1.338 3 3 3v-3h-3z"/>
-		<path id="path3916" style="fill:#ffffff" d="m0 17c0 1.662 1.338 3 3 3v-1c-1.662 0-3-.892-3-2z"/>
+		<rect id="rect3365" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" height="3" width="14" y="0" x="3"/>
+		<rect id="rect4215" style="fill-rule:evenodd;fill:url(#linearGradient4223)" height="3" width="14" y="0" x="3"/>
+		<rect id="rect4227" style="fill-rule:evenodd;fill:#000000;fill-opacity:.062745" height="2" width="14" y="0" x="3"/>
 	</g>
 	<g id="base-bottom">
-		<path id="rect3928" style="fill:url(#linearGradient4061-6)" d="m3 17v3h14v-3h-14z"/>
-		<path id="path3918" style="opacity:.875;fill:#ffffff" d="m3 19v1h14v-1h-14z"/>
+		<rect id="rect3367" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" height="3" width="14" y="17" x="3"/>
+		<rect id="rect4238" style="fill-rule:evenodd;fill:url(#linearGradient4246)" height="3" width="14" y="17" x="3"/>
+		<rect id="rect4248" style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.37647" height="1" width="14" y="19" x="3"/>
+	</g>
+	<g id="base-topleft" transform="translate(-3)">
+		<g id="g4297">
+			<path id="rect4263" d="m3 0a3 3 0 0 0 -3 3h3v-3z" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" transform="translate(3)"/>
+			<path id="rect4265" d="m3 0a3 3 0 0 0 -3 3h3v-3z" style="fill-rule:evenodd;fill:url(#linearGradient4269)" transform="translate(3)"/>
+			<path id="rect4267" d="m3 0a3 3 0 0 0 -3 3 3 1 0 0 1 3 -1v-2z" style="fill-rule:evenodd;fill:#000000;fill-opacity:.062745" transform="translate(3)"/>
+		</g>
+	</g>
+	<g id="base-topright" transform="matrix(-1,0,0,1,23,0)">
+		<g id="g4306">
+			<path id="path4308" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" transform="translate(3)" d="m3 0a3 3 0 0 0 -3 3h3v-3z"/>
+			<path id="path4310" style="fill:url(#linearGradient4269);fill-rule:evenodd" transform="translate(3)" d="m3 0a3 3 0 0 0 -3 3h3v-3z"/>
+			<path id="path4312" style="fill-rule:evenodd;fill:#000000;fill-opacity:.062745" transform="translate(3)" d="m3 0a3 3 0 0 0 -3 3 3 1 0 0 1 3 -1v-2z"/>
+		</g>
+	</g>
+	<g id="base-bottomleft" transform="translate(-3)">
+		<path id="rect4332" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" d="m0 17a3 3 0 0 0 3 3v-3h-3z" transform="translate(3)"/>
+		<path id="rect4334" style="fill-rule:evenodd;fill:url(#linearGradient4338)" d="m0 17a3 3 0 0 0 3 3v-3h-3z" transform="translate(3)"/>
+		<path id="rect4336" style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.37647" d="m.0078125 17.141a3 3 0 0 0 2.9922 2.859v-1a3 2 0 0 1 -2.9922 -1.859z" transform="translate(3)"/>
+	</g>
+	<g id="base-bottomright" transform="matrix(-1,0,0,1,23,0)">
+		<path id="path4357" d="m0 17a3 3 0 0 0 3 3v-3h-3z" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text" transform="translate(3)"/>
+		<path id="path4359" d="m0 17a3 3 0 0 0 3 3v-3h-3z" style="fill:url(#linearGradient4338);fill-rule:evenodd" transform="translate(3)"/>
+		<path id="path4361" d="m.0078125 17.141a3 3 0 0 0 2.9922 2.859v-1a3 2 0 0 1 -2.9922 -1.859z" style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.37647" transform="translate(3)"/>
 	</g>
 </svg>
