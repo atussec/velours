@@ -18,8 +18,8 @@
 		<linearGradient id="linearGradient4254" x1="-92.5" xlink:href="#linearGradient4248" gradientUnits="userSpaceOnUse" x2="-92.5" gradientTransform="matrix(.90909 0 0 .90909 89.091 -3.9091)" y1="21" y2="32"/>
 		<linearGradient id="linearGradient4262" x1="-92.5" xlink:href="#linearGradient4256" gradientUnits="userSpaceOnUse" x2="-92.5" gradientTransform="matrix(.90909 0 0 .90909 89.091 -2.7273)" y1="21" y2="32"/>
 		<linearGradient id="linearGradient4239">
-			<stop id="stop4241" style="stop-color:#c01200" offset="0"/>
-			<stop id="stop4243" style="stop-color:#ff3621" offset="1"/>
+			<stop id="stop4241" style="stop-color:#c00000" offset="0"/>
+			<stop id="stop4243" style="stop-color:#ff2121" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient4394" x1="-92" xlink:href="#linearGradient4239" gradientUnits="userSpaceOnUse" y1="20" gradientTransform="translate(128,-14)" x2="-92" y2="14"/>
 		<linearGradient id="linearGradient4396" x1="-89" xlink:href="#linearGradient4239" gradientUnits="userSpaceOnUse" y1="20" gradientTransform="translate(128,-14)" x2="-89" y2="14"/>
@@ -107,9 +107,9 @@
 		<path id="path4230" style="color:#000000;opacity:.375;fill:url(#radialGradient3423)" d="m0 12v11c0 6.6667 10 6.6667 10 0v-11z"/>
 		<path id="path4232" style="color:#000000;fill:#ffffff" d="m10 20a5 5 0 0 1 -10 0 5 5 0 1 1 10 0z"/>
 	</g>
-	<rect id="groove-highlight-center" style="fill:#df2410" height="33" width="5" y="3" x="33"/>
-	<rect id="groove-highlight-left" style="fill:#df2410" height="33" width="3" y="3" x="30"/>
-	<rect id="groove-highlight-right" style="fill:#df2410" height="33" width="3" y="3" x="38"/>
+	<rect id="groove-highlight-center" style="fill:#df1010" height="33" width="5" y="3" x="33"/>
+	<rect id="groove-highlight-left" style="fill:#df1010" height="33" width="3" y="3" x="30"/>
+	<rect id="groove-highlight-right" style="fill:#df1010" height="33" width="3" y="3" x="38"/>
 	<rect id="groove-highlight-top" style="fill:url(#linearGradient4394)" height="3" width="5" y="0" x="33"/>
 	<path id="groove-highlight-topleft" style="fill:url(#linearGradient4406)" d="m33 0c-1.662 0-3 1.338-3 3h3v-3z"/>
 	<path id="groove-highlight-topright" style="fill:url(#linearGradient4396)" d="m38 0c1.662 0 3 1.338 3 3h-3v-3z"/>
