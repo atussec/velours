@@ -25,63 +25,55 @@
 		</rdf:RDF>
 	</metadata>
 	<defs id="defs3615">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-			color:#0000FF;
-			}
-			.ColorScheme-Background{
-			color:#E9E8E8;
-			}
-			.ColorScheme-ViewText {
-			color:#31363b;
-			}
-			.ColorScheme-ViewBackground{
-			color:#ffffff;
-			}
-			.ColorScheme-ViewHover {
-			color:#000000;
-			}
-			.ColorScheme-ViewFocus{
-			color:#5a5a5a;
-			}
-			.ColorScheme-ButtonText {
-			color:#31363b;
-			}
-			.ColorScheme-ButtonBackground{
-			color:#E9E8E8;
-			}
-			.ColorScheme-ButtonHover {
-			color:#1489ff;
-			}
-			.ColorScheme-ButtonFocus{
-			color:#2B74C7;
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text {	color:#0000FF; }
+			.ColorScheme-Background { color:#FF0000; }
 			}</style>
 	</defs>
 	<rect id="hint-scrollbar-size" style="fill:#278000" height="7" width="7" y="-8.625" x="-40.875"/>
-	<rect id="slider-left" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" height="5" width="3" y="3" x="9.0735e-7"/>
-	<rect id="slider-right" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" height="5" width="3" y="3" x="8"/>
-	<rect id="slider-center" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" height="5" width="5" y="3" x="3"/>
-	<path id="slider-topleft" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z"/>
-	<path id="slider-topright" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" d="m8 0c1.662 0 3 1.338 3 3h-3v-3z"/>
-	<rect id="slider-top" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" height="3" width="5" y="0" x="3"/>
-	<path id="slider-bottomleft" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" d="m3 11c-1.662 0-3-1.338-3-3h3v3z"/>
-	<path id="slider-bottomright" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" d="m8 11c1.662 0 3-1.338 3-3h-3v3z"/>
-	<rect id="slider-bottom" class="ColorScheme-Text" style="opacity:.375;fill:currentColor" height="3" width="5" y="8" x="3"/>
-	<rect id="mouseover-slider-center" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" height="5" width="5" y="3" x="17"/>
-	<rect id="mouseover-slider-top" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" height="3" width="5" y="0" x="17"/>
-	<rect id="mouseover-slider-bottom" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" height="3" width="5" y="8" x="17"/>
-	<rect id="mouseover-slider-left" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" height="5" width="3" y="3" x="14"/>
-	<rect id="mouseover-slider-right" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" height="5" width="3" y="3" x="22"/>
-	<path id="mouseover-slider-topleft" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" d="m17 0c-1.662 0-3 1.338-3 3h3v-3z"/>
-	<path id="mouseover-slider-topright" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" d="m22 0c1.662 0 3 1.338 3 3h-3v-3z"/>
-	<path id="mouseover-slider-bottomleft" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" d="m17 11c-1.662 0-3-1.338-3-3h3v3z"/>
-	<path id="mouseover-slider-bottomright" class="ColorScheme-Text" style="opacity:.5;fill:currentColor" d="m22 11c1.662 0 3-1.338 3-3h-3v3z"/>
-	<rect id="sunken-slider-left" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" height="5" width="3" y="3" x="28"/>
-	<rect id="sunken-slider-right" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" height="5" width="3" y="3" x="36"/>
-	<rect id="sunken-slider-center" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" height="5" width="5" y="3" x="31"/>
-	<path id="sunken-slider-topleft" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m31 0c-1.662 0-3 1.338-3 3h3v-3z"/>
-	<path id="sunken-slider-topright" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m36 0c1.662 0 3 1.338 3 3h-3v-3z"/>
-	<rect id="sunken-slider-top" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" height="3" width="5" y="0" x="31"/>
-	<path id="sunken-slider-bottomleft" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m31 11c-1.662 0-3-1.338-3-3h3v3z"/>
-	<path id="sunken-slider-bottomright" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m36 11c1.662 0 3-1.338 3-3h-3v3z"/>
-	<rect id="sunken-slider-bottom" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" height="3" width="5" y="8" x="31"/>
+	<rect id="slider-left" style="opacity:.375;fill:currentColor" class="ColorScheme-Text" height="5" width="3" y="3" x="9.0735e-7"/>
+	<rect id="slider-right" style="opacity:.375;fill:currentColor" class="ColorScheme-Text" height="5" width="3" y="3" x="8"/>
+	<rect id="slider-center" style="opacity:.375;fill:currentColor" class="ColorScheme-Text" height="5" width="5" y="3" x="3"/>
+	<path id="slider-topleft" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z" style="opacity:.375;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="slider-topright" d="m8 0c1.662 0 3 1.338 3 3h-3v-3z" style="opacity:.375;fill:currentColor" class="ColorScheme-Text"/>
+	<rect id="slider-top" style="opacity:.375;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="0" x="3"/>
+	<path id="slider-bottomleft" d="m3 11c-1.662 0-3-1.338-3-3h3v3z" style="opacity:.375;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="slider-bottomright" d="m8 11c1.662 0 3-1.338 3-3h-3v3z" style="opacity:.375;fill:currentColor" class="ColorScheme-Text"/>
+	<rect id="slider-bottom" style="opacity:.375;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="8" x="3"/>
+	<rect id="mouseover-slider-center" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="5" width="5" y="3" x="17"/>
+	<rect id="mouseover-slider-top" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="0" x="17"/>
+	<rect id="mouseover-slider-bottom" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="8" x="17"/>
+	<rect id="mouseover-slider-left" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="5" width="3" y="3" x="14"/>
+	<rect id="mouseover-slider-right" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="5" width="3" y="3" x="22"/>
+	<path id="mouseover-slider-topleft" d="m17 0c-1.662 0-3 1.338-3 3h3v-3z" style="opacity:.5;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="mouseover-slider-topright" d="m22 0c1.662 0 3 1.338 3 3h-3v-3z" style="opacity:.5;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="mouseover-slider-bottomleft" d="m17 11c-1.662 0-3-1.338-3-3h3v3z" style="opacity:.5;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="mouseover-slider-bottomright" d="m22 11c1.662 0 3-1.338 3-3h-3v3z" style="opacity:.5;fill:currentColor" class="ColorScheme-Text"/>
+	<rect id="sunken-slider-left" style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="5" width="3" y="3" x="28"/>
+	<rect id="sunken-slider-right" style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="5" width="3" y="3" x="36"/>
+	<rect id="sunken-slider-center" style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="5" width="5" y="3" x="31"/>
+	<path id="sunken-slider-topleft" d="m31 0c-1.662 0-3 1.338-3 3h3v-3z" style="opacity:.25;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="sunken-slider-topright" d="m36 0c1.662 0 3 1.338 3 3h-3v-3z" style="opacity:.25;fill:currentColor" class="ColorScheme-Text"/>
+	<rect id="sunken-slider-top" style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="0" x="31"/>
+	<path id="sunken-slider-bottomleft" d="m31 11c-1.662 0-3-1.338-3-3h3v3z" style="opacity:.25;fill:currentColor" class="ColorScheme-Text"/>
+	<path id="sunken-slider-bottomright" d="m36 11c1.662 0 3-1.338 3-3h-3v3z" style="opacity:.25;fill:currentColor" class="ColorScheme-Text"/>
+	<rect id="sunken-slider-bottom" style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="8" x="31"/>
+<!--	<rect id="background-vertical-left" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="5" width="3" y="-10" x="9.5367e-7"/>
+	<rect id="background-vertical-right" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="5" width="3" y="-10" x="8"/>
+	<rect id="background-vertical-center" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="5" width="5" y="-10" x="3"/>
+	<path id="background-vertical-topleft" d="m3-13c-1.662 0-3 1.338-3 3h3v-3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<path id="background-vertical-topright" d="m8-13c1.662 0 3 1.338 3 3h-3v-3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<rect id="background-vertical-top" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="3" width="5" y="-13" x="3"/>
+	<path id="background-vertical-bottomleft" d="m3-2c-1.662 0-3-1.338-3-3h3v3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<path id="background-vertical-bottomright" d="m8-2c1.662 0 3-1.338 3-3h-3v3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<rect id="background-vertical-bottom" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="3" width="5" y="-5" x="3"/>
+	<path id="background-horizontal-topleft" style="opacity:.375;fill:currentColor" d="m15-13c-1.662 0-3 1.338-3 3h3v-3z" class="ColorScheme-Background"/>
+	<rect id="background-horizontal-left" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="5" width="3" y="-10" x="12"/>
+	<rect id="background-horizontal-right" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="5" width="3" y="-10" x="20"/>
+	<rect id="background-horizontal-center" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="5" width="5" y="-10" x="15"/>
+	<path id="background-horizontal-topright" d="m20-13c1.662 0 3 1.338 3 3h-3v-3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<rect id="background-horizontal-top" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="3" width="5" y="-13" x="15"/>
+	<path id="background-horizontal-bottomleft" d="m15-2c-1.662 0-3-1.338-3-3h3v3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<path id="background-horizontal-bottomright" d="m20-2c1.662 0 3-1.338 3-3h-3v3z" class="ColorScheme-Background" style="opacity:.375;fill:currentColor"/>
+	<rect id="background-horizontal-bottom" style="opacity:.375;fill:currentColor" class="ColorScheme-Background" height="3" width="5" y="-5" x="15"/>-->
 </svg>
