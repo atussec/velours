@@ -11,8 +11,8 @@
 			<stop id="stop4942" style="stop-color:#e0e0e0" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient4316" y2="25" gradientUnits="userSpaceOnUse" x2="25" gradientTransform="translate(5)" y1="25" x1="2">
-			<stop id="stop4943" style="stop-color:#ff1901" offset="0"/>
-			<stop id="stop4945" style="stop-color:#ff1901;stop-opacity:.50196" offset="1"/>
+			<stop id="stop4943" style="stop-color:#ff2121" offset="0"/>
+			<stop id="stop4945" style="stop-color:#ff2121;stop-opacity:.50196" offset="1"/>
 		</linearGradient>
 		<radialGradient id="radialGradient4426" gradientUnits="userSpaceOnUse" cy="34.316" cx="25" gradientTransform="translate(0 -9.3158)" r="23">
 			<stop id="stop4422" style="stop-color:#ffffff;stop-opacity:0" offset="0"/>
@@ -58,6 +58,6 @@
 	<g id="pointer" transform="matrix(0,-1,1,0,0,50)">
 		<rect id="rect3977" style="fill:none" height="50" width="50" y="0" x="0"/>
 		<path id="path3961" style="fill:url(#linearGradient4316)" d="m20.281 23.406-18.281 1.594 18.281 1.594c-.171-.505-.281-1.031-.281-1.594 0-.56264.10990-1.089.28125-1.5938z"/>
-		<path id="path4318" style="fill:#ff1901" d="m24.824 45.99l.176 2.01.176-2.006a21 21 0 0 1 -.176 .006 21 21 0 0 1 -.176 -.010z" transform="matrix(0,1,-1,0,50,0)"/>
+		<path id="path4318" style="fill:#ff2121" d="m24.824 45.99l.176 2.01.176-2.006a21 21 0 0 1 -.176 .006 21 21 0 0 1 -.176 -.010z" transform="matrix(0,1,-1,0,50,0)"/>
 	</g>
 </svg>

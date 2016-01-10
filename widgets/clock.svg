@@ -40,8 +40,8 @@
 			<stop id="stop4942" style="stop-color:#e0e0e0" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient4556" y2="96" gradientUnits="userSpaceOnUse" x2="355" gradientTransform="translate(5)" y1="154" x1="355">
-			<stop id="stop4943" style="stop-color:#ff1901" offset="0"/>
-			<stop id="stop4945" style="stop-color:#ff1901;stop-opacity:.50196" offset="1"/>
+			<stop id="stop4943" style="stop-color:#ff2121" offset="0"/>
+			<stop id="stop4945" style="stop-color:#ff2121;stop-opacity:.50196" offset="1"/>
 		</linearGradient>
 		<linearGradient id="linearGradient4583" y2="140" xlink:href="#linearGradient5013" gradientUnits="userSpaceOnUse" x2="363" y1="96" x1="363"/>
 		<linearGradient id="linearGradient4594" y2="126" xlink:href="#linearGradient5013" gradientUnits="userSpaceOnUse" x2="364" gradientTransform="translate(-5)" y1="96" x1="364"/>
@@ -79,7 +79,7 @@
 	<g id="SecondHand" transform="translate(-295 -26)">
 		<circle id="circle4450" cy="96" style="opacity:.875;fill:none" cx="365" r="70"/>
 		<path id="path4458" style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4556);stroke-linecap:round;stroke-width:2;fill:none" d="m365 96v58"/>
-		<circle id="path4532" cy="154" style="fill-rule:evenodd;fill:#ff1901" cx="365" r="1"/>
+		<circle id="path4532" cy="154" style="fill-rule:evenodd;fill:#ff2121" cx="365" r="1"/>
 	</g>
 	<g id="HandCenterScrew" transform="translate(68 62)">
 		<rect id="rect3354" style="fill:none" height="16" width="16" y="0" x="0"/>

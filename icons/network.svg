@@ -4,7 +4,7 @@
 		<style id="local" type="text/css">
 			.lock { color:#ffc941; }
 			.limited { color:#ff8941; }
-			.negative { color:#ff1934; }
+			.negative { color:#ff2121; }
 		</style>
 		<style id="current-color-scheme" type="text/css">
 			.ColorScheme-Text { color:#0000FF; }

@@ -9,12 +9,10 @@
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>
-	<g id="layer1" transform="translate(0 -1020.4)">
-		<path id="path3781" style="opacity:.375;fill:#000000" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z" transform="translate(0 1021.4)"/>
-		<path id="path3783" style="opacity:.375;fill:#000000" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z" transform="translate(-11 1021.4)"/>
-		<path id="path3785" style="opacity:.375;fill:#000000" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z" transform="translate(11 1021.4)"/>
-		<path id="path2995" style="fill:#0184ff" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z" transform="translate(0 1020.4)"/>
-		<path id="path2997" style="fill:#ff1a02" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z" transform="translate(-11 1020.4)"/>
-		<path id="path2999" style="fill:#37ff01" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z" transform="translate(11 1020.4)"/>
-	</g>
+	<path id="path3781" style="opacity:.375;fill:#000000" d="m20 17a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z"/>
+	<path id="path3783" style="opacity:.375;fill:#000000" d="m9 17a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z"/>
+	<path id="path3785" style="opacity:.375;fill:#000000" d="m31 17a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z"/>
+	<path id="path2995" style="fill:#0184ff" d="m20 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z"/>
+	<path id="path2997" style="fill:#ff2121" d="m9 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z"/>
+	<path id="path2999" style="fill:#37ff01" d="m31 16a4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4 4 4 0 0 1 4 4z"/>
 </svg>
