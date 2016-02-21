@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="36" width="36" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="72" width="72" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<defs id="defs4">
 		<linearGradient id="linearGradient4251" gradientUnits="userSpaceOnUse" x2="8" gradientTransform="translate(36,-24)" y1="16" x1="8">
 			<stop id="stop4940" style="stop-color:#ffffff;stop-opacity:.75294" offset="0"/>
@@ -9,6 +9,9 @@
 			<stop id="stop4961" style="stop-color:#707070" offset="0"/>
 			<stop id="stop4963" style="stop-color:#484848" offset="1"/>
 		</linearGradient>
+		<linearGradient id="linearGradient3360" x1="38" xlink:href="#linearGradient4263" gradientUnits="userSpaceOnUse" y1="36" gradientTransform="translate(-10)" x2="38" y2="20"/>
+		<linearGradient id="linearGradient3362" xlink:href="#linearGradient4251" gradientUnits="userSpaceOnUse" y1="16" gradientTransform="matrix(1.375,0,0,1.375,129.5,-23)" x2="8" x1="8"/>
+		<linearGradient id="linearGradient3364" xlink:href="#linearGradient4251" gradientUnits="userSpaceOnUse" y1="16" gradientTransform="matrix(2,0,0,2,52,-64)" x2="8" x1="8"/>
 	</defs>
 	<metadata id="metadata7">
 		<rdf:RDF>
@@ -34,12 +37,23 @@
 			</cc:License>
 		</rdf:RDF>
 	</metadata>
-	<g id="pressed" transform="translate(0,-20)">
-		<circle id="path4255" r="8" style="opacity:.75;fill-rule:evenodd;fill:url(#linearGradient4263)" cx="28" cy="28"/>
-		<path id="path4169" style="opacity:.125;fill-rule:evenodd;fill:#ffffff" d="m35.141 11.596a8.5 8.5 0 0 1 -7.141 3.904 8.5 8.5 0 0 1 -7.066 -3.789 8 8 0 0 0 7.066 4.289 8 8 0 0 0 7.141 -4.404z" transform="translate(0,20)"/>
+	<g id="pressed" transform="matrix(2,0,0,2,0,-40)">
+		<circle id="path4255" cy="28" style="opacity:.75;fill:url(#linearGradient3360);fill-rule:evenodd" cx="28" r="8"/>
+		<path id="path4169" d="m35.141 11.596a8.5 8.5 0 0 1 -7.141 3.904 8.5 8.5 0 0 1 -7.066 -3.789 8 8 0 0 0 7.066 4.289 8 8 0 0 0 7.141 -4.404z" style="opacity:.125;fill-rule:evenodd;fill:#ffffff" transform="translate(0,20)"/>
 		<path id="path4292" style="opacity:0.187;fill-rule:evenodd;fill:#000000" d="m35.311 24.766a9 9 0 0 0 -7.311 -3.766 9 9 0 0 0 -7.305 3.762 8 8 0 0 1 7.305 -4.762 8 8 0 0 1 7.311 4.766z"/>
 	</g>
-	<circle id="normal" r="8" style="fill-rule:evenodd;fill:url(#linearGradient4251)" cx="8" cy="8"/>
-	<circle id="focus" r="8" style="opacity:.75;fill-rule:evenodd;fill:#ffffff" cx="8" cy="28"/>
-	<circle id="hover" cx="28" cy="28" r="8" style="opacity:.5;fill-rule:evenodd;fill:#ffffff"/>
+	<circle id="focus" cy="56" style="opacity:.75;fill-rule:evenodd;fill:#ffffff" cx="16" r="16"/>
+	<circle id="hover" cy="56" cx="56" r="16" style="opacity:.5;fill-rule:evenodd;fill:#ffffff"/>
+	<g id="normal" transform="translate(20,16)">
+		<circle id="circle4189" cy="0" cx="-4" r="16" style="fill-rule:evenodd;fill:url(#linearGradient3364)"/>
+		<path id="path4169-1" style="opacity:.5;fill-rule:evenodd;fill:#ffffff" d="m10.207-7.192a17 17 0 0 0 -14.282 -7.808 17 17 0 0 0 -14.132 7.578 16 16 0 0 1 14.132 -8.578 16 16 0 0 1 14.282 8.808z"/>
+	</g>
+	<g id="22-22-pressed" transform="matrix(1.375,0,0,1.375,81.5,-17.5)">
+		<circle id="circle3348" cy="28" cx="28" r="8" style="opacity:.75;fill-rule:evenodd;fill:url(#linearGradient3360)"/>
+		<path id="circle4211" style="opacity:0.187;fill-rule:evenodd;fill:#000000" transform="matrix(.72727 0 0 .72727 -44.727 24.364)" d="m100-6a11 11 0 0 0 -10.24 7.0156 13 13 0 0 1 10.24 -5.0156 13 13 0 0 1 10.25 5.0137 11 11 0 0 0 -10.25 -7.0137z"/>
+		<path id="circle4222" style="opacity:.125;fill-rule:evenodd;fill:#ffffff" transform="matrix(.72727 0 0 .72727 -44.727 24.364)" d="m89.396 7.9238a11 11 0 0 0 10.604 8.0762 11 11 0 0 0 10.56 -7.959 11.5 11.5 0 0 1 -10.56 6.959 11.5 11.5 0 0 1 -10.604 -7.0762z"/>
+	</g>
+	<circle id="22-22-normal" cy="21" cx="91" r="11" style="fill-rule:evenodd;fill:url(#linearGradient3362)"/>
+	<circle id="22-22-focus" cy="51" cx="91" r="11" style="opacity:.75;fill-rule:evenodd;fill:#ffffff"/>
+	<circle id="22-22-hover" cy="51" style="opacity:.5;fill-rule:evenodd;fill:#ffffff" cx="120" r="11"/>
 </svg>
