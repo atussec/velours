@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg3120" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="116" width="66" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<defs id="defs3122">
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Highlight { color:#FF00FF; }
+		</style>
 		<linearGradient id="linearGradient4594">
 			<stop id="stop4596" style="stop-color:#000000;stop-opacity:0" offset="0"/>
 			<stop id="stop4598" style="stop-color:#000000" offset="1"/>
@@ -196,7 +199,7 @@
 	</g>
 	<g id="east-minimized-bottom">
 		<rect id="rect4918" style="opacity:.125;fill:#000000" height="1" width="18" y="-8.9999" x="149"/>
-		<path id="path4916" style="fill:#000000;fill-opacity:.47059" d="m149-7.9999 18-1v1z"/>
+		<path id="path4916" style="fill:#000000;fill-opacity:.39216" d="m149-7.9999 18-1v1z"/>
 	</g>
 	<path id="east-minimized-topright" style="fill:#000000;fill-opacity:.47059" d="m167-74v1h2c0-.554-.892-1-2-1z"/>
 	<path id="east-minimized-bottomright" style="fill:#000000;fill-opacity:.47059" d="m167-8v-1h2c0 .554-.892 1-2 1z"/>
@@ -230,11 +233,11 @@
 	<rect id="west-normal-top" style="opacity:.15;fill:none" transform="scale(-1)" height="1" width="18" y="8" x="59"/>
 	<g id="west-minimized-bottom">
 		<rect id="rect3555" style="opacity:.125;fill:#000000" transform="scale(-1)" height="1" width="18" y="8" x="83"/>
-		<path id="path246" style="fill:#000000;fill-opacity:.40784" d="m-83-8h-18v-1l18 1z"/>
+		<path id="path246" style="fill:#000000;fill-opacity:.39215" d="m-83-8h-18v-1l18 1z"/>
 	</g>
-	<g id="west-minimized-top" transform="matrix(-1 0 0 -1 66 -82)">
+	<g id="west-minimized-top" transform="matrix(-1,0,0,-1,66,-82)">
 		<rect id="rect250" style="opacity:.125;fill:#000000" height="1" width="18" y="-8.9999" x="149"/>
-		<path id="path252" style="fill:#000000;fill-opacity:.47059" d="m149-7.9999 18-1v1z"/>
+		<path id="path252" style="fill:#000000;fill-opacity:.39216" d="m149-7.9999 18-1v1z"/>
 	</g>
 	<path id="west-minimized-bottomleft" style="fill:#000000;fill-opacity:.47059" d="m-101-7.9999v-1h-2c0 .554.892 1 2 1z"/>
 	<path id="west-minimized-topleft" style="fill:#000000;fill-opacity:.47059" d="m-101-74v1h-2c0-.554.892-1 2-1z"/>
@@ -248,4 +251,27 @@
 	<rect id="west-attention-hint-left-margin" style="fill:#008002" transform="scale(-1)" height="8" width="2" y="37" x="125"/>
 	<rect id="west-attention-top" style="opacity:.15;fill:none" transform="scale(-1)" height="1" width="18" y="73" x="107"/>
 	<rect id="west-attention-bottom" style="opacity:.15;fill:none" transform="scale(-1)" height="1" width="18" y="8" x="107"/>
+	<rect id="progress-bottom" class="ColorScheme-Highlight" style="fill:currentColor" height="2.9999" width="64" y="139" x="101"/>
+	<path id="progress-bottomleft" class="ColorScheme-Highlight" style="fill:currentColor" d="m101 139a1 1.5 0 0 0 -1 1.5 1 1.5 0 0 0 1 1.5v-2.9999z"/>
+	<path id="progress-bottomright" class="ColorScheme-Highlight" style="fill:currentColor" d="m165 139a1 1.5 0 0 1 1 1.5 1 1.5 0 0 1 -1 1.5v-2.9999z"/>
+	<rect id="progress-center" style="opacity:.187;fill:none" height="18" width="64" y="121" x="101"/>
+	<rect id="progress-left" style="fill:none" height="18" width="1" y="121" x="100"/>
+	<rect id="progress-right" style="fill:none" height="18" width="1" y="121" x="165"/>
+	<rect id="progress-hint-bottom-margin" style="fill:#008002" height="3" width="8" y="139" x="129"/>
+	<rect id="south-progress-bottom" class="ColorScheme-Highlight" style="fill:currentColor" height="2" width="64" y="139" x="1"/>
+	<path id="south-progress-bottomleft" class="ColorScheme-Highlight" style="fill:currentColor" d="m1 139a1 .99998 0 0 0 -1 .99998 1 .99998 0 0 0 1 .99998v-2z"/>
+	<path id="south-progress-bottomright" class="ColorScheme-Highlight" style="fill:currentColor" d="m65 139a1 .99998 0 0 1 1 .99998 1 .99998 0 0 1 -1 .99998v-2z"/>
+	<rect id="south-progress-center" style="opacity:.187;fill:none" height="18" width="64" y="121" x="1"/>
+	<rect id="south-progress-left" style="fill:none" height="18" width="1" y="121" x="5.6843e-14"/>
+	<rect id="south-progress-right" style="fill:none" height="18" width="1" y="121" x="65"/>
+	<rect id="south-progress-hint-bottom-margin" style="fill:#008002" height="2" width="8" y="139" x="29"/>
+	<rect id="east-progress-center" class="ColorScheme-Highlight" style="opacity:.187;fill:currentColor" height="64" width="18" y="-73" x="197"/>
+	<rect id="west-progress-center" class="ColorScheme-Highlight" style="opacity:.187;fill:currentColor" transform="scale(-1)" height="64" width="18" y="9" x="131"/>
+	<rect id="north-progress-top" class="ColorScheme-Highlight" style="fill:currentColor" transform="scale(-1)" height="2" width="64" y="226" x="-65"/>
+	<path id="north-progress-topright" class="ColorScheme-Highlight" style="fill:currentColor" d="m65-226a1 .99998 0 0 0 1 -.99998 1 .99998 0 0 0 -1 -.99998v2z"/>
+	<path id="north-progress-topleft" class="ColorScheme-Highlight" style="fill:currentColor" d="m1-226a1 .99998 0 0 1 -1 -.99998 1 .99998 0 0 1 1 -.99998v2z"/>
+	<rect id="north-progress-center" style="opacity:.187;fill:none" transform="scale(-1)" height="18" width="64" y="208" x="-65"/>
+	<rect id="north-progress-right" style="fill:none" transform="scale(-1)" height="18" width="1" y="208" x="-66"/>
+	<rect id="north-progress-left" style="fill:none" transform="scale(-1)" height="18" width="1" y="208" x="-1"/>
+	<rect id="north-progress-hint-bottom-margin" style="fill:#008002" transform="scale(-1)" height="2" width="8" y="226" x="-37"/>
 </svg>
