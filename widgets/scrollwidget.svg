@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2396" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="40" width="40" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<defs id="defs2398">
-		<linearGradient id="linearGradient3836">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#0000FF; }</style>
+		<radialGradient id="radialGradient3361" gradientUnits="userSpaceOnUse" cy="-119.67" cx="35" gradientTransform="matrix(0 1 -.33333 0 -39.889 -15)" r="15">
 			<stop id="stop3838" style="stop-color:#000000" offset="0"/>
 			<stop id="stop3840" style="stop-color:#000000;stop-opacity:0" offset="1"/>
-		</linearGradient>
-		<radialGradient id="radialGradient4263" xlink:href="#linearGradient3836" gradientUnits="userSpaceOnUse" cy="-118" cx="35" gradientTransform="matrix(1 0 0 .6 0 -47.2)" r="15"/>
+		</radialGradient>
 	</defs>
 	<metadata id="metadata2401">
 		<rdf:RDF>
@@ -31,28 +31,28 @@
 			</cc:License>
 		</rdf:RDF>
 	</metadata>
-	<g id="border-top" transform="matrix(1 0 0 .5 -15 59.5)">
-		<rect id="rect4243" style="opacity:0.187;fill:none" height="10" width="30" y="-119" x="20"/>
-		<path id="path4255" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient4263)" d="m20-118a15 9 0 0 0 15 9 15 9 0 0 0 15 -9 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
-		<ellipse id="path4245" style="opacity:0.187;fill-rule:evenodd;fill:#FFFFFF" rx="15" ry="1" cy="-118" cx="35"/>
-		<path id="path4247" style="opacity:0.187;fill-rule:evenodd;fill:#000000" d="m20-118a15 3 0 0 0 15 3 15 3 0 0 0 15 -3 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
-	</g>
 	<g id="border-left" transform="matrix(0 -1 .5 0 59.5 55)">
-		<rect id="rect4300" style="opacity:0.187;fill:none" height="10" width="30" y="-119" x="20"/>
-		<path id="path4302" style="opacity:.375;fill:url(#radialGradient4263);fill-rule:evenodd" d="m20-118a15 9 0 0 0 15 9 15 9 0 0 0 15 -9 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
-		<ellipse id="ellipse4304" style="opacity:0.187;fill-rule:evenodd;fill:#FFFFFF" rx="15" ry="1" cy="-118" cx="35"/>
-		<path id="path4306" style="opacity:0.187;fill-rule:evenodd;fill:#000000" d="m20-118a15 3 0 0 0 15 3 15 3 0 0 0 15 -3 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
+		<rect id="rect4300" style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path id="path4302" style="opacity:.375;fill:url(#radialGradient3361);fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path id="path4235" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
+		<path id="rect3364" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 	<g id="border-right" transform="matrix(0 -1 -.5 0 -19.5 55)">
-		<rect id="rect4312" style="opacity:0.187;fill:none" height="10" width="30" y="-119" x="20"/>
-		<path id="path4314" style="opacity:.375;fill:url(#radialGradient4263);fill-rule:evenodd" d="m20-118a15 9 0 0 0 15 9 15 9 0 0 0 15 -9 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
-		<ellipse id="ellipse4316" style="opacity:0.187;fill-rule:evenodd;fill:#FFFFFF" rx="15" ry="1" cy="-118" cx="35"/>
-		<path id="path4318" style="opacity:0.187;fill-rule:evenodd;fill:#000000" d="m20-118a15 3 0 0 0 15 3 15 3 0 0 0 15 -3 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
+		<rect id="rect4245" style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path id="path4247" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path id="path4249" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
+		<path id="path4251" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
+	</g>
+	<g id="border-top" transform="matrix(1 0 0 .5 -15 59.5)">
+		<rect id="rect4259" style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path id="path4261" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path id="path4263" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
+		<path id="path4265" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 	<g id="border-bottom" transform="matrix(1 0 0 -.5 -15 -19.5)">
-		<rect id="rect4324" style="opacity:0.187;fill:none" height="10" width="30" y="-119" x="20"/>
-		<path id="path4326" style="opacity:.375;fill:url(#radialGradient4263);fill-rule:evenodd" d="m20-118a15 9 0 0 0 15 9 15 9 0 0 0 15 -9 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
-		<ellipse id="ellipse4328" style="opacity:0.187;fill-rule:evenodd;fill:#FFFFFF" rx="15" ry="1" cy="-118" cx="35"/>
-		<path id="path4330" style="opacity:0.187;fill-rule:evenodd;fill:#000000" d="m20-118a15 3 0 0 0 15 3 15 3 0 0 0 15 -3 15 1 0 0 1 -15 1 15 1 0 0 1 -15 -1z"/>
+		<rect id="rect4269" style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path id="path4271" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path id="path4273" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)"/>
+		<path id="path4275" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 </svg>
