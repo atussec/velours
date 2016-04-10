@@ -3,6 +3,7 @@
 	<defs id="defs4">
 		<style id="current-color-scheme" type="text/css">
 			.ColorScheme-Highlight { color:#FF00FF; }
+			.ColorScheme-Text { color:#0000FF; }
 		</style>
 		<linearGradient id="linearGradient4207">
 			<stop id="stop4209" style="stop-color:#000000;stop-opacity:0" offset="0"/>
@@ -12,17 +13,17 @@
 			<stop id="stop4258" style="stop-color:#e0e0e0" offset="0"/>
 			<stop id="stop4260" style="stop-color:#c0c0c0" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient4229" y2="26" xlink:href="#linearGradient4256" gradientUnits="userSpaceOnUse" x2="6" gradientTransform="translate(-1)" y1="16" x1="6"/>
-		<linearGradient id="linearGradient4250" y2="25" xlink:href="#linearGradient4256" gradientUnits="userSpaceOnUse" x2="6" gradientTransform="translate(-1)" y1="15" x1="6"/>
+		<linearGradient id="linearGradient4229" x1="6" xlink:href="#linearGradient4256" gradientUnits="userSpaceOnUse" y1="16" gradientTransform="translate(-1)" x2="6" y2="26"/>
+		<linearGradient id="linearGradient4250" x1="6" xlink:href="#linearGradient4256" gradientUnits="userSpaceOnUse" y1="15" gradientTransform="translate(-1)" x2="6" y2="25"/>
 		<radialGradient id="radialGradient4469" gradientUnits="userSpaceOnUse" cy="20" cx="5" r="5">
 			<stop id="stop4465" style="stop-color:#ffffff" offset="0"/>
 			<stop id="stop4471" style="stop-color:#ffffff" offset=".83333"/>
 			<stop id="stop4467" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</radialGradient>
-		<linearGradient id="linearGradient4213" y2="11" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" x2="10" y1="5" x1="10"/>
-		<linearGradient id="linearGradient4249" y2="11" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" x2="1.5" gradientTransform="translate(0,-2)" y1="5" x1="1.5"/>
-		<linearGradient id="linearGradient4251" y2="11" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" x2="1.5" gradientTransform="translate(0,2)" y1="5" x1="1.5"/>
-		<linearGradient id="linearGradient4369" y2="26" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" x2="5" y1="14" x1="5"/>
+		<linearGradient id="linearGradient4213" x1="10" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" x2="10" y1="5" y2="11"/>
+		<linearGradient id="linearGradient4249" x1="1.5" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" y1="5" gradientTransform="translate(0,-2)" x2="1.5" y2="11"/>
+		<linearGradient id="linearGradient4251" x1="1.5" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" y1="5" gradientTransform="translate(0,2)" x2="1.5" y2="11"/>
+		<linearGradient id="linearGradient4369" x1="5" xlink:href="#linearGradient4207" gradientUnits="userSpaceOnUse" x2="5" y1="14" y2="26"/>
 	</defs>
 	<metadata id="metadata7">
 		<rdf:RDF>
@@ -48,93 +49,87 @@
 			</cc:License>
 		</rdf:RDF>
 	</metadata>
-	<rect id="groove-center" style="opacity:.5;fill:#000000" height="4" width="30" y="16" x="3"/>
-	<rect id="groove-right" style="opacity:.5;fill:#000000" height="4" width="3" y="16" x="33"/>
+	<rect id="groove-center" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="4" width="30" y="16" x="3"/>
+	<rect id="groove-right" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="4" width="3" y="16" x="33"/>
+	<rect id="groove-left" style="opacity:.5;fill:currentColor" class="ColorScheme-Text" height="4" width="3" y="16" x="0"/>
 	<g id="groove-top" transform="matrix(6,0,0,1,573,-9)">
-		<rect id="rect4706" style="opacity:.5;fill:#000000" height="3" width="5" y="14" x="-95"/>
-		<path id="rect4727" style="opacity:.5;fill:#000000" d="m-95 14v1h5v-1h-5z"/>
+		<rect id="rect4706" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="14" x="-95"/>
 	</g>
 	<g id="groove-topleft" transform="translate(98,-9)">
-		<path id="rect4716" style="opacity:.5;fill:#000000" d="m-95 14c-1.662 0-3 1.338-3 3h3v-3z"/>
-		<path id="path4729" style="opacity:.5;fill:#000000" d="m-95 14c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+		<path id="rect4716" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" d="m-95 14c-1.662 0-3 1.338-3 3h3v-3z"/>
 	</g>
 	<g id="groove-topright" transform="translate(123,-9)">
-		<path id="path4721" style="opacity:.5;fill:#000000" d="m-90 14c1.662 0 3 1.338 3 3h-3v-3z"/>
-		<path id="path4731" style="opacity:.5;fill:#000000" d="m-90 14v1c1.662 0 3 .892 3 2 0-1.662-1.338-3-3-3z"/>
+		<path id="path4721" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" d="m-90 14c1.662 0 3 1.338 3 3h-3v-3z"/>
 	</g>
 	<g id="groove-bottom" transform="matrix(6,0,0,1,573,-42)">
-		<rect id="rect4708" style="opacity:.5;fill:#000000" height="3" width="5" y="50" x="-95"/>
-		<path id="path4742" style="opacity:.188;fill:#ffffff" d="m-95 53v-1h5v1h-5z"/>
+		<rect id="rect4708" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" height="3" width="5" y="50" x="-95"/>
 	</g>
 	<g id="groove-bottomleft" transform="translate(98,-42)">
-		<path id="path4723" style="opacity:.5;fill:#000000" d="m-95 53c-1.662 0-3-1.338-3-3h3v3z"/>
-		<path id="path4744" style="opacity:.188;fill:#ffffff" d="m-95 53c-1.662 0-3-1.338-3-3 0 1.108 1.338 2 3 2v1z"/>
+		<path id="path4723" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" d="m-95 53c-1.662 0-3-1.338-3-3h3v3z"/>
 	</g>
 	<g id="groove-bottomright" transform="translate(123,-42)">
-		<path id="path4725" style="opacity:.5;fill:#000000" d="m-90 53c1.662 0 3-1.338 3-3h-3v3z"/>
-		<path id="path4746" style="opacity:.188;fill:#ffffff" d="m-90 53v-1c1.662 0 3-.892 3-2 0 1.662-1.338 3-3 3z"/>
+		<path id="path4725" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" d="m-90 53c1.662 0 3-1.338 3-3h-3v3z"/>
 	</g>
 	<g id="vertical-slider-hover" transform="matrix(1.2,0,0,1.2,-30,-21)">
 		<rect id="rect4443" style="fill:none" height="13.333" width="10" y="13.333" x="0"/>
-		<circle id="circle4445" cy="20" cx="5" r="5" style="fill-rule:evenodd;fill:url(#radialGradient4469)"/>
+		<circle id="circle4445" cy="20" cx="5" r="5" style="fill:url(#radialGradient4469);fill-rule:evenodd"/>
 	</g>
 	<g id="horizontal-slider-hover" transform="matrix(1.2,0,0,1.2,-30,-5)">
 		<rect id="rect4475" style="fill:none" height="13.333" width="10" y="13.333" x="0"/>
-		<circle id="circle4477" cy="20" style="fill:url(#radialGradient4469);fill-rule:evenodd" cx="5" r="5"/>
+		<circle id="circle4477" cx="5" cy="20" style="fill-rule:evenodd;fill:url(#radialGradient4469)" r="5"/>
 	</g>
 	<g id="groove-highlight-top">
-		<rect id="rect3403" class="ColorScheme-Highlight" style="fill-rule:evenodd;fill:currentColor" height="3" width="15" y="5" x="3"/>
-		<rect id="rect4205" style="fill-rule:evenodd;fill:url(#linearGradient4213)" height="3" width="15" y="5" x="3"/>
+		<rect id="rect3403" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Highlight" height="3" width="15" y="5" x="3"/>
+		<rect id="rect4205" style="fill:url(#linearGradient4213);fill-rule:evenodd" height="3" width="15" y="5" x="3"/>
 	</g>
 	<g id="groove-highlight-bottom">
-		<rect id="rect4219" class="ColorScheme-Highlight" style="fill-rule:evenodd;fill:currentColor" height="3" width="15" y="8" x="3"/>
-		<rect id="rect4215" style="fill:url(#linearGradient4213);fill-rule:evenodd" height="3" width="15" y="8" x="3"/>
+		<rect id="rect4219" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Highlight" height="3" width="15" y="8" x="3"/>
+		<rect id="rect4215" style="fill-rule:evenodd;fill:url(#linearGradient4213)" height="3" width="15" y="8" x="3"/>
 	</g>
 	<g id="groove-highlight-topleft" transform="translate(0,2)">
-		<path id="path4229" class="ColorScheme-Highlight" d="m3 3a3 3 0 0 0 -3 3h3v-3z" style="fill-rule:evenodd;fill:currentColor"/>
-		<path id="path4239" style="fill-rule:evenodd;fill:url(#linearGradient4249)" d="m3 3a3 3 0 0 0 -3 3h3v-3z"/>
+		<path id="path4229" d="m3 3a3 3 0 0 0 -3 3h3v-3z" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Highlight"/>
+		<path id="path4239" style="fill:url(#linearGradient4249);fill-rule:evenodd" d="m3 3a3 3 0 0 0 -3 3h3v-3z"/>
 	</g>
 	<g id="groove-highlight-bottomleft" transform="translate(0,-2)">
-		<path id="circle4233" class="ColorScheme-Highlight" d="m0 10a3 3 0 0 0 3 3v-3h-3z" style="fill-rule:evenodd;fill:currentColor"/>
-		<path id="path4241" style="fill-rule:evenodd;fill:url(#linearGradient4251)" d="m0 10a3 3 0 0 0 3 3v-3h-3z"/>
+		<path id="circle4233" d="m0 10a3 3 0 0 0 3 3v-3h-3z" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Highlight"/>
+		<path id="path4241" style="fill:url(#linearGradient4251);fill-rule:evenodd" d="m0 10a3 3 0 0 0 3 3v-3h-3z"/>
 	</g>
 	<g id="groove-highlight-topright" transform="matrix(-1,0,0,1,21,2)">
-		<path id="path4285" class="ColorScheme-Highlight" style="fill-rule:evenodd;fill:currentColor" d="m3 3a3 3 0 0 0 -3 3h3v-3z"/>
-		<path id="path4287" style="fill:url(#linearGradient4249);fill-rule:evenodd" d="m3 3a3 3 0 0 0 -3 3h3v-3z"/>
+		<path id="path4285" d="m3 3a3 3 0 0 0 -3 3h3v-3z" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Highlight"/>
+		<path id="path4287" style="fill-rule:evenodd;fill:url(#linearGradient4249)" d="m3 3a3 3 0 0 0 -3 3h3v-3z"/>
 	</g>
 	<g id="groove-highlight-bottomright" transform="matrix(-1,0,0,1,21,-2)">
-		<path id="path4291" class="ColorScheme-Highlight" style="fill-rule:evenodd;fill:currentColor" d="m0 10a3 3 0 0 0 3 3v-3h-3z"/>
-		<path id="path4293" style="fill:url(#linearGradient4251);fill-rule:evenodd" d="m0 10a3 3 0 0 0 3 3v-3h-3z"/>
+		<path id="path4291" d="m0 10a3 3 0 0 0 3 3v-3h-3z" style="fill-rule:evenodd;fill:currentColor" class="ColorScheme-Highlight"/>
+		<path id="path4293" style="fill-rule:evenodd;fill:url(#linearGradient4251)" d="m0 10a3 3 0 0 0 3 3v-3h-3z"/>
 	</g>
 	<g id="horizontal-slider-handle" transform="translate(13,-13)">
 		<rect id="rect4380" style="fill:none" height="16" width="12" y="13" x="-1"/>
-		<circle id="path4221" cy="21" style="fill-rule:evenodd;fill:url(#linearGradient4229)" cx="5" r="5"/>
+		<circle id="path4221" cx="5" cy="21" style="fill-rule:evenodd;fill:url(#linearGradient4229)" r="5"/>
 	</g>
 	<g id="vertical-slider-handle" transform="translate(13,-28)">
 		<rect id="rect4382" style="fill:none" height="16" width="12" y="12" x="-1"/>
-		<circle id="path4242" cy="20" style="fill-rule:evenodd;fill:url(#linearGradient4250)" cx="5" r="5"/>
+		<circle id="path4242" cx="5" cy="20" style="fill:url(#linearGradient4250);fill-rule:evenodd" r="5"/>
 	</g>
 	<g id="groove-highlight-center">
-		<rect id="rect4332" class="ColorScheme-Highlight" style="fill:currentColor" height="4" width="15" y="16" x="3"/>
-		<rect id="rect4311" style="fill-opacity:.18824;fill:#000000" height="4" width="15" y="16" x="3"/>
+		<rect id="rect4332" style="fill:currentColor" class="ColorScheme-Highlight" height="4" width="15" y="16" x="3"/>
+		<rect id="rect4311" style="fill:#000000;fill-opacity:.18824" height="4" width="15" y="16" x="3"/>
 	</g>
-	<rect id="groove-left" style="opacity:.5;fill:#000000" height="4" width="3" y="16" x="0"/>
 	<g id="groove-highlight-left" transform="translate(0,-2)">
-		<rect id="rect4341" class="ColorScheme-Highlight" style="fill:currentColor" height="4" width="3" y="18" x="0"/>
-		<rect id="rect4313" style="fill-opacity:.18824;fill:#000000" height="4" width="3" y="18" x="0"/>
+		<rect id="rect4341" style="fill:currentColor" class="ColorScheme-Highlight" height="4" width="3" y="18" x="0"/>
+		<rect id="rect4313" style="fill:#000000;fill-opacity:.18824" height="4" width="3" y="18" x="0"/>
 	</g>
 	<g id="groove-highlight-right">
-		<rect id="rect4330" class="ColorScheme-Highlight" style="fill:currentColor" height="4" width="3" y="16" x="18"/>
-		<rect id="rect4315" style="fill-opacity:.18824;fill:#000000" height="4" width="3" y="16" x="18"/>
+		<rect id="rect4330" style="fill:currentColor" class="ColorScheme-Highlight" height="4" width="3" y="16" x="18"/>
+		<rect id="rect4315" style="fill:#000000;fill-opacity:.18824" height="4" width="3" y="16" x="18"/>
 	</g>
 	<g id="horizontal-slider-focus" transform="translate(-14,-1)">
 		<rect id="rect4345" style="fill:none" height="16" width="12" y="12" x="-1"/>
-		<circle id="circle4347" class="ColorScheme-Highlight" cx="5" cy="20" r="6" style="fill-rule:evenodd;fill:currentColor"/>
-		<circle id="circle4371" cy="20" style="fill:url(#linearGradient4369);fill-rule:evenodd" cx="5" r="6"/>
+		<circle id="circle4347" style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Highlight" cy="20" cx="5" r="6"/>
+		<circle id="circle4371" cx="5" cy="20" style="fill-rule:evenodd;fill:url(#linearGradient4369)" r="6"/>
 	</g>
 	<g id="vertical-slider-focus" transform="translate(-14,-17)">
 		<rect id="rect4351" style="fill:none" height="16" width="12" y="12" x="-1"/>
-		<circle id="circle4353" class="ColorScheme-Highlight" cx="5" style="fill-rule:evenodd;fill:currentColor" r="6" cy="20"/>
-		<circle id="circle4361" cy="20" cx="5" r="6" style="fill-rule:evenodd;fill:url(#linearGradient4369)"/>
+		<circle id="circle4353" style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Highlight" cy="20" cx="5" r="6"/>
+		<circle id="circle4361" cy="20" cx="5" r="6" style="fill:url(#linearGradient4369);fill-rule:evenodd"/>
 	</g>
 </svg>
