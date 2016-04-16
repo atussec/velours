@@ -14,5 +14,5 @@ X-Plasma-API=5.0
 [ContrastEffect]
 enabled=true
 contrast=1.25
-intensity=1.0
+intensity=0.875
 saturation=1.25

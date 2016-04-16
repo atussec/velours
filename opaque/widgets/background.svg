@@ -24,7 +24,12 @@
 			</cc:License>
 		</rdf:RDF>
 	</metadata>
-	<rect id="center" style="fill:#000000" height="34" width="34" y="0" x="0"/>
+	<defs id="defs3173">
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background { color:#FF0000; }
+		</style>
+	</defs>
+	<rect id="center" style="fill:currentColor" class="ColorScheme-Background" height="34" width="34" y="0" x="0"/>
 	<rect id="hint-left-margin" style="fill:#278000" height="3" width="3" y="16" x="0"/>
 	<rect id="hint-right-margin" style="fill:#278000" height="3" width="3" y="16" x="31"/>
 	<rect id="hint-top-margin" style="fill:#278000" transform="rotate(90)" height="3" width="3" y="-18" x=".000043869"/>

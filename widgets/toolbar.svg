@@ -29,48 +29,18 @@
 		</rdf:RDF>
 	</metadata>
 	<defs id="defs5">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#7B7C7E;
-      }
-      .ColorScheme-Background{
-        color:#EFF0F1;
-      }
-      .ColorScheme-Highlight{
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ViewBackground{
-        color:#FCFCFC;
-      }
-      .ColorScheme-ViewHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewFocus{
-        color:#1E92FF;
-      }
-      .ColorScheme-ButtonText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#EFF0F1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#1E92FF;
-      }</style>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background { color:#FF0000; }
+		</style>
 	</defs>
 	<rect id="hint-tile-center" style="fill:#4e9a06" height="2.0771" width="2.0329" y="-5.3402" x="-3.7397"/>
-	<path id="center" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m2.0001 2.0003v11h11v-11h-11z" class="ColorScheme-ViewBackground"/>
-	<path id="right" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m13 2.0003v11h2c.000668-.0183 0-.0344 0-.0529v-10.894c0-.0185.000668-.03453 0-.05288h-2z" class="ColorScheme-ViewBackground"/>
-	<path id="top" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m2.0001.00029778v2h11v-2c-.0041-.00067.0042 0 .0000010 0h-10.988c-.004 0-.008-.00067-.0119 0z" class="ColorScheme-ViewBackground"/>
-	<path id="left" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m.000376 2.0003c-.00067.01835 0 .03439 0 .05288v10.894c0 .0185-.00067.0345 0 .0529h2v-11h-2z" class="ColorScheme-ViewBackground"/>
-	<path id="bottom" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m2.0001 13v2h11v-1.9997z" class="ColorScheme-ViewBackground"/>
-	<path id="topleft" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m.000043.00029778v2h1.9998v-2c-.000746-.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-.00067-.0022 0z" class="ColorScheme-ViewBackground"/>
-	<path id="topright" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m13 .00064278v1.9997h1.9998v-1.9997c-.000746-0.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-0.00067-.0022 0z" class="ColorScheme-ViewBackground"/>
-	<path id="bottomright" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m13 13v1.9997h1.9998v-1.9997c-.000746-.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-.00067-.0022 0z" class="ColorScheme-ViewBackground"/>
-	<path id="bottomleft" style="opacity:.875;color:#fcfcfc;fill:#000000" d="m.000083 13v1.9997h1.9998v-1.9997c-.000746-.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-.00067-.0022 0z" class="ColorScheme-ViewBackground"/>
+	<path id="center" style="opacity:.875;fill:currentColor" d="m2.0001 2.0003v11h11v-11h-11z" class="ColorScheme-Background"/>
+	<path id="right" style="opacity:.875;fill:currentColor" d="m13 2.0003v11h2c.000668-.0183 0-.0344 0-.0529v-10.894c0-.0185.000668-.03453 0-.05288h-2z" class="ColorScheme-Background"/>
+	<path id="top" style="opacity:.875;fill:currentColor" d="m2.0001.00029778v2h11v-2c-.0041-.00067.0042 0 .0000010 0h-10.988c-.004 0-.008-.00067-.0119 0z" class="ColorScheme-Background"/>
+	<path id="left" style="opacity:.875;fill:currentColor" d="m.000376 2.0003c-.00067.01835 0 .03439 0 .05288v10.894c0 .0185-.00067.0345 0 .0529h2v-11h-2z" class="ColorScheme-Background"/>
+	<path id="bottom" style="opacity:.875;fill:currentColor" d="m2.0001 13v2h11v-1.9997z" class="ColorScheme-Background"/>
+	<path id="topleft" style="opacity:.875;fill:currentColor" d="m.000043.00029778v2h1.9998v-2c-.000746-.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-.00067-.0022 0z" class="ColorScheme-Background"/>
+	<path id="topright" style="opacity:.875;fill:currentColor" d="m13 .00064278v1.9997h1.9998v-1.9997c-.000746-0.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-0.00067-.0022 0z" class="ColorScheme-Background"/>
+	<path id="bottomright" style="opacity:.875;fill:currentColor" d="m13 13v1.9997h1.9998v-1.9997c-.000746-.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-.00067-.0022 0z" class="ColorScheme-Background"/>
+	<path id="bottomleft" style="opacity:.875;fill:currentColor" d="m.000083 13v1.9997h1.9998v-1.9997c-.000746-.00067.000763 0 0 0h-1.9976c-.000728 0-.0015-.00067-.0022 0z" class="ColorScheme-Background"/>
 </svg>

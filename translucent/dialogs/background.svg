@@ -3,26 +3,29 @@
 	<defs id="defs3173">
 		<radialGradient id="radialGradient3621" fx="5.5" xlink:href="#linearGradient3779" gradientUnits="userSpaceOnUse" cy="300.5" cx="5" gradientTransform="matrix(2 0 0 -2.25 28 713.12)" r="4"/>
 		<linearGradient id="linearGradient3779">
-			<stop id="stop3781" style="stop-color:#000000" offset="0"/>
-			<stop id="stop3799" style="stop-color:#000000" offset=".55556"/>
-			<stop id="stop3783" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+			<stop id="stop3781" style="stop-color:currentColor" offset="0"/>
+			<stop id="stop3799" style="stop-color:currentColor" offset=".55556"/>
+			<stop id="stop3783" style="stop-color:currentColor;stop-opacity:0" offset="1"/>
 		</linearGradient>
-		<linearGradient id="linearGradient3619" y2="150" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" x2="-3" gradientTransform="translate(-43 -263)" y1="150"/>
+		<linearGradient id="linearGradient3619" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" y1="150" gradientTransform="translate(-43 -263)" x2="-3" y2="150"/>
 		<linearGradient id="linearGradient3809">
-			<stop id="stop3811" style="stop-color:#000000" offset="0"/>
-			<stop id="stop3813" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+			<stop id="stop3811" style="stop-color:currentColor" offset="0"/>
+			<stop id="stop3813" style="stop-color:currentColor;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<radialGradient id="radialGradient3617" fy="2" xlink:href="#linearGradient3801" gradientUnits="userSpaceOnUse" cx="5" gradientTransform="matrix(0 -1.75 -2 0 39 15.75)" r="4"/>
 		<linearGradient id="linearGradient3801">
-			<stop id="stop3803" style="stop-color:#000000" offset="0"/>
-			<stop id="stop3805" style="stop-color:#000000" offset=".71429"/>
-			<stop id="stop3807" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+			<stop id="stop3803" style="stop-color:currentColor" offset="0"/>
+			<stop id="stop3805" style="stop-color:currentColor" offset=".71429"/>
+			<stop id="stop3807" style="stop-color:currentColor;stop-opacity:0" offset="1"/>
 		</linearGradient>
 		<radialGradient id="radialGradient4994" fx="5.5" xlink:href="#linearGradient3779" gradientUnits="userSpaceOnUse" cy="300.5" cx="5" gradientTransform="matrix(-2 0 0 -2.25 18 713.12)" r="4"/>
-		<linearGradient id="linearGradient3613" y2="-7" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" x2="10" gradientTransform="translate(3 7)" y1="-5" x1="10"/>
-		<linearGradient id="linearGradient3611" y2="309" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" x2="25" gradientTransform="translate(3 -263)" y1="305" x1="25"/>
-		<linearGradient id="linearGradient3609" y2="150" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" x2="-3" gradientTransform="translate(3 -263)" y1="150"/>
+		<linearGradient id="linearGradient3613" x1="10" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" y1="-5" gradientTransform="translate(3 7)" x2="10" y2="-7"/>
+		<linearGradient id="linearGradient3611" x1="25" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" y1="305" gradientTransform="translate(3 -263)" x2="25" y2="309"/>
+		<linearGradient id="linearGradient3609" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" y1="150" gradientTransform="translate(3 -263)" x2="-3" y2="150"/>
 		<radialGradient id="radialGradient3607" fy="2" xlink:href="#linearGradient3801" gradientUnits="userSpaceOnUse" cx="5" gradientTransform="matrix(0 -1.75 2 0 7 15.75)" r="4"/>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Background { color:#FF0000; }
+		</style>
 	</defs>
 	<metadata id="metadata3176">
 		<rdf:RDF>
@@ -52,46 +55,46 @@
 	<rect id="hint-overlay-tile-horizontal" style="opacity:.875;fill:#008000" height="5" width="5" y="91" x="-75"/>
 	<rect id="hint-overlay-tile-vertical" style="opacity:.875;fill:#008000" height="5" width="5" y="96" x="-80"/>
 	<g id="top" transform="translate(-187.57 -161.76)">
-		<rect id="rect3547" style="opacity:.875;fill-rule:evenodd;fill:#000000" height="5" width="30" y="163.76" x="195.57"/>
-		<rect id="rect3549" style="opacity:.375;fill-rule:evenodd;fill:#000000" height="2" width="30" y="163.76" x="195.57"/>
+		<rect id="rect3547" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="5" width="30" y="163.76" x="195.57"/>
+		<rect id="rect3549" style="opacity:.375;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="2" width="30" y="163.76" x="195.57"/>
 	</g>
 	<g id="right" transform="translate(-187.57 -161.76)">
-		<rect id="rect3553" style="opacity:.875;fill-rule:evenodd;fill:#000000" height="30" width="5" y="168.76" x="225.57"/>
-		<rect id="rect3555" style="opacity:.375;fill-rule:evenodd;fill:#000000" height="30" width="2" y="168.76" x="228.57"/>
+		<rect id="rect3553" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="30" width="5" y="168.76" x="225.57"/>
+		<rect id="rect3555" style="opacity:.375;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="30" width="2" y="168.76" x="228.57"/>
 	</g>
 	<g id="bottom" transform="translate(-300 -280)">
-		<rect id="rect3543" style="opacity:.875;fill-rule:evenodd;fill:#000000" height="5" width="30" y="317" x="308"/>
-		<rect id="rect3557" style="opacity:.375;fill-rule:evenodd;fill:#000000" height="2" width="30" y="320" x="308"/>
+		<rect id="rect3543" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="5" width="30" y="317" x="308"/>
+		<rect id="rect3557" style="opacity:.375;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="2" width="30" y="320" x="308"/>
 	</g>
 	<g id="left" transform="translate(-187.57 -161.76)">
-		<rect id="rect3561" style="opacity:.875;fill-rule:evenodd;fill:#000000" height="30" width="5" y="168.76" x="190.57"/>
-		<rect id="rect3563" style="opacity:.375;fill-rule:evenodd;fill:#000000" height="30" width="2" y="168.76" x="190.57"/>
+		<rect id="rect3561" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="30" width="5" y="168.76" x="190.57"/>
+		<rect id="rect3563" style="opacity:.375;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="30" width="2" y="168.76" x="190.57"/>
 	</g>
 	<g id="topleft" transform="translate(-187.57 -161.76)">
-		<path id="path3567" style="opacity:.875;fill-rule:evenodd;fill:#000000" d="m190.57 168.76c0-2.77 2.23-5 5-5v5h-5z"/>
-		<path id="path3569" style="opacity:.375;color:#000000;fill:#000000" d="m195.57 163.76c-2.7614 0-5 2.2386-5 5h2c0-1.6569 1.3431-3 3-3v-2z"/>
+		<path id="path3567" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" d="m190.57 168.76c0-2.77 2.23-5 5-5v5h-5z"/>
+		<path id="path3569" style="opacity:.375;color:currentColor;fill:currentColor" class="ColorScheme-Background" d="m195.57 163.76c-2.7614 0-5 2.2386-5 5h2c0-1.6569 1.3431-3 3-3v-2z"/>
 	</g>
 	<g id="topright" transform="translate(-187.57 -161.76)">
-		<path id="path3573" style="opacity:.875;fill-rule:evenodd;fill:#000000" d="m230.57 168.76c0-2.77-2.23-5-5-5v5h5z"/>
-		<path id="path3575" style="opacity:.375;color:#000000;fill:#000000" d="m225.57 163.76c2.7614 0 5 2.2386 5 5h-2c0-1.6569-1.3432-3-3-3v-2z"/>
+		<path id="path3573" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" d="m230.57 168.76c0-2.77-2.23-5-5-5v5h5z"/>
+		<path id="path3575" style="opacity:.375;color:currentColor;fill:currentColor" class="ColorScheme-Background" d="m225.57 163.76c2.7614 0 5 2.2386 5 5h-2c0-1.6569-1.3432-3-3-3v-2z"/>
 	</g>
 	<g id="bottomright" transform="translate(-187.57 -161.76)">
-		<path id="path3579" style="opacity:.875;fill-rule:evenodd;fill:#000000" d="m230.57 198.76c0 2.77-2.23 5-5 5v-5h5z"/>
-		<path id="path3581" style="opacity:.375;color:#000000;fill:#000000" d="m225.57 203.76c2.7614 0 5-2.2386 5-5h-2c0 1.6568-1.3432 3-3 3v2z"/>
+		<path id="path3579" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" d="m230.57 198.76c0 2.77-2.23 5-5 5v-5h5z"/>
+		<path id="path3581" style="opacity:.375;color:currentColor;fill:currentColor" class="ColorScheme-Background" d="m225.57 203.76c2.7614 0 5-2.2386 5-5h-2c0 1.6568-1.3432 3-3 3v2z"/>
 	</g>
 	<g id="bottomleft" transform="translate(-300 -288)">
-		<path id="path3597" style="opacity:.875;fill-rule:evenodd;fill:#000000" d="m303 325c0 2.77 2.23 5 5 5v-5h-5z"/>
-		<path id="path3583" style="opacity:.375;color:#000000;fill:#000000" d="m308 330c-2.7614 0-5-2.2386-5-5h2c0 1.6568 1.3431 3 3 3v2z"/>
+		<path id="path3597" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" d="m303 325c0 2.77 2.23 5 5 5v-5h-5z"/>
+		<path id="path3583" style="opacity:.375;color:currentColor;fill:currentColor" class="ColorScheme-Background" d="m308 330c-2.7614 0-5-2.2386-5-5h2c0 1.6568 1.3431 3 3 3v2z"/>
 	</g>
-	<rect id="center" style="opacity:.875;fill-rule:evenodd;fill:#000000" height="30" width="30" y="7" x="8"/>
-	<path id="shadow-topleft" style="opacity:.375;color:#000000;fill:url(#radialGradient3607)" d="m8 0c-4.4183 0-8 3.134-8 7h3c0-2.77 2.23-5 5-5v-2z"/>
-	<rect id="shadow-left" style="opacity:.375;fill-rule:evenodd;fill:url(#linearGradient3609)" height="30" width="3" y="7" x="0"/>
-	<rect id="shadow-bottom" style="opacity:.375;fill-rule:evenodd;fill:url(#linearGradient3611)" height="4" width="30" y="42" x="8"/>
-	<rect id="shadow-top" style="opacity:.375;fill-rule:evenodd;fill:url(#linearGradient3613)" height="2" width="30" y=".000010629" x="8"/>
-	<path id="shadow-bottomleft" style="opacity:.375;color:#000000;fill:url(#radialGradient4994)" d="m.000021995 37c0 4.9706 3.5817 9 8 9v-4c-2.77 0-5-2.23-5-5h-3z"/>
-	<path id="shadow-topright" style="opacity:.375;color:#000000;fill:url(#radialGradient3617)" d="m38 0c4.4183 0 8 3.134 8 7h-3c0-2.77-2.23-5-5-5v-2z"/>
-	<rect id="shadow-right" style="opacity:.375;fill-rule:evenodd;fill:url(#linearGradient3619)" transform="scale(-1,1)" height="30" width="3" y="7" x="-46"/>
-	<path id="shadow-bottomright" style="opacity:.375;color:#000000;fill:url(#radialGradient3621)" d="m46 37c0 4.9706-3.5817 9-8 9v-4c2.77 0 5-2.23 5-5h3z"/>
+	<rect id="center" style="opacity:.875;fill:currentColor;fill-rule:evenodd" class="ColorScheme-Background" height="30" width="30" y="7" x="8"/>
+	<path id="shadow-topleft" style="opacity:.375;color:currentColor;fill:url(#radialGradient3607)" class="ColorScheme-Background" d="m8 0c-4.4183 0-8 3.134-8 7h3c0-2.77 2.23-5 5-5v-2z"/>
+	<rect id="shadow-left" style="opacity:.375;fill:url(#linearGradient3609);fill-rule:evenodd" height="30" width="3" y="7" x="0"/>
+	<rect id="shadow-bottom" style="opacity:.375;fill:url(#linearGradient3611);fill-rule:evenodd" height="4" width="30" y="42" x="8"/>
+	<rect id="shadow-top" style="opacity:.375;fill:url(#linearGradient3613);fill-rule:evenodd" height="2" width="30" y=".000010629" x="8"/>
+	<path id="shadow-bottomleft" style="opacity:.375;color:currentColor;fill:url(#radialGradient4994)" class="ColorScheme-Background" d="m.000021995 37c0 4.9706 3.5817 9 8 9v-4c-2.77 0-5-2.23-5-5h-3z"/>
+	<path id="shadow-topright" style="opacity:.375;color:currentColor;fill:url(#radialGradient3617)" class="ColorScheme-Background" d="m38 0c4.4183 0 8 3.134 8 7h-3c0-2.77-2.23-5-5-5v-2z"/>
+	<rect id="shadow-right" style="opacity:.375;fill:url(#linearGradient3619);fill-rule:evenodd" transform="scale(-1,1)" height="30" width="3" y="7" x="-46"/>
+	<path id="shadow-bottomright" style="opacity:.375;color:currentColor;fill:url(#radialGradient3621)" class="ColorScheme-Background" d="m46 37c0 4.9706-3.5817 9-8 9v-4c2.77 0 5-2.23 5-5h3z"/>
 	<rect id="shadow-hint-top-margin" style="opacity:.76562;fill:#008000" transform="scale(1,-1)" height="2" width="4" y="-2.0001" x="21"/>
 	<rect id="shadow-hint-left-margin" style="opacity:.76562;fill:#008000" height="4" width="3" y="20" x=".000030518"/>
 	<rect id="shadow-hint-right-margin" style="opacity:.76562;fill:#008000" height="4" width="3" y="20" x="43"/>

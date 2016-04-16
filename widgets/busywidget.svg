@@ -5,9 +5,10 @@
 			<stop id="stop4191" style="stop-color:#ffffff" offset="0"/>
 			<stop id="stop4193" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
 		</linearGradient>
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {	color:#0000FF; }
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text {	color:#0000FF; }
 			.ColorScheme-Background { color:#FF0000; }
-			}</style>
+		</style>
 		<radialGradient id="radialGradient4195" xlink:href="#linearGradient4189" gradientUnits="userSpaceOnUse" cy="-10.312" cx="-20" gradientTransform="matrix(3.0423e-8 -.54130 .54130 3.0423e-8 -14.418 -20.826)" r="9.237"/>
 		<radialGradient id="radialGradient4322" xlink:href="#linearGradient4189" gradientUnits="userSpaceOnUse" cy="-50.212" cx="-24" gradientTransform="matrix(2.0816e-8 -.39907 .39907 2.0816e-8 -3.9621 -59.578)" r="17.541"/>
 	</defs>
