@@ -11,3 +11,10 @@ ForegroundNormal=255,255,255
 BackgroundNormal=224,224,224
 ForegroundActive=255,0,0
 ForegroundNormal=0,0,0
+
+#Text fields
+[Colors:View]
+#Selected text background
+DecorationFocus=160,160,160
+#Text color
+ForegroundNormal=0,0,0
