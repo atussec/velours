@@ -15,6 +15,6 @@ ForegroundNormal=0,0,0
 #Text fields
 [Colors:View]
 #Selected text background
-DecorationFocus=160,160,160
+DecorationFocus=255,63,63
 #Text color
 ForegroundNormal=0,0,0
