@@ -8,13 +8,19 @@ DecorationHover=255,33,33
 ForegroundNormal=255,255,255
 
 [Colors:Button]
-BackgroundNormal=224,224,224
-ForegroundActive=255,0,0
+#BackgroundNormal=224,224,224
+#ForegroundActive=255,0,0
+#Used for text and icons inside buttons -- DO NOT REMOVE
 ForegroundNormal=0,0,0
+
+
+[Colors:Selection]
+#Fix for Frameworks 5.22
+BackgroundNormal=255,33,33
 
 #Text fields
 [Colors:View]
 #Selected text background
-DecorationFocus=239,132,65
-#Text color
+DecorationFocus=255,95,80
+#Text color -- DO NOT REMOVE
 ForegroundNormal=0,0,0
