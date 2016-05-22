@@ -5,7 +5,7 @@
 			.ColorScheme-Text { color:#0000FF; }
 		</style>
 	</defs>
-	<metadata id="metadata4105">
+	<metadata id="metadata7">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -16,14 +16,13 @@
 						<dc:title>obnosim</dc:title>
 					</cc:Agent>
 				</dc:creator>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
 			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
 				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
 				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
 				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
 				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
 				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
 				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
 			</cc:License>

@@ -32,7 +32,7 @@
 		<radialGradient id="radialGradient3555" xlink:href="#linearGradient4594" gradientUnits="userSpaceOnUse" cy="158.5" cx="-56" gradientTransform="matrix(1 0 0 .56250 189 .84378)" r="32"/>
 		<radialGradient id="radialGradient3557" xlink:href="#linearGradient4554" gradientUnits="userSpaceOnUse" cy="110.5" cx="-56" gradientTransform="matrix(1 0 0 .56250 189 51.844)" r="32"/>
 	</defs>
-	<metadata id="metadata3125">
+	<metadata id="metadata7">
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -43,14 +43,13 @@
 						<dc:title>obnosim</dc:title>
 					</cc:Agent>
 				</dc:creator>
-				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
 			</cc:Work>
-			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
 				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
 				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
 				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
 				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
 				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
 				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
 			</cc:License>
