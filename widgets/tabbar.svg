@@ -1,43 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<defs id="defs4">
-		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-		<linearGradient id="linearGradient4938">
-			<stop id="stop4940" style="stop-color:#c0c0c0" offset="0"/>
-			<stop id="stop4942" style="stop-color:#e0e0e0" offset="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient4309" x1="-50.6" xlink:href="#linearGradient4938" gradientUnits="userSpaceOnUse" y1="61" gradientTransform="matrix(.29412 0 0 1 39.88 -48)" x2="-50.6" y2="51"/>
-		<linearGradient id="linearGradient4312" x1="-36" xlink:href="#linearGradient4938" gradientUnits="userSpaceOnUse" y1="61" gradientTransform="translate(66,-48)" x2="-36" y2="51"/>
-		<linearGradient id="linearGradient4315" x1="-72" xlink:href="#linearGradient4938" gradientUnits="userSpaceOnUse" y1="61" gradientTransform="translate(90,-48)" x2="-72" y2="51"/>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text { color:#0000FF; }
+		</style>
+		<g class="ColorScheme-Text">
+			<linearGradient id="linearGradient3224" x1="25" xlink:href="#linearGradient4631" gradientUnits="userSpaceOnUse" y1="17" gradientTransform="matrix(0.068182,0,0,1,46.795,-4.1507e-6)" x2="25" y2="3"/>
+			<linearGradient id="linearGradient4631">
+				<stop id="stop4940-9" style="stop-color:currentColor;stop-opacity:.75" offset="0"/>
+				<stop id="stop4942-4" style="stop-color:currentColor;stop-opacity:.875" offset="1"/>
+			</linearGradient>
+			<linearGradient id="linearGradient3226" x1="25" xlink:href="#linearGradient4631" gradientUnits="userSpaceOnUse" y1="17" gradientTransform="matrix(0.068182,0,0,1,-0.20455,-4.1507e-6)" x2="25" y2="3"/>
+			<linearGradient id="linearGradient3228" x1="25" xlink:href="#linearGradient4631" gradientUnits="userSpaceOnUse" y1="17" gradientTransform="matrix(.22727 0 0 .71429 18.318 .85714)" x2="25" y2="3"/>
+		</g>
 	</defs>
 	<metadata id="metadata7">
 		<rdf:RDF>
@@ -63,112 +38,136 @@
 		</rdf:RDF>
 	</metadata>
 	<rect id="hint-stretch-borders" style="opacity:.875;fill:#008000" height="10" width="10" y="-4.8828e-7" x="0"/>
-	<rect id="north-active-tab-left" style="opacity:.875;fill:url(#linearGradient4315)" height="10" width="3" y="3" x="16"/>
-	<rect id="north-active-tab-right" style="opacity:.875;fill:url(#linearGradient4312)" height="10" width="3" y="3" x="29"/>
-	<rect id="north-active-tab-center" style="opacity:.875;fill:url(#linearGradient4309)" height="10" width="10" y="3" x="19"/>
-	<g id="north-active-tab-top" style="opacity:.875" transform="matrix(.29412 0 0 1 81.35 -41)">
-		<rect id="rect3067" style="opacity:1;fill:#e0e0e0" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3069" style="opacity:.5;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+	<g id="north-active" class="ColorScheme-Text">
+		<g id="north-active-tab-topleft" style="opacity:.875" transform="translate(16)">
+			<path style="fill-opacity:.87843;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+		</g>
+		<rect id="north-active-tab-center" style="opacity:.875;fill:url(#linearGradient3228)" height="10" width="10" y="3" x="19"/>
+		<g id="north-active-tab-topright" style="opacity:.875" transform="translate(-18)">
+			<path style="fill-opacity:.875;fill:currentColor" d="m47 0c1.662 0 3 1.338 3 3h-3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m47 0v1c1.662 0 3 .892 3 2 0-1.662-1.338-3-3-3z"/>
+		</g>
+		<g id="north-active-tab-bottomleft" style="opacity:.875" transform="translate(16,-4)">
+			<path style="fill-opacity:.75;fill:currentColor" d="m3 20c-1.662 0-3-1.338-3-3h3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m3 20c-1.662 0-3-1.338-3-3 0 1.108 1.338 2 3 2v1z"/>
+		</g>
+		<g id="north-active-tab-bottomright" style="opacity:.875" transform="translate(-18,-4)">
+			<path style="fill-opacity:.75;fill:currentColor" d="m47 20c1.662 0 3-1.338 3-3h-3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m47 20v-1c1.662 0 3-.892 3-2 0 1.662-1.338 3-3 3z"/>
+		</g>
+		<g id="north-active-tab-top" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 0)">
+			<rect style="fill-opacity:.875;fill:currentColor" transform="rotate(90)" height="44" width="3" y="-47" x="0"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0v1h44v-1h-44z"/>
+		</g>
+		<g id="north-active-tab-left" transform="matrix(1 0 0 .71429 16 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3226)" height="14" width="3" y="3" x="-1.7881e-7"/>
+		</g>
+		<g id="north-active-tab-bottom" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 -4)">
+			<rect style="fill-opacity:.75;fill:currentColor" transform="matrix(0,-1,-1,0,0,0)" height="44" width="3" y="-47" x="-20"/>
+			<path style="opacity:0.165;fill:#000000" d="m3 20v-1h44v1h-44z"/>
+		</g>
+		<g id="north-active-tab-right" transform="matrix(1 0 0 .71429 -18 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3224)" height="14" width="3" y="3" x="47"/>
+		</g>
 	</g>
-	<g id="north-active-tab-topleft" style="opacity:.875" transform="translate(231,-41)">
-		<path id="path3073" style="opacity:1;fill:#e0e0e0" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3075" style="opacity:.5;fill:#ffffff" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+	<g id="west-active" style="opacity:0" transform="translate(-16,16)" class="ColorScheme-Text">
+		<g id="west-active-tab-topleft" style="opacity:.875" transform="translate(16)">
+			<path style="fill-opacity:.875;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+		</g>
+		<rect id="west-active-tab-center" style="opacity:.875;fill:url(#linearGradient3228)" height="10" width="10" y="3" x="19"/>
+		<g id="west-active-tab-topright" style="opacity:.875" transform="translate(-18)">
+			<path style="fill-opacity:.87843;fill:currentColor" d="m47 0c1.662 0 3 1.338 3 3h-3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m47 0v1c1.662 0 3 .892 3 2 0-1.662-1.338-3-3-3z"/>
+		</g>
+		<g id="west-active-tab-bottomleft" style="opacity:.875" transform="translate(16,-4)">
+			<path style="fill-opacity:.75;fill:currentColor" d="m3 20c-1.662 0-3-1.338-3-3h3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m3 20c-1.662 0-3-1.338-3-3 0 1.108 1.338 2 3 2v1z"/>
+		</g>
+		<g id="west-active-tab-bottomright" style="opacity:.875" transform="translate(-18,-4)" class="ColorScheme-Text">
+			<path style="fill-opacity:.75;fill:currentColor" d="m47 20c1.662 0 3-1.338 3-3h-3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m47 20v-1c1.662 0 3-.892 3-2 0 1.662-1.338 3-3 3z"/>
+		</g>
+		<g id="west-active-tab-top" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 0)" class="ColorScheme-Text">
+			<rect style="fill-opacity:.87843;fill:currentColor" transform="rotate(90)" height="44" width="3" y="-47" x="0"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0v1h44v-1h-44z"/>
+		</g>
+		<g id="west-active-tab-left" transform="matrix(1 0 0 .71429 16 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3226)" height="14" width="3" y="3" x="-1.7881e-7"/>
+		</g>
+		<g id="west-active-tab-bottom" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 -4)" class="ColorScheme-Text">
+			<rect style="fill-opacity:.75;fill:currentColor" transform="matrix(0,-1,-1,0,0,0)" height="44" width="3" y="-47" x="-20"/>
+			<path style="opacity:0.165;fill:#000000" d="m3 20v-1h44v1h-44z"/>
+		</g>
+		<g id="west-active-tab-right" transform="matrix(1 0 0 .71429 -18 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3224)" height="14" width="3" y="3" x="47"/>
+		</g>
 	</g>
-	<g id="north-active-tab-topright" style="opacity:.875" transform="translate(207,-41)">
-		<path id="path3079" style="opacity:1;fill:#e0e0e0" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3081" style="opacity:.5;fill:#ffffff" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
+	<g id="east-active" style="opacity:0" transform="translate(16,16)" class="ColorScheme-Text">
+		<g id="east-active-tab-topleft" style="opacity:.875" transform="translate(16)" class="ColorScheme-Text">
+			<path style="fill-opacity:.875;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+		</g>
+		<rect id="east-active-tab-center" style="opacity:.875;fill:url(#linearGradient3228)" height="10" width="10" y="3" x="19"/>
+		<g id="east-active-tab-topright" style="opacity:.875" transform="translate(-18)" class="ColorScheme-Text">
+			<path style="fill-opacity:.875;fill:currentColor" d="m47 0c1.662 0 3 1.338 3 3h-3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m47 0v1c1.662 0 3 .892 3 2 0-1.662-1.338-3-3-3z"/>
+		</g>
+		<g id="east-active-tab-bottomleft" style="opacity:.875" transform="translate(16,-4)" class="ColorScheme-Text">
+			<path style="fill-opacity:.75;fill:currentColor" d="m3 20c-1.662 0-3-1.338-3-3h3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m3 20c-1.662 0-3-1.338-3-3 0 1.108 1.338 2 3 2v1z"/>
+		</g>
+		<g id="east-active-tab-bottomright" style="opacity:.875" transform="translate(-18,-4)" class="ColorScheme-Text">
+			<path style="fill-opacity:.75;fill:currentColor" d="m47 20c1.662 0 3-1.338 3-3h-3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m47 20v-1c1.662 0 3-.892 3-2 0 1.662-1.338 3-3 3z"/>
+		</g>
+		<g id="east-active-tab-top" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 0)" class="ColorScheme-Text">
+			<rect style="fill-opacity:.875;fill:currentColor" transform="rotate(90)" height="44" width="3" y="-47" x="0"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0v1h44v-1h-44z"/>
+		</g>
+		<g id="east-active-tab-left" transform="matrix(1 0 0 .71429 16 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3226)" height="14" width="3" y="3" x="-1.7881e-7"/>
+		</g>
+		<g id="east-active-tab-bottom" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 -4)" class="ColorScheme-Text">
+			<rect style="fill-opacity:.75;fill:currentColor" transform="matrix(0,-1,-1,0,0,0)" height="44" width="3" y="-47" x="-20"/>
+			<path style="opacity:0.165;fill:#000000" d="m3 20v-1h44v1h-44z"/>
+		</g>
+		<g id="east-active-tab-right" transform="matrix(1 0 0 .71429 -18 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3224)" height="14" width="3" y="3" x="47"/>
+		</g>
 	</g>
-	<g id="north-active-tab-bottom" style="opacity:.875" transform="matrix(.29412 0 0 -1 81.35 56.998)">
-		<rect id="rect3085" style="opacity:1;fill:#c0c0c0" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3087" style="opacity:.165;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="north-active-tab-bottomleft" style="opacity:.875" transform="matrix(1,0,0,-1,231,56.998)">
-		<path id="path3091" style="opacity:1;fill:#c0c0c0" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3093" style="opacity:.165;fill:#000000" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="north-active-tab-bottomright" style="opacity:.875" transform="matrix(1,0,0,-1,207,56.998)">
-		<path id="path3097" style="opacity:1;fill:#c0c0c0" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3099" style="opacity:.165;fill:#000000" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
-	</g>
-	<rect id="east-active-tab-left" style="opacity:0" height="10" width="3" y="19" x="32"/>
-	<rect id="east-active-tab-right" style="opacity:0" height="10" width="3" y="19" x="45"/>
-	<rect id="east-active-tab-center" style="opacity:0" height="10" width="10" y="19" x="35"/>
-	<g id="east-active-tab-top" style="opacity:0" transform="matrix(.29412 0 0 1 97.35 -25)">
-		<rect id="rect3467" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3469" style="opacity:.062;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="east-active-tab-topleft" style="opacity:0" transform="translate(247,-25)">
-		<path id="path3473" style="opacity:.125;fill:#ffffff" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3475" style="opacity:.062;fill:#ffffff" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="east-active-tab-topright" style="opacity:0" transform="translate(223,-25)">
-		<path id="path3479" style="opacity:.125;fill:#ffffff" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3481" style="opacity:.062;fill:#ffffff" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
-	</g>
-	<g id="east-active-tab-bottom" style="opacity:0" transform="matrix(.29412 0 0 -1 97.35 72.998)">
-		<rect id="rect3485" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3487" style="opacity:.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="east-active-tab-bottomleft" style="opacity:0" transform="matrix(1,0,0,-1,247,72.998)">
-		<path id="path3491" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3493" style="opacity:.062;fill:#000000" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="east-active-tab-bottomright" style="opacity:0" transform="matrix(1,0,0,-1,223,72.998)">
-		<path id="path3497" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3499" style="opacity:.062;fill:#000000" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
-	</g>
-	<rect id="west-active-tab-left" style="opacity:0" height="10" width="3" y="19" x="0"/>
-	<rect id="west-active-tab-right" style="opacity:0" height="10" width="3" y="19" x="13"/>
-	<rect id="west-active-tab-center" style="opacity:0" height="10" width="10" y="19" x="3"/>
-	<g id="west-active-tab-top" style="opacity:0" transform="matrix(.29412 0 0 1 65.35 -25)">
-		<rect id="rect3515" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3517" style="opacity:.062;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="west-active-tab-topleft" style="opacity:0" transform="translate(215,-25)">
-		<path id="path3521" style="opacity:.125;fill:#ffffff" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3523" style="opacity:.062;fill:#ffffff" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="west-active-tab-topright" style="opacity:0" transform="translate(191,-25)">
-		<path id="path3527" style="opacity:.125;fill:#ffffff" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3529" style="opacity:.062;fill:#ffffff" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
-	</g>
-	<g id="west-active-tab-bottom" style="opacity:0" transform="matrix(.29412 0 0 -1 65.35 72.998)">
-		<rect id="rect3533" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3535" style="opacity:.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="west-active-tab-bottomleft" style="opacity:0" transform="matrix(1,0,0,-1,215,72.998)">
-		<path id="path3539" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3541" style="opacity:.062;fill:#000000" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="west-active-tab-bottomright" style="opacity:0" transform="matrix(1,0,0,-1,191,72.998)">
-		<path id="path3545" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3547" style="opacity:.062;fill:#000000" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
-	</g>
-	<rect id="south-active-tab-left" style="opacity:0" height="10" width="3" y="34.998" x="16"/>
-	<rect id="south-active-tab-right" style="opacity:0" height="10" width="3" y="34.998" x="29"/>
-	<rect id="south-active-tab-center" style="opacity:0" height="10" width="10" y="34.998" x="19"/>
-	<g id="south-active-tab-top" style="opacity:0" transform="matrix(.29412 0 0 1 81.35 -9)">
-		<rect id="rect3563" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3565" style="opacity:.062;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="south-active-tab-topleft" style="opacity:0" transform="translate(231,-9)">
-		<path id="path3569" style="opacity:.125;fill:#ffffff" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3571" style="opacity:.062;fill:#ffffff" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="south-active-tab-topright" style="opacity:0" transform="translate(207,-9)">
-		<path id="path3575" style="opacity:.125;fill:#ffffff" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3577" style="opacity:.062;fill:#ffffff" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
-	</g>
-	<g id="south-active-tab-bottom" style="opacity:0" transform="matrix(.29412 0 0 -1 81.35 88.998)">
-		<rect id="rect3581" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3583" style="opacity:.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="south-active-tab-bottomleft" style="opacity:0" transform="matrix(1,0,0,-1,231,88.998)">
-		<path id="path3587" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="path3589" style="opacity:.062;fill:#000000" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
-	</g>
-	<g id="south-active-tab-bottomright" style="opacity:0" transform="matrix(1,0,0,-1,207,88.998)">
-		<path id="path3593" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m-175 44c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path3595" style="opacity:.062;fill:#000000" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z"/>
+	<g id="south-active" style="opacity:0" transform="translate(1.7881e-7,32)" class="ColorScheme-Text">
+		<g id="south-active-tab-topleft" style="opacity:.875" transform="translate(16)">
+			<path style="fill-opacity:.875;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3h3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z"/>
+		</g>
+		<rect id="south-active-tab-center" style="opacity:.875;fill:url(#linearGradient3228)" height="10" width="10" y="3" x="19"/>
+		<g id="south-active-tab-topright" style="opacity:.875" transform="translate(-18)">
+			<path style="fill-opacity:.875;fill:currentColor" d="m47 0c1.662 0 3 1.338 3 3h-3v-3z"/>
+			<path style="opacity:.5;fill:currentColor" d="m47 0v1c1.662 0 3 .892 3 2 0-1.662-1.338-3-3-3z"/>
+		</g>
+		<g id="south-active-tab-bottomleft" style="opacity:.875" transform="translate(16,-4)">
+			<path style="fill-opacity:.75;fill:currentColor" d="m3 20c-1.662 0-3-1.338-3-3h3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m3 20c-1.662 0-3-1.338-3-3 0 1.108 1.338 2 3 2v1z"/>
+		</g>
+		<g id="south-active-tab-bottomright" style="opacity:.875" transform="translate(-18,-4)">
+			<path style="fill-opacity:.75;fill:currentColor" d="m47 20c1.662 0 3-1.338 3-3h-3v3z"/>
+			<path style="opacity:.16450;fill:#000000" d="m47 20v-1c1.662 0 3-.892 3-2 0 1.662-1.338 3-3 3z"/>
+		</g>
+		<g id="south-active-tab-top" style="opacity:.875" transform="matrix(.22727 0 0 1 18.318 0)">
+			<rect style="fill-opacity:.875;fill:currentColor" transform="rotate(90)" height="44" width="3" y="-47" x="0"/>
+			<path style="opacity:.5;fill:currentColor" d="m3 0v1h44v-1h-44z"/>
+		</g>
+		<g id="south-active-tab-left" transform="matrix(1 0 0 .71429 16 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3226)" height="14" width="3" y="3" x="-1.7881e-7"/>
+		</g>
+		<g id="south-active-tab-bottom" style="opacity:.875" transform="matrix(0.22727273,0,0,1,18.318182,-4)">
+			<rect style="fill-opacity:.75;fill:currentColor" transform="matrix(0,-1,-1,0,0,0)" height="44" width="3" y="-47" x="-20"/>
+			<path style="opacity:0.165;fill:#000000" d="m3 20v-1h44v1h-44z"/>
+		</g>
+		<g id="south-active-tab-right" transform="matrix(1 0 0 .71429 -18 .85714)">
+			<rect style="opacity:.875;fill:url(#linearGradient3224)" height="14" width="3" y="3" x="47"/>
+		</g>
 	</g>
 </svg>
