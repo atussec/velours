@@ -31,27 +31,27 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="border-left" transform="matrix(0 -1 .5 0 59.5 55)">
-		<rect id="rect4300" style="fill:none" height="10" width="34" y="-119" x="18"/>
-		<path id="path4302" style="opacity:.375;fill:url(#radialGradient3361);fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
-		<path id="path4235" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
-		<path id="rect3364" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path style="opacity:.375;fill:url(#radialGradient3361);fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
+		<path d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 	<g id="border-right" transform="matrix(0 -1 -.5 0 -19.5 55)">
-		<rect id="rect4245" style="fill:none" height="10" width="34" y="-119" x="18"/>
-		<path id="path4247" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
-		<path id="path4249" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
-		<path id="path4251" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
+		<path d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 	<g id="border-top" transform="matrix(1 0 0 .5 -15 59.5)">
-		<rect id="rect4259" style="fill:none" height="10" width="34" y="-119" x="18"/>
-		<path id="path4261" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
-		<path id="path4263" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
-		<path id="path4265" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z"/>
+		<path d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 	<g id="border-bottom" transform="matrix(1 0 0 -.5 -15 -19.5)">
-		<rect id="rect4269" style="fill:none" height="10" width="34" y="-119" x="18"/>
-		<path id="path4271" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
-		<path id="path4273" d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)"/>
-		<path id="path4275" d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="10" width="34" y="-119" x="18"/>
+		<path style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient3361)" transform="matrix(0,2,-1,0,55,-119)" d="m1 5.0977v29.804c2.2501-.828 4-7.181 4-14.902s-1.7499-14.074-4-14.902z"/>
+		<path d="m0 5a1 15 0 0 1 1 15 1 15 0 0 1 -1 15 2 15 0 0 0 2 -15 2 15 0 0 0 -2 -15z" style="opacity:.187;fill:#000000;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)"/>
+		<path d="m0 5v30a1 15 0 0 0 1 -15 1 15 0 0 0 -1 -15z" style="opacity:.187;fill:currentColor;fill-rule:evenodd" transform="matrix(0,2,-1,0,55,-119)" class="ColorScheme-Text"/>
 	</g>
 </svg>

@@ -29,11 +29,11 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="22-22-applications-other" transform="translate(-22,10)">
-		<rect id="rect4142" style="fill:none" height="22" width="22" y="0" x="0"/>
-		<path id="rect4144" class="ColorScheme-Text" d="m2 4v14c0 1 0 1 1 1h16c1 0 1 0 1-1v-14c0-1 0-1-1-1h-16c-1 0-1 0-1 1zm1 1h16v13h-16z" style="opacity:.875;fill:currentColor"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="0"/>
+		<path class="ColorScheme-Text" d="m2 4v14c0 1 0 1 1 1h16c1 0 1 0 1-1v-14c0-1 0-1-1-1h-16c-1 0-1 0-1 1zm1 1h16v13h-16z" style="opacity:.875;fill:currentColor"/>
 	</g>
 	<g id="applications-other" transform="translate(0,10)">
-		<rect id="rect4155" style="fill:none" height="32" width="32" y="-10" x="0"/>
-		<path id="path4157" class="ColorScheme-Text" style="opacity:.875;fill:currentColor" d="m2-5v22c0 2 0 2 2 2h24c2 0 2 0 2-2v-22c0-2 0-2-2-2h-24c-2 0-2 0-2 2zm2 2h24v20h-24z"/>
+		<rect style="fill:none" height="32" width="32" y="-10" x="0"/>
+		<path class="ColorScheme-Text" style="opacity:.875;fill:currentColor" d="m2-5v22c0 2 0 2 2 2h24c2 0 2 0 2-2v-22c0-2 0-2-2-2h-24c-2 0-2 0-2 2zm2 2h24v20h-24z"/>
 	</g>
 </svg>

@@ -31,7 +31,7 @@
 	<path id="hover-top" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m1 8v.99875h11v-.9988h-11z"/>
 	<rect id="hover-center" style="opacity:.125;fill:currentColor" class="ColorScheme-Text" transform="scale(1,-1)" height="5" width="11" y="-14" x="1"/>
 	<g id="hover-bottom" transform="matrix(2.2 0 0 .99875 -1.2 -2.4469)">
-		<rect id="rect3076" style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="1.0012" width="5" y="16.467" x="1"/>
+		<rect style="opacity:.25;fill:currentColor" class="ColorScheme-Text" height="1.0012" width="5" y="16.467" x="1"/>
 	</g>
 	<path id="hover-bottomleft" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m.0000095 14c0 .55228.44772 1 1 1v-1h-1z"/>
 	<path id="hover-topleft" class="ColorScheme-Text" style="opacity:.25;fill:currentColor" d="m.0000095 9c0-.55228.44772-1 1-1v1h-1z"/>

@@ -29,43 +29,43 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="22-22-go-previous">
-		<rect id="rect3351" style="fill:none" height="22" width="22" y="0" x="0"/>
-		<path id="path4153" d="m14 19-8-8 8-8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="0"/>
+		<path d="m14 19-8-8 8-8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="22-22-go-next">
-		<rect id="rect4155" style="fill:none" height="22" width="22" y="0" x="26"/>
-		<path id="path4157" d="m33.596 19 8-8-8-8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="26"/>
+		<path d="m33.596 19 8-8-8-8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="22-22-go-up">
-		<rect id="rect4159" style="fill:none" transform="rotate(90)" height="22" width="22" y="-22" x="26"/>
-		<path id="path4161" d="m2 41 8-8 8 8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+		<rect style="fill:none" transform="rotate(90)" height="22" width="22" y="-22" x="26"/>
+		<path d="m2 41 8-8 8 8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="22-22-go-down">
-		<rect id="rect4163" style="fill:none" transform="rotate(90)" height="22" width="22" y="-48" x="26"/>
-		<path id="path4165" d="m29.596 33 8 8 8-8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+		<rect style="fill:none" transform="rotate(90)" height="22" width="22" y="-48" x="26"/>
+		<path d="m29.596 33 8 8 8-8" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="22-22-go-home">
-		<rect id="rect4183" style="fill:none" height="22" width="22" y="0" x="-33"/>
-		<path id="path4185" d="m-25 18v-7h-4l7-7 7 7h-4v7z" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="-33"/>
+		<path d="m-25 18v-7h-4l7-7 7 7h-4v7z" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="go-next" transform="matrix(1.3333 0 0 1.3333 -1.3333 -70.667)">
-		<rect id="rect3359" style="fill:none" height="24" width="24" y="-1" x="25"/>
-		<path id="path3361" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="24" width="24" y="-1" x="25"/>
+		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
 	</g>
 	<g id="go-home" transform="matrix(1.3333 0 0 1.3333 11.333 -63.667)">
-		<rect id="rect3377" style="fill:none" height="24" width="24" y="-1" x="-34"/>
-		<path id="path3379" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-width:1.5;fill:none" d="m-25.75 18.5v-7.4999h-4.5l8.25-8.25 8.25 8.25h-4.5v7.4999z" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="24" width="24" y="-1" x="-34"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-width:1.5;fill:none" d="m-25.75 18.5v-7.4999h-4.5l8.25-8.25 8.25 8.25h-4.5v7.4999z" class="ColorScheme-Text"/>
 	</g>
 	<g id="go-up" transform="matrix(0 -1.3333 1.3333 0 1.3333 25.333)">
-		<rect id="rect4184" style="fill:none" height="24" width="24" y="-1" x="25"/>
-		<path id="path4186" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="24" width="24" y="-1" x="25"/>
+		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
 	</g>
 	<g id="go-previous" transform="matrix(-1.3333 0 0 -1.3333 65.333 -41.333)">
-		<rect id="rect4190" style="fill:none" height="24" width="24" y="-1" x="25"/>
-		<path id="path4192" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="24" width="24" y="-1" x="25"/>
+		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
 	</g>
 	<g id="go-down" transform="matrix(0 1.3333 1.3333 0 33.333 -73.333)">
-		<rect id="rect4202" style="fill:none" height="24" width="24" y="-1" x="25"/>
-		<path id="path4204" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="24" width="24" y="-1" x="25"/>
+		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m33.25 19.25 8.25-8.25-8.25-8.25" class="ColorScheme-Text"/>
 	</g>
 </svg>

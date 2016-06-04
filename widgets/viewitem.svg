@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="svg3155" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="36" width="84" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<defs id="defs3157">
-		<linearGradient id="linearGradient4112">
-			<stop id="stop4114" style="stop-color:#ffffff" offset="0"/>
-			<stop id="stop4116" style="stop-color:#ffffff;stop-opacity:.75294" offset="1"/>
-		</linearGradient>
-		<linearGradient id="linearGradient4282" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(118,-48)" y1="51" x1="-54"/>
-		<linearGradient id="linearGradient4285" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(118,-48)" y1="51" x1="-37"/>
-		<linearGradient id="linearGradient4288" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(118,-48)" y1="51" x1="-73"/>
-		<linearGradient id="linearGradient4309" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(74,-28)" y1="51" x1="-54"/>
-		<linearGradient id="linearGradient4312" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(74,-28)" y1="51" x1="-37"/>
-		<linearGradient id="linearGradient4315" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(74,-28)" y1="51" x1="-73"/>
-		<linearGradient id="linearGradient4336" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(74,-48)" y1="51" x1="-54"/>
-		<linearGradient id="linearGradient4339" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(74,-48)" y1="51" x1="-37"/>
-		<linearGradient id="linearGradient4342" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(74,-48)" y1="51" x1="-73"/>
-		<linearGradient id="linearGradient4391" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(118,-28)" y1="51" x1="-54"/>
-		<linearGradient id="linearGradient4476" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(118,-8)" y1="51" x1="-37"/>
-		<linearGradient id="linearGradient4478" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(118,-8)" y1="51" x1="-73"/>
+		<style id="current-color-scheme" type="text/css">
+			.ColorScheme-Text { color:#0000FF; }
+		</style>
+		<g class="ColorScheme-Text">
+			<linearGradient id="linearGradient4112">
+				<stop id="stop4114" style="stop-color:currentColor" offset="0"/>
+				<stop id="stop4116" style="stop-color:currentColor;stop-opacity:.75294" offset="1"/>
+			</linearGradient>
+			<linearGradient id="linearGradient4282" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(118,-48)" y1="51" x1="-54"/>
+			<linearGradient id="linearGradient4285" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(118,-48)" y1="51" x1="-37"/>
+			<linearGradient id="linearGradient4288" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(118,-48)" y1="51" x1="-73"/>
+			<linearGradient id="linearGradient4309" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(74,-28)" y1="51" x1="-54"/>
+			<linearGradient id="linearGradient4312" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(74,-28)" y1="51" x1="-37"/>
+			<linearGradient id="linearGradient4315" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(74,-28)" y1="51" x1="-73"/>
+			<linearGradient id="linearGradient4336" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(74,-48)" y1="51" x1="-54"/>
+			<linearGradient id="linearGradient4339" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(74,-48)" y1="51" x1="-37"/>
+			<linearGradient id="linearGradient4342" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(74,-48)" y1="51" x1="-73"/>
+			<linearGradient id="linearGradient4391" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-54" gradientTransform="translate(118,-28)" y1="51" x1="-54"/>
+			<linearGradient id="linearGradient4476" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-37" gradientTransform="translate(118,-8)" y1="51" x1="-37"/>
+			<linearGradient id="linearGradient4478" y2="61" xlink:href="#linearGradient4112" gradientUnits="userSpaceOnUse" x2="-73" gradientTransform="translate(118,-8)" y1="51" x1="-73"/>
+		</g>
 	</defs>
 	<metadata id="metadata7">
 		<rdf:RDF>
@@ -42,118 +47,124 @@
 		</rdf:RDF>
 	</metadata>
 	<rect id="hint-stretch-borders" style="opacity:.5;fill:#008000" height="5" width="5" y="-5" x="-5"/>
-	<rect id="normal-left" style="opacity:.062;fill:url(#linearGradient4342)" height="10" width="3" y="3" x="0"/>
-	<rect id="normal-right" style="opacity:.062;fill:url(#linearGradient4339)" height="10" width="3" y="3" x="37"/>
-	<rect id="normal-center" style="opacity:.062;fill:url(#linearGradient4336)" height="10" width="34" y="3" x="3"/>
-	<g id="normal-top" style="opacity:.5" transform="translate(215,-41)">
-		<rect id="rect4085" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect4095" style="opacity:0.062;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+	<g id="normal" class="ColorScheme-Text">
+		<rect id="normal-left" style="opacity:.062;fill:url(#linearGradient4342)" height="10" width="3" y="3" x="0"/>
+		<rect id="normal-right" style="opacity:.062;fill:url(#linearGradient4339)" height="10" width="3" y="3" x="37"/>
+		<rect id="normal-center" style="opacity:.062;fill:url(#linearGradient4336)" height="10" width="34" y="3" x="3"/>
+		<g id="normal-top" style="opacity:.5" transform="translate(215,-41)">
+			<rect style="opacity:.125;fill:currentColor" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
+			<rect style="opacity:0.062;fill:currentColor" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+		</g>
+		<g id="normal-topleft" style="opacity:.5" transform="translate(215,-41)">
+			<path d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill:currentColor"/>
+			<path d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="normal-topright" style="opacity:.5" transform="translate(215,-41)">
+			<path d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill:currentColor"/>
+			<path d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="normal-bottom" style="opacity:.5" transform="matrix(1,0,0,-1,215,57)">
+			<rect style="opacity:.125;fill:currentColor;fill-opacity:.75294" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
+			<rect style="opacity:0.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+		</g>
+		<g id="normal-bottomleft" style="opacity:.5" transform="matrix(1,0,0,-1,215,57)">
+			<path d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill-opacity:.75294;fill:currentColor"/>
+			<path d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#000000"/>
+		</g>
+		<g id="normal-bottomright" style="opacity:.5" transform="matrix(1,0,0,-1,215,57)">
+			<path d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill-opacity:.75294;fill:currentColor"/>
+			<path d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#000000"/>
+		</g>
 	</g>
-	<g id="normal-topleft" style="opacity:.5" transform="translate(215,-41)">
-		<path id="path4083" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill:#ffffff"/>
-		<path id="rect4099" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
+	<g id="hover" class="ColorScheme-Text">
+		<rect id="hover-left" style="opacity:.125;fill:url(#linearGradient4315)" height="10" width="3" y="23" x="0"/>
+		<rect id="hover-right" style="opacity:.125;fill:url(#linearGradient4312)" height="10" width="3" y="23" x="37"/>
+		<rect id="hover-center" style="opacity:.125;fill:url(#linearGradient4309)" height="10" width="34" y="23" x="3"/>
+		<g id="hover-top" transform="translate(215,-21)">
+			<rect style="opacity:.125;fill:currentColor" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
+			<rect style="opacity:0.062;fill:currentColor" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+		</g>
+		<g id="hover-topleft" transform="translate(215,-21)">
+			<path d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill:currentColor"/>
+			<path d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="hover-topright" transform="translate(215,-21)">
+			<path d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill:currentColor"/>
+			<path d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="hover-bottom" transform="matrix(1,0,0,-1,215,77)">
+			<rect style="opacity:.125;fill:currentColor;fill-opacity:.75294" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
+			<rect style="opacity:0.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+		</g>
+		<g id="hover-bottomleft" transform="matrix(1,0,0,-1,215,77)">
+			<path d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill-opacity:.75294;fill:currentColor"/>
+			<path d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#000000"/>
+		</g>
+		<g id="hover-bottomright" transform="matrix(1,0,0,-1,215,77)">
+			<path d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill-opacity:.75294;fill:currentColor"/>
+			<path d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#000000"/>
+		</g>
 	</g>
-	<g id="normal-topright" style="opacity:.5" transform="translate(215,-41)">
-		<path id="path4087" d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill:#ffffff"/>
-		<path id="path4110" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<g id="normal-bottom" style="opacity:.5" transform="matrix(1,0,0,-1,215,57)">
-		<rect id="rect4162" style="opacity:.125;fill:#ffffff;fill-opacity:.75294" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect4164" style="opacity:0.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="normal-bottomleft" style="opacity:.5" transform="matrix(1,0,0,-1,215,57)">
-		<path id="path4168" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill-opacity:.75294;fill:#ffffff"/>
-		<path id="path4170" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#000000"/>
-	</g>
-	<g id="normal-bottomright" style="opacity:.5" transform="matrix(1,0,0,-1,215,57)">
-		<path id="path4174" d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill-opacity:.75294;fill:#ffffff"/>
-		<path id="path4176" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#000000"/>
-	</g>
-	<rect id="hover-left" style="opacity:.125;fill:url(#linearGradient4315)" height="10" width="3" y="23" x="0"/>
-	<rect id="hover-right" style="opacity:.125;fill:url(#linearGradient4312)" height="10" width="3" y="23" x="37"/>
-	<rect id="hover-center" style="opacity:.125;fill:url(#linearGradient4309)" height="10" width="34" y="23" x="3"/>
-	<g id="hover-top" transform="translate(215,-21)">
-		<rect id="rect3067" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3069" style="opacity:0.062;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="hover-topleft" transform="translate(215,-21)">
-		<path id="path3073" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill:#ffffff"/>
-		<path id="path3075" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<g id="hover-topright" transform="translate(215,-21)">
-		<path id="path3079" d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill:#ffffff"/>
-		<path id="path3081" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<g id="hover-bottom" transform="matrix(1,0,0,-1,215,77)">
-		<rect id="rect3085" style="opacity:.125;fill:#ffffff;fill-opacity:.75294" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect3087" style="opacity:0.062;fill:#000000" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="hover-bottomleft" transform="matrix(1,0,0,-1,215,77)">
-		<path id="path3091" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill-opacity:.75294;fill:#ffffff"/>
-		<path id="path3093" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#000000"/>
-	</g>
-	<g id="hover-bottomright" transform="matrix(1,0,0,-1,215,77)">
-		<path id="path3097" d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill-opacity:.75294;fill:#ffffff"/>
-		<path id="path3099" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#000000"/>
-	</g>
-	<rect id="selected-left" style="opacity:.125;fill:url(#linearGradient4288)" height="10" width="3" y="3" x="44"/>
-	<rect id="selected-right" style="opacity:.125;fill:url(#linearGradient4285)" height="10" width="3" y="3" x="81"/>
-	<rect id="selected-center" style="opacity:.125;fill:url(#linearGradient4282)" height="10" width="34" y="3" x="47"/>
-	<g id="selected-top" transform="translate(259,-41)">
-		<rect id="rect4228" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
-		<rect id="rect4230" style="opacity:0.062;fill:#ffffff" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
-	</g>
-	<g id="selected-topleft" transform="translate(259,-41)">
-		<path id="path4234" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill:#ffffff"/>
-		<path id="path4236" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<g id="selected-topright" transform="translate(259,-41)">
-		<path id="path4240" d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill:#ffffff"/>
-		<path id="path4242" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<g id="selected-bottom" transform="translate(215,-41)">
-		<rect id="rect4246" style="opacity:.125;fill:#ffffff;fill-opacity:.75294" height="3" width="34" y="54" x="-168"/>
-		<rect id="rect4248" style="opacity:0.062;fill:#ffffff" transform="scale(1,-1)" height="1" width="34" y="-57" x="-168"/>
-	</g>
-	<g id="selected-bottomleft" transform="matrix(1,0,0,-1,259,57)">
-		<path id="path4252" d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill-opacity:.75294;fill:#ffffff"/>
-		<path id="path4254" d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<g id="selected-bottomright" transform="matrix(1,0,0,-1,259,57)">
-		<path id="path4258" d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill-opacity:.75294;fill:#ffffff"/>
-		<path id="path4260" d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:#ffffff"/>
-	</g>
-	<rect id="selected+hover-center" style="opacity:.125;fill:url(#linearGradient4391)" height="10" width="34" y="23" x="47"/>
-	<g id="selected+hover-top" transform="translate(0,-20)">
-		<rect id="rect4353" style="opacity:.125;fill:#ffffff" transform="scale(1,-1)" height="3" width="34" y="-43" x="47"/>
-		<rect id="rect4355" style="opacity:0.062;fill:#ffffff" height="1" width="34" y="40" x="47"/>
-	</g>
-	<g id="selected+hover-bottom" transform="translate(0,-20)">
-		<rect id="rect4371" style="opacity:.125;fill:#ffffff;fill-opacity:.75294" height="3" width="34" y="53" x="47"/>
-		<rect id="rect4373" style="opacity:0.062;fill:#ffffff" transform="scale(1,-1)" height="1" width="34" y="-56" x="47"/>
-	</g>
-	<g id="selected+hover-topleft" transform="translate(0,-20)">
-		<path id="path4359" style="opacity:.125;fill:#ffffff" d="m44 43c0-1.662 1.338-3 3-3v3h-3z"/>
-		<path id="rect4407" style="opacity:0.062;fill:#ffffff" d="m47 40c-1.662 0-3 1.338-3 3h1c0-1.108.892-2 2-2v-1z"/>
-	</g>
-	<g id="selected+hover-bottomleft" transform="translate(0,-20)">
-		<path id="path4377" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m44 53c0 1.662 1.338 3 3 3v-3h-3z"/>
-		<path id="path4416" style="opacity:0.062;fill:#ffffff" d="m47 56c-1.662 0-3-1.338-3-3h1c0 1.108.892 2 2 2v1z"/>
-	</g>
-	<g id="selected+hover-topright" transform="translate(0,-20)">
-		<path id="path4365" style="opacity:.125;fill:#ffffff" d="m84 43c0-1.662-1.338-3-3-3v3h3z"/>
-		<path id="path4418" style="opacity:0.062;fill:#ffffff" d="m81 40c1.662 0 3 1.338 3 3h-1c0-1.108-.892-2-2-2v-1z"/>
-	</g>
-	<g id="selected+hover-bottomright" transform="translate(0,-20)">
-		<path id="path4383" style="opacity:.125;fill-opacity:.75294;fill:#ffffff" d="m84 53c0 1.662-1.338 3-3 3v-3h3z"/>
-		<path id="path4420" style="opacity:0.062;fill:#ffffff" d="m81 56c1.662 0 3-1.338 3-3h-1c0 1.108-.892 2-2 2v1z"/>
-	</g>
-	<g id="selected+hover-left" transform="translate(0,-20)">
-		<rect id="rect4345" style="opacity:.125;fill:url(#linearGradient4478)" height="10" width="3" y="43" x="44"/>
-		<rect id="rect4422" style="opacity:0.062;fill:#ffffff" height="10" width="1" y="43" x="44"/>
-	</g>
-	<g id="selected+hover-right" transform="translate(0,-20)">
-		<rect id="rect4347" style="opacity:.125;fill:url(#linearGradient4476)" height="10" width="3" y="43" x="81"/>
-		<rect id="rect4424" style="opacity:0.062;fill:#ffffff" height="10" width="1" y="43" x="83"/>
+	<g id="selected" class="ColorScheme-Text">
+		<rect id="selected-left" style="opacity:.125;fill:url(#linearGradient4288)" height="10" width="3" y="3" x="44"/>
+		<rect id="selected-right" style="opacity:.125;fill:url(#linearGradient4285)" height="10" width="3" y="3" x="81"/>
+		<rect id="selected-center" style="opacity:.125;fill:url(#linearGradient4282)" height="10" width="34" y="3" x="47"/>
+		<g id="selected-top" transform="translate(259,-41)">
+			<rect style="opacity:.125;fill:currentColor" transform="scale(1,-1)" height="3" width="34" y="-44" x="-212"/>
+			<rect style="opacity:0.062;fill:currentColor" transform="translate(-141,-7)" height="1" width="34" y="48" x="-71"/>
+		</g>
+		<g id="selected-topleft" transform="translate(259,-41)">
+			<path d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill:currentColor"/>
+			<path d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="selected-topright" transform="translate(259,-41)">
+			<path d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill:currentColor"/>
+			<path d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="selected-bottom" transform="translate(215,-41)">
+			<rect style="opacity:.125;fill:currentColor;fill-opacity:.75294" height="3" width="34" y="54" x="-168"/>
+			<rect style="opacity:0.062;fill:currentColor" transform="scale(1,-1)" height="1" width="34" y="-57" x="-168"/>
+		</g>
+		<g id="selected-bottomleft" transform="matrix(1,0,0,-1,259,57)">
+			<path d="m-215 44c0-1.662 1.338-3 3-3v3h-3z" style="opacity:.125;fill-opacity:.75294;fill:currentColor"/>
+			<path d="m-212 41c-1.662 0-3 1.338-3 3 0-1.108 1.338-2 3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<g id="selected-bottomright" transform="matrix(1,0,0,-1,259,57)">
+			<path d="m-175 44c0-1.662-1.338-3-3-3v3h3z" style="opacity:.125;fill-opacity:.75294;fill:currentColor"/>
+			<path d="m-178 41c1.662 0 3 1.338 3 3 0-1.108-1.338-2-3-2v-1z" style="opacity:0.062;fill:currentColor"/>
+		</g>
+		<rect id="selected+hover-center" style="opacity:.125;fill:url(#linearGradient4391)" height="10" width="34" y="23" x="47"/>
+		<g id="selected+hover-top" transform="translate(0,-20)">
+			<rect style="opacity:.125;fill:currentColor" transform="scale(1,-1)" height="3" width="34" y="-43" x="47"/>
+			<rect style="opacity:0.062;fill:currentColor" height="1" width="34" y="40" x="47"/>
+		</g>
+		<g id="selected+hover-bottom" transform="translate(0,-20)">
+			<rect style="opacity:.125;fill:currentColor;fill-opacity:.75294" height="3" width="34" y="53" x="47"/>
+			<rect style="opacity:0.062;fill:currentColor" transform="scale(1,-1)" height="1" width="34" y="-56" x="47"/>
+		</g>
+		<g id="selected+hover-topleft" transform="translate(0,-20)">
+			<path style="opacity:.125;fill:currentColor" d="m44 43c0-1.662 1.338-3 3-3v3h-3z"/>
+			<path style="opacity:0.062;fill:currentColor" d="m47 40c-1.662 0-3 1.338-3 3h1c0-1.108.892-2 2-2v-1z"/>
+		</g>
+		<g id="selected+hover-bottomleft" transform="translate(0,-20)">
+			<path style="opacity:.125;fill-opacity:.75294;fill:currentColor" d="m44 53c0 1.662 1.338 3 3 3v-3h-3z"/>
+			<path style="opacity:0.062;fill:currentColor" d="m47 56c-1.662 0-3-1.338-3-3h1c0 1.108.892 2 2 2v1z"/>
+		</g>
+		<g id="selected+hover-topright" transform="translate(0,-20)">
+			<path style="opacity:.125;fill:currentColor" d="m84 43c0-1.662-1.338-3-3-3v3h3z"/>
+			<path style="opacity:0.062;fill:currentColor" d="m81 40c1.662 0 3 1.338 3 3h-1c0-1.108-.892-2-2-2v-1z"/>
+		</g>
+		<g id="selected+hover-bottomright" transform="translate(0,-20)">
+			<path style="opacity:.125;fill-opacity:.75294;fill:currentColor" d="m84 53c0 1.662-1.338 3-3 3v-3h3z"/>
+			<path style="opacity:0.062;fill:currentColor" d="m81 56c1.662 0 3-1.338 3-3h-1c0 1.108-.892 2-2 2v1z"/>
+		</g>
+		<g id="selected+hover-left" transform="translate(0,-20)">
+			<rect style="opacity:.125;fill:url(#linearGradient4478)" height="10" width="3" y="43" x="44"/>
+			<rect style="opacity:0.062;fill:currentColor" height="10" width="1" y="43" x="44"/>
+		</g>
+		<g id="selected+hover-right" transform="translate(0,-20)">
+			<rect style="opacity:.125;fill:url(#linearGradient4476)" height="10" width="3" y="43" x="81"/>
+			<rect style="opacity:0.062;fill:currentColor" height="10" width="1" y="43" x="83"/>
+		</g>
 	</g>
 </svg>

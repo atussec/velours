@@ -36,7 +36,7 @@
 	</metadata>
 	<path id="content" style="fill:#808080" transform="matrix(.30769 0 0 .30769 87.692 -48)" d="m-64 208a52 52 0 1 1 -104 0 52 52 0 1 1 104 0z"/>
 	<g id="background">
-		<path id="path3838" style="fill:url(#linearGradient3820)" transform="matrix(.30769 0 0 .30769 51.692 -48)" d="m-64 208a52 52 0 1 1 -104 0 52 52 0 1 1 104 0z"/>
-		<path id="path3822" style="opacity:.5;fill:url(#radialGradient3824)" d="m32 16a16 16 0 0 1 -32 0 16 16 0 1 1 32 0z"/>
+		<path style="fill:url(#linearGradient3820)" transform="matrix(.30769 0 0 .30769 51.692 -48)" d="m-64 208a52 52 0 1 1 -104 0 52 52 0 1 1 104 0z"/>
+		<path style="opacity:.5;fill:url(#radialGradient3824)" d="m32 16a16 16 0 0 1 -32 0 16 16 0 1 1 32 0z"/>
 	</g>
 </svg>

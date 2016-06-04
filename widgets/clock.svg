@@ -54,11 +54,11 @@
 		</radialGradient>
 	</defs>
 	<g id="ClockFace" transform="translate(-284 -26)">
-		<path id="path3386" style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient4194)" d="m76 4a66 67 0 0 0 -66 67 66 67 0 0 0 66 67 66 67 0 0 0 66 -67 66 67 0 0 0 -66 -67zm0 2a64 64 0 0 1 64 64 64 64 0 0 1 -64 64 64 64 0 0 1 -64 -64 64 64 0 0 1 64 -64z" transform="translate(284,26)"/>
-		<rect id="rect4636" style="opacity:.375;fill:none" height="140" width="140" y="26" x="290"/>
+		<path style="opacity:.375;fill-rule:evenodd;fill:url(#radialGradient4194)" d="m76 4a66 67 0 0 0 -66 67 66 67 0 0 0 66 67 66 67 0 0 0 66 -67 66 67 0 0 0 -66 -67zm0 2a64 64 0 0 1 64 64 64 64 0 0 1 -64 64 64 64 0 0 1 -64 -64 64 64 0 0 1 64 -64z" transform="translate(284,26)"/>
+		<rect style="opacity:.375;fill:none" height="140" width="140" y="26" x="290"/>
 		<circle id="circle4630" cy="96" cx="360" r="64" style="opacity:.935;fill-rule:evenodd;fill:#000000"/>
 		<path id="circle5127" d="m76 6a64 64 0 0 0 -64 64 64 64 0 0 0 64 64 64 64 0 0 0 64 -64 64 64 0 0 0 -64 -64zm0 1a63 63 0 0 1 63 63 63 63 0 0 1 -63 63 63 63 0 0 1 -63 -63 63 63 0 0 1 63 -63z" style="opacity:.875;fill-rule:evenodd;fill:#000000" transform="translate(284 26)"/>
-		<circle id="path3381" r="2" style="opacity:.25;fill:url(#linearGradient4189);fill-rule:evenodd" cx="360" cy="40"/>
+		<circle r="2" style="opacity:.25;fill:url(#linearGradient4189);fill-rule:evenodd" cx="360" cy="40"/>
 		<circle id="circle4199" style="opacity:.25;fill:url(#linearGradient4201);fill-rule:evenodd" cx="96" transform="rotate(90)" cy="-416" r="2"/>
 		<circle id="circle4211" style="opacity:.25;fill:url(#linearGradient4213);fill-rule:evenodd" cx="-360" transform="scale(-1)" cy="-152" r="2"/>
 		<circle id="circle4223" style="opacity:.25;fill:url(#linearGradient4225);fill-rule:evenodd" cx="-96" transform="rotate(-90)" cy="304" r="2"/>
@@ -66,22 +66,22 @@
 	</g>
 	<g id="MinuteHand" transform="translate(-284 -26)">
 		<circle id="circle4469" cy="96" cx="360" r="70" style="opacity:.875;fill:none"/>
-		<path id="path4471" style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4583);stroke-linecap:round;stroke-width:2;fill:none" d="m360 96v44"/>
-		<circle id="path4585" cy="140" style="opacity:.875;fill-rule:evenodd;fill:#ffffff" cx="360" r="1"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4583);stroke-linecap:round;stroke-width:2;fill:none" d="m360 96v44"/>
+		<circle cy="140" style="opacity:.875;fill-rule:evenodd;fill:#ffffff" cx="360" r="1"/>
 	</g>
 	<g id="HourHand" transform="translate(-273 -26)">
 		<circle id="circle4477" cy="96" style="opacity:.875;fill:none" cx="355" r="70"/>
-		<path id="path4479" style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4594);stroke-linecap:round;stroke-width:2;fill:none" d="m355 96v30"/>
-		<circle id="path4596" cy="126" style="opacity:.875;fill-rule:evenodd;fill:#ffffff" cx="355" r="1"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4594);stroke-linecap:round;stroke-width:2;fill:none" d="m355 96v30"/>
+		<circle cy="126" style="opacity:.875;fill-rule:evenodd;fill:#ffffff" cx="355" r="1"/>
 	</g>
 	<g id="SecondHand" transform="translate(-295 -26)">
 		<circle id="circle4450" cy="96" style="opacity:.875;fill:none" cx="365" r="70"/>
-		<path id="path4458" style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4556);stroke-linecap:round;stroke-width:2;fill:none" d="m365 96v58"/>
-		<circle id="path4532" cy="154" style="fill-rule:evenodd;fill:#ff2121" cx="365" r="1"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke-dashoffset:1;stroke:url(#linearGradient4556);stroke-linecap:round;stroke-width:2;fill:none" d="m365 96v58"/>
+		<circle cy="154" style="fill-rule:evenodd;fill:#ff2121" cx="365" r="1"/>
 	</g>
 	<g id="HandCenterScrew" transform="translate(68 62)">
-		<rect id="rect3354" style="fill:none" height="16" width="16" y="0" x="0"/>
-		<path id="path4163" style="opacity:.375;fill:url(#radialGradient4179)" d="m1 6.6667v2.3333c0 3.866 3.134 7 7 7s7-3.134 7-7v-2.3333z"/>
-		<path id="path3031" style="fill:url(#linearGradient3352)" d="m15 8a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
+		<rect style="fill:none" height="16" width="16" y="0" x="0"/>
+		<path style="opacity:.375;fill:url(#radialGradient4179)" d="m1 6.6667v2.3333c0 3.866 3.134 7 7 7s7-3.134 7-7v-2.3333z"/>
+		<path style="fill:url(#linearGradient3352)" d="m15 8a7 7 0 0 1 -7 7 7 7 0 0 1 -7 -7 7 7 0 0 1 7 -7 7 7 0 0 1 7 7z"/>
 	</g>
 </svg>

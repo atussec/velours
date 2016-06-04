@@ -56,76 +56,76 @@
 	<rect id="hint-compose-over-border" style="fill:#008000" height="5" width="5" y="-27" x="48"/>
 	<rect id="mask-center" style="opacity:.875;fill:#000000;fill-rule:evenodd" height="30" width="30" y="7" x="8"/>
 	<g id="topleft" transform="translate(3 -6)">
-		<path id="path4048" style="opacity:.75;fill:none" d="m50 13c0-2.77 2.23-5 5-5v5h-5z"/>
-		<path id="path4062" style="opacity:.375;color:#000000;fill:url(#radialGradient4078)" d="m55 6c-4.4183 0-8 3.134-8 7h3c0-2.77 2.23-5 5-5v-2z"/>
+		<path style="opacity:.75;fill:none" d="m50 13c0-2.77 2.23-5 5-5v5h-5z"/>
+		<path style="opacity:.375;color:#000000;fill:url(#radialGradient4078)" d="m55 6c-4.4183 0-8 3.134-8 7h3c0-2.77 2.23-5 5-5v-2z"/>
 	</g>
 	<g id="left" transform="translate(3 -6)">
-		<rect id="rect4060" style="opacity:.75;fill:none" height="30" width="5" y="13" x="50"/>
-		<rect id="rect4064" style="opacity:.375;fill:url(#linearGradient4080);fill-rule:evenodd" height="30" width="3" y="13" x="47"/>
+		<rect style="opacity:.75;fill:none" height="30" width="5" y="13" x="50"/>
+		<rect style="opacity:.375;fill:url(#linearGradient4080);fill-rule:evenodd" height="30" width="3" y="13" x="47"/>
 	</g>
 	<g id="bottom" transform="translate(3 -6)">
-		<rect id="rect4058" style="opacity:.75;fill:none" height="5" width="30" y="43" x="55"/>
-		<rect id="rect4066" style="opacity:.375;fill:url(#linearGradient4082);fill-rule:evenodd" height="4" width="30" y="48" x="55"/>
+		<rect style="opacity:.75;fill:none" height="5" width="30" y="43" x="55"/>
+		<rect style="opacity:.375;fill:url(#linearGradient4082);fill-rule:evenodd" height="4" width="30" y="48" x="55"/>
 	</g>
 	<g id="top" transform="translate(3 -6)">
-		<rect id="rect4054" style="opacity:.75;fill:none" height="5" width="30" y="8" x="55"/>
-		<rect id="rect4068" style="opacity:.375;fill:url(#linearGradient4084);fill-rule:evenodd" height="2" width="30" y="6" x="55"/>
+		<rect style="opacity:.75;fill:none" height="5" width="30" y="8" x="55"/>
+		<rect style="opacity:.375;fill:url(#linearGradient4084);fill-rule:evenodd" height="2" width="30" y="6" x="55"/>
 	</g>
 	<g id="bottomleft" transform="translate(3 -6)">
-		<path id="path4046" style="opacity:.75;fill:none" d="m50 43c0 2.77 2.23 5 5 5v-5h-5z"/>
-		<path id="path4070" style="opacity:.375;color:#000000;fill:url(#radialGradient4086)" d="m47 43c0 4.9706 3.5817 9 8 9v-4c-2.77 0-5-2.23-5-5h-3z"/>
+		<path style="opacity:.75;fill:none" d="m50 43c0 2.77 2.23 5 5 5v-5h-5z"/>
+		<path style="opacity:.375;color:#000000;fill:url(#radialGradient4086)" d="m47 43c0 4.9706 3.5817 9 8 9v-4c-2.77 0-5-2.23-5-5h-3z"/>
 	</g>
 	<g id="topright" transform="translate(3 -6)">
-		<path id="path4052" style="opacity:.75;fill:none" d="m90 13c0-2.77-2.23-5-5-5v5h5z"/>
-		<path id="path4072" style="opacity:.375;color:#000000;fill:url(#radialGradient4088)" d="m85 6c4.4183 0 8 3.134 8 7h-3c0-2.77-2.23-5-5-5v-2z"/>
+		<path style="opacity:.75;fill:none" d="m90 13c0-2.77-2.23-5-5-5v5h5z"/>
+		<path style="opacity:.375;color:#000000;fill:url(#radialGradient4088)" d="m85 6c4.4183 0 8 3.134 8 7h-3c0-2.77-2.23-5-5-5v-2z"/>
 	</g>
 	<g id="right" transform="translate(3 -6)">
-		<rect id="rect4056" style="opacity:.75;fill:none" height="30" width="5" y="13" x="85"/>
-		<rect id="rect4074" style="opacity:.375;fill:url(#linearGradient4090);fill-rule:evenodd" transform="scale(-1,1)" height="30" width="3" y="13" x="-93"/>
+		<rect style="opacity:.75;fill:none" height="30" width="5" y="13" x="85"/>
+		<rect style="opacity:.375;fill:url(#linearGradient4090);fill-rule:evenodd" transform="scale(-1,1)" height="30" width="3" y="13" x="-93"/>
 	</g>
 	<g id="bottomright" transform="translate(3 -6)">
-		<path id="path4050" style="opacity:.75;fill:none" d="m90 43c0 2.77-2.23 5-5 5v-5h5z"/>
-		<path id="path4076" style="opacity:.375;color:#000000;fill:url(#radialGradient4092)" d="m93 43c0 4.9706-3.5817 9-8 9v-4c2.77 0 5-2.23 5-5h3z"/>
+		<path style="opacity:.75;fill:none" d="m90 43c0 2.77-2.23 5-5 5v-5h5z"/>
+		<path style="opacity:.375;color:#000000;fill:url(#radialGradient4092)" d="m93 43c0 4.9706-3.5817 9-8 9v-4c2.77 0 5-2.23 5-5h3z"/>
 	</g>
 	<rect id="center" style="fill:currentColor" class="ColorScheme-Background" height="30" width="30" y="7" x="58"/>
 	<g id="mask-topleft" transform="translate(3 -6)">
-		<path id="path3158" style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m0 13c0-2.77 2.23-5 5-5v5h-5z"/>
-		<path id="path3180" style="opacity:.375;color:#000000;fill:#000000" d="m5 8c-2.7614 0-5 2.239-5 5h2c0-1.657 1.3431-3 3-3v-2z"/>
-		<rect id="rect4250" style="fill:none" height="7" width="8" y="6" x="-3"/>
+		<path style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m0 13c0-2.77 2.23-5 5-5v5h-5z"/>
+		<path style="opacity:.375;color:#000000;fill:#000000" d="m5 8c-2.7614 0-5 2.239-5 5h2c0-1.657 1.3431-3 3-3v-2z"/>
+		<rect style="fill:none" height="7" width="8" y="6" x="-3"/>
 	</g>
 	<g id="mask-topright" transform="translate(3 -6)">
-		<path id="path3162" style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m40 13c0-2.77-2.23-5-5-5v5h5z"/>
-		<path id="path3188" style="opacity:.375;color:#000000;fill:#000000" d="m35 8c2.7614 0 5 2.2386 5 5h-2c0-1.6569-1.3431-3-3-3v-2z"/>
-		<rect id="rect4252" style="fill:none" height="7" width="8" y="6" x="35"/>
+		<path style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m40 13c0-2.77-2.23-5-5-5v5h5z"/>
+		<path style="opacity:.375;color:#000000;fill:#000000" d="m35 8c2.7614 0 5 2.2386 5 5h-2c0-1.6569-1.3431-3-3-3v-2z"/>
+		<rect style="fill:none" height="7" width="8" y="6" x="35"/>
 	</g>
 	<g id="mask-bottomright" transform="translate(3 -6)">
-		<path id="path3160" style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m40 43c0 2.77-2.23 5-5 5v-5h5z"/>
-		<path id="path3190" style="opacity:.375;color:#000000;fill:#000000" d="m35 48c2.7614 0 5-2.2386 5-5h-2c0 1.6569-1.3431 3-3 3v2z"/>
-		<rect id="rect4254" style="fill:none" height="9" width="8" y="43" x="35"/>
+		<path style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m40 43c0 2.77-2.23 5-5 5v-5h5z"/>
+		<path style="opacity:.375;color:#000000;fill:#000000" d="m35 48c2.7614 0 5-2.2386 5-5h-2c0 1.6569-1.3431 3-3 3v2z"/>
+		<rect style="fill:none" height="9" width="8" y="43" x="35"/>
 	</g>
 	<g id="mask-bottomleft" transform="translate(3 -6)">
-		<path id="rect3151" style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m0 43c0 2.77 2.23 5 5 5v-5h-5z"/>
-		<path id="path3192" style="opacity:.375;color:#000000;fill:#000000" d="m5 48c-2.7614 0-5-2.2386-5-5h2c0 1.6569 1.3431 3 3 3v2z"/>
-		<rect id="rect4256" style="fill:none" height="9" width="8" y="43" x="-3"/>
+		<path style="opacity:.875;fill:#000000;fill-rule:evenodd" d="m0 43c0 2.77 2.23 5 5 5v-5h-5z"/>
+		<path style="opacity:.375;color:#000000;fill:#000000" d="m5 48c-2.7614 0-5-2.2386-5-5h2c0 1.6569 1.3431 3 3 3v2z"/>
+		<rect style="fill:none" height="9" width="8" y="43" x="-3"/>
 	</g>
 	<g id="mask-left" transform="translate(3 -6)">
-		<rect id="rect3170" style="opacity:.875;fill:#000000;fill-rule:evenodd" height="30" width="5" y="13" x="0"/>
-		<rect id="rect3178" style="opacity:.375;fill:#000000;fill-rule:evenodd" height="30" width="2" y="13" x="0"/>
-		<rect id="rect4258" style="fill:none" height="30" width="3" y="13" x="-3"/>
+		<rect style="opacity:.875;fill:#000000;fill-rule:evenodd" height="30" width="5" y="13" x="0"/>
+		<rect style="opacity:.375;fill:#000000;fill-rule:evenodd" height="30" width="2" y="13" x="0"/>
+		<rect style="fill:none" height="30" width="3" y="13" x="-3"/>
 	</g>
 	<g id="mask-bottom" transform="translate(3 -6)">
-		<rect id="rect3168" style="opacity:.875;fill:#000000;fill-rule:evenodd" height="5" width="30" y="43" x="5"/>
-		<rect id="rect3176" style="opacity:.375;fill:#000000;fill-rule:evenodd" height="2" width="30" y="46" x="5"/>
-		<rect id="rect4260" style="fill:none" height="4" width="30" y="48" x="5"/>
+		<rect style="opacity:.875;fill:#000000;fill-rule:evenodd" height="5" width="30" y="43" x="5"/>
+		<rect style="opacity:.375;fill:#000000;fill-rule:evenodd" height="2" width="30" y="46" x="5"/>
+		<rect style="fill:none" height="4" width="30" y="48" x="5"/>
 	</g>
 	<g id="mask-right" transform="translate(3 -6)">
-		<rect id="rect3166" style="opacity:.875;fill:#000000;fill-rule:evenodd" height="30" width="5" y="13" x="35"/>
-		<rect id="rect3174" style="opacity:.375;fill:#000000;fill-rule:evenodd" height="30" width="2" y="13" x="38"/>
-		<rect id="rect4262" style="fill:none" height="30" width="3" y="13" x="40"/>
+		<rect style="opacity:.875;fill:#000000;fill-rule:evenodd" height="30" width="5" y="13" x="35"/>
+		<rect style="opacity:.375;fill:#000000;fill-rule:evenodd" height="30" width="2" y="13" x="38"/>
+		<rect style="fill:none" height="30" width="3" y="13" x="40"/>
 	</g>
 	<g id="mask-top" transform="translate(3 -6)">
-		<rect id="rect3164" style="opacity:.875;fill:#000000;fill-rule:evenodd" height="5" width="30" y="8" x="5"/>
-		<rect id="rect3172" style="opacity:.375;fill:#000000;fill-rule:evenodd" height="2" width="30" y="8" x="5"/>
-		<rect id="rect4264" style="fill:none" height="2" width="30" y="6" x="5"/>
+		<rect style="opacity:.875;fill:#000000;fill-rule:evenodd" height="5" width="30" y="8" x="5"/>
+		<rect style="opacity:.375;fill:#000000;fill-rule:evenodd" height="2" width="30" y="8" x="5"/>
+		<rect style="fill:none" height="2" width="30" y="6" x="5"/>
 	</g>
 </svg>

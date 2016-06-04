@@ -29,23 +29,23 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="22-22-window-close" transform="translate(-356.91,-384.12)">
-		<rect id="rect4948" style="opacity:.375;fill:none" height="22" width="22" y="384.12" x="356.91"/>
-		<path id="path4189" class="ColorScheme-Text" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m374.91 388.12-14 14m0-14 14 14"/>
+		<rect style="opacity:.375;fill:none" height="22" width="22" y="384.12" x="356.91"/>
+		<path class="ColorScheme-Text" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m374.91 388.12-14 14m0-14 14 14"/>
 	</g>
 	<g id="window-pin">
-		<rect id="rect4193" style="fill:none" height="8" width="8" y="2" x="-36"/>
-		<path id="path4199" class="ColorScheme-Text" style="opacity:.875;stroke:currentColor;stroke-width:.99938;stroke-linecap:round;fill:none" d="m-35.495 9.4953 3.4953-3.5004 3.4953 3.5004m-6.9905-3.0003 3.4953-3.5004 3.4953 3.5004"/>
+		<rect style="fill:none" height="8" width="8" y="2" x="-36"/>
+		<path class="ColorScheme-Text" style="opacity:.875;stroke:currentColor;stroke-width:.99938;stroke-linecap:round;fill:none" d="m-35.495 9.4953 3.4953-3.5004 3.4953 3.5004m-6.9905-3.0003 3.4953-3.5004 3.4953 3.5004"/>
 	</g>
 	<g id="window-unpin">
-		<rect id="rect4195" style="fill:none" height="8" width="8" y="2" x="-24"/>
-		<path id="path4204" class="ColorScheme-Text" style="opacity:.875;stroke:currentColor;stroke-width:.99938;stroke-linecap:round;fill:none" d="m-23.495 9.4953 3.495-3.5004 3.495 3.5004m-6.99-3.0004 3.495-3.5004l3.4953 3.5004"/>
+		<rect style="fill:none" height="8" width="8" y="2" x="-24"/>
+		<path class="ColorScheme-Text" style="opacity:.875;stroke:currentColor;stroke-width:.99938;stroke-linecap:round;fill:none" d="m-23.495 9.4953 3.495-3.5004 3.495 3.5004m-6.99-3.0004 3.495-3.5004l3.4953 3.5004"/>
 	</g>
 	<g id="window-close" transform="translate(-356.91,-409.12)">
-		<rect id="rect3347" style="opacity:.375;fill:none" height="32" width="32" y="375.12" x="356.91"/>
-		<path id="path3349" d="m384.91 379.12-24 24m0-24 24 24" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+		<rect style="opacity:.375;fill:none" height="32" width="32" y="375.12" x="356.91"/>
+		<path d="m384.91 379.12-24 24m0-24 24 24" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="16-16-window-close" transform="translate(-356.91,-360.12)">
-		<rect id="rect3353" style="opacity:.375;fill:none" height="16" width="16" y="390.12" x="356.91"/>
-		<path id="path3355" style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m369.91 393.12-10 10m0-10 10 10" class="ColorScheme-Text"/>
+		<rect style="opacity:.375;fill:none" height="16" width="16" y="390.12" x="356.91"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m369.91 393.12-10 10m0-10 10 10" class="ColorScheme-Text"/>
 	</g>
 </svg>

@@ -27,11 +27,11 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="vertical-line">
-		<rect id="rect3338" style="opacity:0.187;fill:none" height="24" width="1" y="-2" x="10"/>
-		<path id="path3344" style="opacity:.375;fill:currentColor" d="m11 10c0 5 0 10-.5 10s-.5-5-.5-10 0-10 .5-10 .5 5 .5 10z" class="ColorScheme-Text"/>
+		<rect style="opacity:0.187;fill:none" height="24" width="1" y="-2" x="10"/>
+		<path style="opacity:.375;fill:currentColor" d="m11 10c0 5 0 10-.5 10s-.5-5-.5-10 0-10 .5-10 .5 5 .5 10z" class="ColorScheme-Text"/>
 	</g>
 	<g id="horizontal-line" transform="matrix(0,1,-1,0,20,-1)">
-		<rect id="rect3348" style="opacity:0.187;fill:none" height="24" width="1" y="-2" x="10"/>
-		<path id="path3350" d="m11 10c0 5 0 10-.5 10s-.5-5-.5-10 0-10 .5-10 .5 5 .5 10z" class="ColorScheme-Text" style="opacity:.375;fill:currentColor"/>
+		<rect style="opacity:0.187;fill:none" height="24" width="1" y="-2" x="10"/>
+		<path d="m11 10c0 5 0 10-.5 10s-.5-5-.5-10 0-10 .5-10 .5 5 .5 10z" class="ColorScheme-Text" style="opacity:.375;fill:currentColor"/>
 	</g>
 </svg>

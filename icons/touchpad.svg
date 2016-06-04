@@ -29,19 +29,19 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="22-22-touchpad_enabled" transform="translate(-1,27)">
-		<rect id="rect3393" style="opacity:.125;fill:none" height="22" width="22" y="-27" x="1"/>
-		<path id="path4226" d="m3-24c-.554 0-1 .446-1 1v9h20v-9c0-.554-.446-1-1-1h-18zm-1 12v3c0 .554.446 1 1 1h8v-4h-9zm11 0v4h8c.554 0 1-.446 1-1v-3h-9z" style="opacity:.875;fill:currentColor" class="ColorScheme-Text"/>
+		<rect style="opacity:.125;fill:none" height="22" width="22" y="-27" x="1"/>
+		<path d="m3-24c-.554 0-1 .446-1 1v9h20v-9c0-.554-.446-1-1-1h-18zm-1 12v3c0 .554.446 1 1 1h8v-4h-9zm11 0v4h8c.554 0 1-.446 1-1v-3h-9z" style="opacity:.875;fill:currentColor" class="ColorScheme-Text"/>
 	</g>
 	<g id="22-22-touchpad_disabled" transform="translate(-1,27)">
-		<rect id="rect4208" style="opacity:.125;fill:none" height="22" width="22" y="-27" x="24"/>
-		<path id="path4224" d="m26-24c-.554 0-1 .446-1 1v9h20v-9c0-.554-.446-1-1-1h-18zm-1 12v3c0 .554.446 1 1 1h8v-4h-9zm11 0v4h8c.554 0 1-.446 1-1v-3h-9z" style="opacity:.375;fill:currentColor" class="ColorScheme-Text"/>
+		<rect style="opacity:.125;fill:none" height="22" width="22" y="-27" x="24"/>
+		<path d="m26-24c-.554 0-1 .446-1 1v9h20v-9c0-.554-.446-1-1-1h-18zm-1 12v3c0 .554.446 1 1 1h8v-4h-9zm11 0v4h8c.554 0 1-.446 1-1v-3h-9z" style="opacity:.375;fill:currentColor" class="ColorScheme-Text"/>
 	</g>
 	<g id="touchpad_enabled">
-		<rect id="rect3342" style="fill:none" height="32" width="32" y="-34" x="0"/>
-		<path id="rect4144" d="m3-29c-.554 0-.96053.44741-1 1v14h28v-14c0-.554-.446-1-1-1zm-1 17v4c0 .554.446 1 1 1h12v-5zm15 0v5h12c.554 0 1-.446 1-1v-4z" style="opacity:.875;fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="32" width="32" y="-34" x="0"/>
+		<path d="m3-29c-.554 0-.96053.44741-1 1v14h28v-14c0-.554-.446-1-1-1zm-1 17v4c0 .554.446 1 1 1h12v-5zm15 0v5h12c.554 0 1-.446 1-1v-4z" style="opacity:.875;fill-rule:evenodd;fill:currentColor" class="ColorScheme-Text"/>
 	</g>
 	<g id="touchpad_disabled">
-		<rect id="rect4155" style="fill:none" height="32" width="32" y="-34" x="32"/>
-		<path id="path4157" style="opacity:.375;fill-rule:evenodd;fill:currentColor" d="m35-29c-.554 0-.96053.44741-1 1v14h28v-14c0-.554-.446-1-1-1zm-1 17v4c0 .554.446 1 1 1h12v-5zm15 0v5h12c.554 0 1-.446 1-1v-4z" class="ColorScheme-Text"/>
+		<rect style="fill:none" height="32" width="32" y="-34" x="32"/>
+		<path style="opacity:.375;fill-rule:evenodd;fill:currentColor" d="m35-29c-.554 0-.96053.44741-1 1v14h28v-14c0-.554-.446-1-1-1zm-1 17v4c0 .554.446 1 1 1h12v-5zm15 0v5h12c.554 0 1-.446 1-1v-4z" class="ColorScheme-Text"/>
 	</g>
 </svg>

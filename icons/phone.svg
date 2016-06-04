@@ -29,8 +29,8 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="phone" transform="translate(-1 -1)">
-		<rect id="rect3793" style="opacity:.375;fill:none" ry=".5" height="22" width="22" y="1" x="1"/>
-		<path id="rect3757" class="ColorScheme-Text" style="fill:currentColor;opacity:.875" d="m8 5c-1.108 0-2 .892-2 2v14c0 1.108.892 2 2 2h8c1.108 0 2-.892 2-2v-14c0-1.108-.892-2-2-2h-8zm-1 2h10v13h-10v-13zm4.5 14h1c.277 0 .5.223.5.5s-.223.5-.5.5h-1c-.277 0-.5-.223-.5-.5s.223-.5.5-.5z"/>
-		<path id="path3767" class="ColorScheme-Text" style="stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:1px;opacity:.875" d="m16 1.5c3.0376 0 5.5 2.4624 5.5 5.5m-5.5-3.5c1.933 0 3.5 1.567 3.5 3.5"/>
+		<rect style="opacity:.375;fill:none" ry=".5" height="22" width="22" y="1" x="1"/>
+		<path class="ColorScheme-Text" style="fill:currentColor;opacity:.875" d="m8 5c-1.108 0-2 .892-2 2v14c0 1.108.892 2 2 2h8c1.108 0 2-.892 2-2v-14c0-1.108-.892-2-2-2h-8zm-1 2h10v13h-10v-13zm4.5 14h1c.277 0 .5.223.5.5s-.223.5-.5.5h-1c-.277 0-.5-.223-.5-.5s.223-.5.5-.5z"/>
+		<path class="ColorScheme-Text" style="stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:1px;opacity:.875" d="m16 1.5c3.0376 0 5.5 2.4624 5.5 5.5m-5.5-3.5c1.933 0 3.5 1.567 3.5 3.5"/>
 	</g>
 </svg>

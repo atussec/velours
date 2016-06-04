@@ -29,7 +29,7 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="kteatime" transform="translate(-1,-1)">
-		<rect id="rect2994" style="opacity:.125;fill:none" height="22" width="22" y="1" x="1"/>
-		<path id="path3778" style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m2 18c0 1.1046 4.4772 2 10 2s10-.89543 10-2h-20zm3-13v1c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4v1c0 1.108.892 2 2 2h10c1.108 0 1.9723-.89235 2-2v-4-4-2h-2-10zm0 2v4 2c-1.3206 0-2.4062-1.343-2.4062-3 0-1.6569 1.0856-3 2.4062-3z"/>
+		<rect style="opacity:.125;fill:none" height="22" width="22" y="1" x="1"/>
+		<path style="fill:currentColor;opacity:.875" class="ColorScheme-Text" d="m2 18c0 1.1046 4.4772 2 10 2s10-.89543 10-2h-20zm3-13v1c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4v1c0 1.108.892 2 2 2h10c1.108 0 1.9723-.89235 2-2v-4-4-2h-2-10zm0 2v4 2c-1.3206 0-2.4062-1.343-2.4062-3 0-1.6569 1.0856-3 2.4062-3z"/>
 	</g>
 </svg>

@@ -29,11 +29,11 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="22-22-konversation" transform="translate(27 -1)">
-		<rect id="rect2995" style="opacity:.375;fill:none" height="22" width="22" y="1" x="-27"/>
-		<path id="path3765" d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.075 4.9249 11 11 11h11v-11c0-6.0751-4.925-11-11-11zm0 2c4.9706 0 9 4.0294 9 9v9h-9c-4.9706 0-9-4.029-9-9 0-4.9706 4.0294-9 9-9z" style="opacity:.875;fill:currentColor" transform="translate(-28 .0000019073)" class="ColorScheme-Text"/>
+		<rect style="opacity:.375;fill:none" height="22" width="22" y="1" x="-27"/>
+		<path d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.075 4.9249 11 11 11h11v-11c0-6.0751-4.925-11-11-11zm0 2c4.9706 0 9 4.0294 9 9v9h-9c-4.9706 0-9-4.029-9-9 0-4.9706 4.0294-9 9-9z" style="opacity:.875;fill:currentColor" transform="translate(-28 .0000019073)" class="ColorScheme-Text"/>
 	</g>
 	<g id="konversation">
-		<rect id="rect3345" style="opacity:.875;fill:none" height="32" width="32" y="-34" x="0"/>
-		<path id="path4149" style="opacity:.875;fill-rule:evenodd;fill:currentColor" d="m16-33a15 15 0 0 0 -15 15 15 15 0 0 0 15 15h15v-15a15 15 0 0 0 -15 -15zm0 2a13 13 0 0 1 13 13v13h-13a13 13 0 0 1 -13 -13 13 13 0 0 1 13 -13z" class="ColorScheme-Text"/>
+		<rect style="opacity:.875;fill:none" height="32" width="32" y="-34" x="0"/>
+		<path style="opacity:.875;fill-rule:evenodd;fill:currentColor" d="m16-33a15 15 0 0 0 -15 15 15 15 0 0 0 15 15h15v-15a15 15 0 0 0 -15 -15zm0 2a13 13 0 0 1 13 13v13h-13a13 13 0 0 1 -13 -13 13 13 0 0 1 13 -13z" class="ColorScheme-Text"/>
 	</g>
 </svg>

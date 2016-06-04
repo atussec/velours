@@ -57,24 +57,24 @@
 		<rect id="active" style="opacity:0" height="20" width="20" y="308.44" x="-408.66"/>
 		<rect id="inactive" style="opacity:0.062;fill:#ffffff" height="20" width="20" y="308.44" x="-430.66"/>
 		<g id="green">
-			<rect id="rect3955" style="opacity:.25;fill:url(#linearGradient4061)" height="20" width="20" y="330.44" x="-430.66"/>
-			<rect id="rect4007" style="fill:url(#radialGradient4063)" transform="translate(-430.66 298.44)" height="2" width="20" y="50" x="0"/>
+			<rect style="opacity:.25;fill:url(#linearGradient4061)" height="20" width="20" y="330.44" x="-430.66"/>
+			<rect style="fill:url(#radialGradient4063)" transform="translate(-430.66 298.44)" height="2" width="20" y="50" x="0"/>
 		</g>
 		<g id="selected">
-			<rect id="rect3957" style="opacity:.25;fill:url(#linearGradient4057)" height="20" width="20" y="330.44" x="-408.66"/>
-			<rect id="rect4025" style="fill:url(#radialGradient4059)" height="2" width="20" y="348.44" x="-408.66"/>
+			<rect style="opacity:.25;fill:url(#linearGradient4057)" height="20" width="20" y="330.44" x="-408.66"/>
+			<rect style="fill:url(#radialGradient4059)" height="2" width="20" y="348.44" x="-408.66"/>
 		</g>
 		<g id="today">
-			<rect id="rect3961" style="opacity:.25;fill:url(#linearGradient4053)" height="20" width="20" y="352.44" x="-408.66"/>
-			<rect id="rect4029" style="fill:url(#radialGradient4055)" height="2" width="20" y="370.44" x="-408.66"/>
+			<rect style="opacity:.25;fill:url(#linearGradient4053)" height="20" width="20" y="352.44" x="-408.66"/>
+			<rect style="fill:url(#radialGradient4055)" height="2" width="20" y="370.44" x="-408.66"/>
 		</g>
 		<g id="red">
-			<rect id="rect3959" style="opacity:.25;fill:url(#linearGradient4065)" height="20" width="20" y="352.44" x="-430.66"/>
-			<rect id="rect4033" style="fill:url(#radialGradient4067)" height="2" width="20" y="370.44" x="-430.66"/>
+			<rect style="opacity:.25;fill:url(#linearGradient4065)" height="20" width="20" y="352.44" x="-430.66"/>
+			<rect style="fill:url(#radialGradient4067)" height="2" width="20" y="370.44" x="-430.66"/>
 		</g>
 		<g id="hoverHighlight">
-			<rect id="rect3828" style="opacity:.25;fill:url(#radialGradient3891)" height="20" width="20" y="308.44" x="-386.66"/>
-			<path id="rect3819" style="opacity:0.062;fill:#ffffff" d="m44 54v20h20v-20h-20zm1 1h18v18h-18v-18z" transform="translate(-430.66 254.44)"/>
+			<rect style="opacity:.25;fill:url(#radialGradient3891)" height="20" width="20" y="308.44" x="-386.66"/>
+			<path style="opacity:0.062;fill:#ffffff" d="m44 54v20h20v-20h-20zm1 1h18v18h-18v-18z" transform="translate(-430.66 254.44)"/>
 		</g>
 	</g>
 </svg>

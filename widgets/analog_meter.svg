@@ -47,14 +47,14 @@
 	<rect id="rotateminmax" style="fill-rule:evenodd;fill:#278000" height="90" width="270" y="-102.76" x="-.70711"/>
 	<rect id="rotatecenter" style="fill:none" height="2" width="2" y="24" x="24"/>
 	<g id="background">
-		<rect id="rect4124" style="fill:none" height="27" width="50" y="0" x="0"/>
-		<path id="path3185" style="color:#000000;opacity:.875;fill:url(#radialGradient4426)" d="m25 2c-12.703 0-23 10.297-23 23l18.281 1.5938c-.171-.505-.281-1.031-.281-1.594 0-2.7614 2.2386-5 5-5s5 2.2386 5 5c0 .56264-.1099 1.089-.28125 1.5938l18.281-1.594c0-12.703-10.297-23-23-23z"/>
-		<rect id="rect3042" style="opacity:.5;fill:#ffffff" height="8" width="40" y="30" x="5"/>
-		<path id="path4163" style="opacity:.375;fill:url(#radialGradient4179)" d="m20 24.333v1.667c0 2.7614 2.2386 5 5 5s5-2.2386 5-5v-1.6666z"/>
-		<path id="path72" style="fill:url(#linearGradient3469)" d="m30 25a5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5 5 5 0 0 1 5 5z"/>
+		<rect style="fill:none" height="27" width="50" y="0" x="0"/>
+		<path style="color:#000000;opacity:.875;fill:url(#radialGradient4426)" d="m25 2c-12.703 0-23 10.297-23 23l18.281 1.5938c-.171-.505-.281-1.031-.281-1.594 0-2.7614 2.2386-5 5-5s5 2.2386 5 5c0 .56264-.1099 1.089-.28125 1.5938l18.281-1.594c0-12.703-10.297-23-23-23z"/>
+		<rect style="opacity:.5;fill:#ffffff" height="8" width="40" y="30" x="5"/>
+		<path style="opacity:.375;fill:url(#radialGradient4179)" d="m20 24.333v1.667c0 2.7614 2.2386 5 5 5s5-2.2386 5-5v-1.6666z"/>
+		<path style="fill:url(#linearGradient3469)" d="m30 25a5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5 5 5 0 0 1 5 5z"/>
 	</g>
 	<g id="pointer" transform="matrix(0,-1,1,0,0,50)">
-		<rect id="rect3977" style="fill:none" height="50" width="50" y="0" x="0"/>
-		<path id="path3961" class="ColorScheme-Highlight" style="fill:currentColor" d="m20.281 23.406-18.281 1.594 18.281 1.594c-.171-.505-.281-1.031-.281-1.594 0-.56264.10990-1.089.28125-1.5938z"/>
+		<rect style="fill:none" height="50" width="50" y="0" x="0"/>
+		<path class="ColorScheme-Highlight" style="fill:currentColor" d="m20.281 23.406-18.281 1.594 18.281 1.594c-.171-.505-.281-1.031-.281-1.594 0-.56264.10990-1.089.28125-1.5938z"/>
 	</g>
 </svg>
