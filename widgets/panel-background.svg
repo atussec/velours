@@ -243,7 +243,7 @@
 			<path d="m195.57 163.76c-2.7614 0-5 2.2386-5 5h2c0-1.6569 1.3431-3 3-3v-2z" style="opacity:.375;fill:currentColor"/>
 		</g>
 		<g id="east-bottomleft" transform="translate(-261 -239)">
-			<path style="opacity:.375;color:#000000;fill:#000000" d="m356 322c-2.7614 0-5-2.2386-5-5h2c0 1.6568 1.3431 3 3 3v2z"/>
+			<path style="opacity:.375;fill:currentColor" d="m356 322c-2.7614 0-5-2.2386-5-5h2c0 1.6568 1.3431 3 3 3v2z"/>
 			<path d="m351 317c0 2.77 2.23 5 5 5v-5h-5z" style="opacity:.875;fill-rule:evenodd;fill:currentColor"/>
 		</g>
 		<rect id="east-hint-top-margin" style="fill:#007b00;fill-opacity:.79608" transform="rotate(90)" height="4" width="2" y="-110" x="43"/>
