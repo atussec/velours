@@ -328,8 +328,8 @@
 		<rect id="south-progress-right" style="fill:none" height="18" width="1" y="121" x="65"/>
 		<rect id="south-progress-hint-bottom-margin" style="fill:#008002" height="2" width="8" y="139" x="29"/>
 	</g>
-		<rect id="east-progress-center" style="opacity:.187;fill:currentColor" height="64" width="18" y="-73" x="197"/>
-		<rect id="west-progress-center" style="opacity:.187;fill:currentColor" transform="scale(-1)" height="64" width="18" y="9" x="131"/>
+	<rect id="east-progress-center" class="ColorScheme-Highlight" style="opacity:.375;fill:currentColor" height="64" width="18" y="-73" x="197"/>
+	<rect id="west-progress-center" class="ColorScheme-Highlight" style="opacity:.375;fill:currentColor" transform="scale(-1)" height="64" width="18" y="9" x="131"/>
 	<g id="north-attention" class="ColorScheme-Highlight">
 		<rect id="north-progress-top" style="fill:currentColor" transform="scale(-1)" height="2" width="64" y="226" x="-65"/>
 		<path id="north-progress-topright" style="fill:currentColor" d="m65-226a1 .99998 0 0 0 1 -.99998 1 .99998 0 0 0 -1 -.99998v2z"/>
