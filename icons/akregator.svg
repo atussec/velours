@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg id="RSSicon" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" viewBox="0 0 44 44" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-	<defs id="defs3615">
-		<style id="current-color-scheme" type="text/css">
-			.ColorScheme-Text { color:#0000FF; }
-		</style>
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#0000FF; }</style>
 	</defs>
-	<metadata id="metadata7">
+	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
 				<dc:format>image/svg+xml</dc:format>
@@ -28,15 +26,17 @@
 			</cc:License>
 		</rdf:RDF>
 	</metadata>
-	<rect style="opacity:.125;fill:#000000;fill-rule:evenodd" height="0" width="0" y="-2" x="-2"/>
-	<g id="22-22-akregator" transform="translate(-2,-2)">
-		<rect style="opacity:.125;fill:none" height="44" width="44" y="2" x="2"/>
-		<path class="ColorScheme-Text" style="opacity:.875;fill:currentColor" d="m10 6c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4c13.255 0 24 10.745 24 24 0 2.2091 1.7909 4 4 4s4-1.7909 4-4c0-17.673-14.327-32-32-32zm0 14c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4c5.5228 0 10 4.4772 10 10 0 2.2091 1.7909 4 4 4s4-1.7909 4-4c0-9.9411-8.0589-18-18-18zm0 14c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4-1.7909-4-4-4z"/>
+	<rect style="opacity:.125;fill-rule:evenodd;fill:#000000" height="0" width="0" y="-2" x="-2"/>
+	<g id="22-22-akregator" class="ColorScheme-Text" transform="translate(176)">
+		<rect style="opacity:.875;fill:none" height="44" width="44" y="0" x="-176"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m-76 18v-1.2656c0-3.731-3.003-6.734-6.734-6.734h-1.266" transform="scale(2)"/>
+		<path style="opacity:.875;stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m-70 18v-1c0-7.202-5.798-13-13-13h-1" transform="scale(2)"/>
+		<circle r="4" style="opacity:.875;fill-rule:evenodd;fill:currentColor" cx="-166" cy="34"/>
 	</g>
-	<g id="akregator">
+	<g id="akregator" class="ColorScheme-Text">
 		<rect style="opacity:.875;fill:none" height="64" width="64" y="-20" x="48"/>
-		<circle class="ColorScheme-Text" cx="58" cy="34" r="6" style="opacity:.875;fill-rule:evenodd;fill:currentColor"/>
-		<path class="ColorScheme-Text" d="m58 12c12.15 0 22 9.8497 22 22" style="opacity:.875;stroke-dashoffset:1;stroke:currentColor;stroke-linecap:round;stroke-width:12;fill:none"/>
-		<path class="ColorScheme-Text" d="m58-10c24.301 0 44 19.699 44 44" style="opacity:.875;stroke-dashoffset:1;stroke:currentColor;stroke-linecap:round;stroke-width:12;fill:none"/>
+		<circle cx="59" cy="33" r="5" style="fill-rule:evenodd;fill:currentColor;fill-opacity:.87843"/>
+		<path style="stroke-linejoin:round;stroke-opacity:.87843;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m51 18v-1c0-12.188-9.812-22-22-22h-1v-.97461c.332-.0141.665-.0254 1-.0254 12.742 0 23 10.258 23 23 0 .33532-.01132.66826-.02539 1z" transform="scale(2)"/>
+		<path style="stroke-linejoin:round;stroke-opacity:.87843;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m41 18v-1c0-6.648-5.352-12-12-12h-1v-.9492c.331-.0251.662-.0508 1-.0508 7.202 0 13 5.798 13 13 0 .33794-.0257.66870-.05078 1z" transform="scale(2)"/>
 	</g>
 </svg>
