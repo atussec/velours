@@ -36,7 +36,8 @@
 				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
 			</cc:License>
 		</rdf:RDF>
-	</metadata>
+		</metadata>
+	<rect id="hint-stretch-borders" style="fill:#008000" ry="0" height="5" width="5" y="-13" x="-16"/>
 	<g id="picker" class="ColorScheme-Text" transform="translate(-20)">
 		<rect id="center" style="fill:url(#linearGradient4715)" transform="scale(1,-1)" height="10" width="10" y="-13" x="23"/>
 		<g id="topleft" transform="translate(-16)">
