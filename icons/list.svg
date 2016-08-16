@@ -3,6 +3,7 @@
 	<defs id="defs81">
 		<style id="current-color-scheme" type="text/css">
 			.ColorScheme-Text { color:#0000FF; }
+			.ColorScheme-Highlight { color:#FF00FF; }
 		</style>
 	</defs>
 	<metadata id="metadata7">
@@ -29,27 +30,27 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="list-add" transform="matrix(1.3333 0 0 1.3333 -6.6667 -32.667)">
-		<rect style="opacity:.875;fill:none" height="24" width="24" y="-1" x="-1"/>
+		<rect style="fill:none" height="24" width="24" y="-1" x="-1"/>
 		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m17.75 11h-13.5m6.75-6.75v13.5" class="ColorScheme-Text"/>
 	</g>
 	<g id="22-22-list-add">
-		<rect style="opacity:.875;fill:none" height="22" width="22" y="0" x="0"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="0"/>
 		<path d="m18 11h-14m7-7v14" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
 	</g>
 	<g id="16-16-list-add" transform="matrix(.72727 0 0 .72727 8 22)">
-		<rect style="opacity:.875;fill:none" height="22" width="22" y="0" x="0"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="0"/>
 		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2.75;fill:none" d="m17.875 11h-13.75m6.875-6.875v13.75" class="ColorScheme-Text"/>
 	</g>
-	<g id="list-remove" transform="matrix(1.3333 0 0 1.3333 -8 -32.667)">
-		<rect style="opacity:.875;fill:none" height="24" width="24" y="-1" x="24"/>
-		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m42.75 11h-13.5" class="ColorScheme-Text"/>
+	<g id="list-remove" class="ColorScheme-Highlight" transform="matrix(1.3333 0 0 1.3333 -8 -32.667)">
+		<rect style="fill:none" height="24" width="24" y="-1" x="24"/>
+		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m42.75 11h-13.5"/>
 	</g>
-	<g id="22-22-list-remove">
-		<rect style="opacity:.875;fill:none" height="22" width="22" y="0" x="25"/>
-		<path d="m43 11h-14" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" class="ColorScheme-Text"/>
+	<g id="22-22-list-remove" class="ColorScheme-Highlight">
+		<rect style="fill:none" height="22" width="22" y="0" x="25"/>
+		<path d="m43 11h-14" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none"/>
 	</g>
-	<g id="16-16-list-remove" transform="matrix(.72727 0 0 .72727 6 22)">
-		<rect style="opacity:.875;fill:none" height="22" width="22" y="0" x="25"/>
-		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2.75;fill:none" d="m42.625 11h-13.75" class="ColorScheme-Text"/>
+	<g id="16-16-list-remove" class="ColorScheme-Highlight" transform="matrix(.72727 0 0 .72727 6 22)">
+		<rect style="fill:none" height="22" width="22" y="0" x="25"/>
+		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2.75;fill:none" d="m42.625 11h-13.75"/>
 	</g>
 </svg>
