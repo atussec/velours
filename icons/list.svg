@@ -43,14 +43,14 @@
 	</g>
 	<g id="list-remove" class="ColorScheme-Highlight" transform="matrix(1.3333 0 0 1.3333 -8 -32.667)">
 		<rect style="fill:none" height="24" width="24" y="-1" x="24"/>
-		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m42.75 11h-13.5"/>
+		<path style="stroke:currentColor;stroke-linecap:round;stroke-width:1.5;fill:none" d="m42.75 11h-13.5"/>
 	</g>
 	<g id="22-22-list-remove" class="ColorScheme-Highlight">
 		<rect style="fill:none" height="22" width="22" y="0" x="25"/>
-		<path d="m43 11h-14" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none"/>
+		<path d="m43 11h-14" style="stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none"/>
 	</g>
 	<g id="16-16-list-remove" class="ColorScheme-Highlight" transform="matrix(.72727 0 0 .72727 6 22)">
 		<rect style="fill:none" height="22" width="22" y="0" x="25"/>
-		<path style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2.75;fill:none" d="m42.625 11h-13.75"/>
+		<path style="stroke:currentColor;stroke-linecap:round;stroke-width:2.75;fill:none" d="m42.625 11h-13.75"/>
 	</g>
 </svg>

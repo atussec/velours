@@ -29,11 +29,11 @@
 		</rdf:RDF>
 	</metadata>
 	<g id="22-22-edit-delete" transform="translate(-25)">
-		<rect style="opacity:.875;fill:none" height="22" width="22" y="0" x="25"/>
-		<path class="ColorScheme-Highlight" style="opacity:.875;stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:2" d="m43 11h-14"/>
+		<rect style="fill:none" height="22" width="22" y="0" x="25"/>
+		<path class="ColorScheme-Highlight" style="stroke:currentColor;stroke-linecap:round;fill:none;stroke-width:2" d="m43 11h-14"/>
 	</g>
 	<g id="edit-delete">
 		<rect style="fill:none" height="32" width="32" y="-10" x="24"/>
-		<rect class="ColorScheme-Highlight" style="opacity:.875;fill:currentColor" ry="1" height="2" width="20" y="5" x="30"/>
+		<rect class="ColorScheme-Highlight" style="fill:currentColor" ry="1" height="2" width="20" y="5" x="30"/>
 	</g>
 </svg>
