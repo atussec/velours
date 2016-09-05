@@ -52,8 +52,8 @@
 	<g id="32-32-system-suspend" transform="translate(-72,32)">
 		<rect style="fill:none" height="32" width="32" y="-32" x="-56"/>
 		<circle style="opacity:.875;fill:currentColor" cx="-48" class="ColorScheme-Text" cy="-16" r="3"/>
-		<circle id="circle4211" style="opacity:.875;fill:currentColor" cx="-40" class="ColorScheme-Text" cy="-16" r="3"/>
-		<circle id="circle4213" style="opacity:.875;fill:currentColor" cx="-32" class="ColorScheme-Text" cy="-16" r="3"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-40" class="ColorScheme-Text" cy="-16" r="3"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-32" class="ColorScheme-Text" cy="-16" r="3"/>
 	</g>
 	<g id="32-32-system-suspend-hibernate" transform="translate(-40,32)">
 		<rect style="fill:none" height="32" width="32" y="-32" x="-56"/>
@@ -66,8 +66,8 @@
 	<g id="16-16-system-suspend">
 		<rect style="fill:none" height="16" width="16" y="-16" x="-120"/>
 		<circle style="opacity:.875;fill:currentColor" cx="-116" class="ColorScheme-Text" cy="-8" r="1"/>
-		<circle id="circle4187" style="opacity:.875;fill:currentColor" cx="-112" class="ColorScheme-Text" cy="-8" r="1"/>
-		<circle id="circle4189" style="opacity:.875;fill:currentColor" cx="-108" class="ColorScheme-Text" cy="-8" r="1"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-112" class="ColorScheme-Text" cy="-8" r="1"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-108" class="ColorScheme-Text" cy="-8" r="1"/>
 	</g>
 	<g id="16-16-system-lock-screen">
 		<rect style="fill:none" height="16" width="16" y="-16" x="-152"/>
@@ -110,9 +110,9 @@
 	</g>
 	<g id="system-suspend" transform="matrix(1.5,0,0,1.5,-84,80)">
 		<rect style="fill:none" height="32" width="32" y="-32" x="-56"/>
-		<circle id="circle3419" style="opacity:.875;fill:currentColor" cx="-48" class="ColorScheme-Text" cy="-16" r="2.6667"/>
-		<circle id="circle3421" style="opacity:.875;fill:currentColor" cx="-40" class="ColorScheme-Text" cy="-16" r="2.6667"/>
-		<circle id="circle3423" style="opacity:.875;fill:currentColor" cx="-32" class="ColorScheme-Text" cy="-16" r="2.6667"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-48" class="ColorScheme-Text" cy="-16" r="2.6667"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-40" class="ColorScheme-Text" cy="-16" r="2.6667"/>
+		<circle style="opacity:.875;fill:currentColor" cx="-32" class="ColorScheme-Text" cy="-16" r="2.6667"/>
 	</g>
 	<g id="system-suspend-hibernate" transform="matrix(1.5,0,0,1.5,-36,80)">
 		<rect style="fill:none" height="32" width="32" y="-32" x="-56"/>
