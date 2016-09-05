@@ -34,12 +34,12 @@
 		<rect style="opacity:.25;fill:none" height="22" width="22" y="-77" x="-33"/>
 		<path style="opacity:.875;fill:currentColor" d="m-20-74h6v16h-6zm-10 0h6v16h-6z" class="ColorScheme-Text"/>
 	</g>
-	<g id="22-22-busywidget" transform="translate(36)">
+	<g id="busywidget" transform="translate(36)">
 		<rect style="fill:none" height="22" width="22" y="0" x="-36"/>
 		<path class="ColorScheme-Text" d="m-25 1a10 10 0 0 0 -10 10 10 10 0 0 0 10 10 10 10 0 0 0 10 -10 10 10 0 0 0 -10 -10zm0 2a8 8 0 0 1 8 8 8 8 0 0 1 -8 8 8 8 0 0 1 -8 -8 8 8 0 0 1 8 -8z" style="opacity:0.187;fill-rule:evenodd;fill:currentColor"/>
 		<path class="ColorScheme-Highlight" d="m-31.364 4.636c3.5147-3.5147 9.2132-3.5147 12.728-2e-7" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none"/>
 	</g>
-	<g id="busywidget" transform="translate(36)">
+	<g id="32-32-busywidget" transform="translate(36)">
 		<rect style="fill:none" height="32" width="32" y="-34" x="-36"/>
 		<path class="ColorScheme-Text" style="opacity:0.187;fill-rule:evenodd;fill:currentColor" d="m-20-32a14 14 0 0 0 -14 14 14 14 0 0 0 14 14 14 14 0 0 0 14 -14 14 14 0 0 0 -14 -14zm0 2a12 12 0 0 1 12 12 12 12 0 0 1 -12 12 12 12 0 0 1 -12 -12 12 12 0 0 1 12 -12z"/>
 		<path class="ColorScheme-Highlight" style="opacity:.875;stroke:currentColor;stroke-linecap:round;stroke-width:2;fill:none" d="m-39.87 1.4142c0-7.1797 5.8203-13 13-13" transform="rotate(45)"/>
